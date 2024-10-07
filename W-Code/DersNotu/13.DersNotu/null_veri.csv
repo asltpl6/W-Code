@@ -1,0 +1,2093 @@
+adm_type,shift_from,ssc,yr_nae,m_no,sex,disease,D.O.A,D.O.D,status,consultant,L.O.S
+Shift From,ER,No,4,4,F,,1-Jan-22,7-Jan-22,Discharge,Sher Bahadar,6
+Shift From,Neu,No,5,5,F,,1-Jan-22,2-Jan-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,6,6,M,,1-Jan-22,3-Jan-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,7,7,M,,1-Jan-22,5-Jan-22,Discharge,Jabar Ali,4
+Shift From,ER,No,8,8,M,,1-Jan-22,3-Jan-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,9,9,M,,2-Jan-22,5-Jan-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,10,10,F,,2-Jan-22,7-Jan-22,Discharge,Tariq Nawaz,5
+Shift From,ER,No,11,11,M,,2-Jan-22,5-Jan-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,12,12,F,,2-Jan-22,10-Jan-22,Discharge,Malik Faisal,8
+Shift From,ER,No,28,28,M,,4-Jan-22,12-Jan-22,Expire,Tariq Nawaz,8
+Shift From,ER,No,29,29,F,,4-Jan-22,6-Jan-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,83,83,F,,8-Jan-22,9-Jan-22,Discharge,Malik Faisal,1
+Shift From,ER,No,84,84,F,,8-Jan-22,9-Jan-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,85,85,M,,8-Jan-22,15-Jan-22,Discharge,Samra Rehmat,7
+Shift From,ER,No,101,101,F,,10-Jan-22,12-Jan-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,117,117,F,,12-Jan-22,26-Jan-22,Discharge,Sher Bahadar,14
+Shift From,ER,No,118,118,M,,12-Jan-22,15-Jan-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,119,119,M,,12-Jan-22,14-Jan-22,Discharge,Jabar Ali,2
+Shift From,ER,No,120,120,M,,12-Jan-22,18-Jan-22,Discharge,Samra Rehmat,6
+Shift From,ER,No,121,121,M,,12-Jan-22,15-Jan-22,Discharge,Imran Khan,3
+Shift From,ER,No,122,122,F,,12-Jan-22,20-Jan-22,Discharge,Samra Rehmat,8
+Shift From,ER,No,123,123,F,,12-Jan-22,15-Jan-22,Discharge,Sher Bahadar,3
+Shift From,ER,No,124,124,F,,12-Jan-22,21-Jan-22,Discharge,Imran Khan,9
+Shift From,ER,No,152,152,M,,15-Jan-22,17-Jan-22,Discharge,Malik Faisal,2
+Shift From,ER,No,153,153,M,,15-Jan-22,16-Jan-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,154,154,M,,15-Jan-22,19-Jan-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,155,155,F,,16-Jan-22,16-Jan-22,Discharge,Ikram Ullah,0
+Shift From,ER,No,156,156,F,,16-Jan-22,19-Jan-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,157,157,F,,16-Jan-22,19-Jan-22,Discharge,Ikram Ullah,3
+Shift From,CV-pacu,No,167,167,F,,17-Jan-22,18-Jan-22,Shifted,Asif Iqbal,1
+Shift From,ER,No,169,169,F,,17-Jan-22,21-Jan-22,LAMA,Imran Khan,4
+Shift From,ER,No,170,170,M,,17-Jan-22,17-Jan-22,DOW,Jabar Ali,0
+Shift From,FMB,No,174,174,F,,18-Jan-22,29-Jan-22,Discharge,Tariq Nawaz,11
+Shift From,ER,No,179,179,M,,18-Jan-22,19-Jan-22,Discharge,Said Zaman,1
+Shift From,ER,No,180,180,M,,18-Jan-22,19-Jan-22,Discharge,Imran Khan,1
+Shift From,ER,No,181,181,F,,19-Jan-22,23-Jan-22,Expire,Jabar Ali,4
+Shift From,ER,No,182,182,F,,19-Jan-22,24-Jan-22,Discharge,Malik Faisal,5
+Shift From,ER,No,183,183,F,,19-Jan-22,20-Jan-22,Discharge,Jabar Ali,1
+Shift From,ER,No,184,184,F,,19-Jan-22,20-Jan-22,Discharge,Imran Khan,1
+Shift From,ER,No,185,185,M,,19-Jan-22,24-Jan-22,Discharge,Malik Faisal,5
+Shift From,ER,No,187,187,F,,19-Jan-22,26-Jan-22,Discharge,Samra Rehmat,7
+IBP,IBP,No,188,188,F,,19-Jan-22,20-Jan-22,Discharge,Jabar Ali,1
+Shift From,ER,No,189,189,F,,19-Jan-22,25-Jan-22,Discharge,Malik Faisal,6
+Shift From,ER,No,190,190,M,,19-Jan-22,29-Jan-22,Expire,Jabar Ali,10
+Shift From,ER,No,191,191,M,,19-Jan-22,21-Jan-22,Discharge,Imran Khan,2
+Shift From,ER,No,207,207,M,,21-Jan-22,21-Jan-22,Shifted,Samra Rehmat,0
+Shift From,ER,No,238,238,M,,24-Jan-22,25-Jan-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,248,248,F,,25-Jan-22,28-Jan-22,DOW,Sher Bahadar,3
+OPD,Cath/Opd,No,249,249,F,,25-Jan-22,26-Jan-22,Discharge,Said Zaman,1
+Shift From,ER,No,250,250,M,,25-Jan-22,27-Jan-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,251,251,F,,25-Jan-22,26-Jan-22,LAMA,Tariq Nawaz,1
+Shift From,ER,No,252,252,M,,25-Jan-22,27-Jan-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,256,256,M,,26-Jan-22,27-Jan-22,Discharge,Said Zaman,1
+Shift From,ER,No,257,257,M,,26-Jan-22,27-Jan-22,Discharge,Said Zaman,1
+Shift From,ER,No,258,258,M,,26-Jan-22,2-Feb-22,Shifted,Sher Bahadar,7
+Shift From,ER,No,259,259,M,,26-Jan-22,29-Jan-22,Discharge,Malik Faisal,3
+Shift From,ER,No,363,49,M,,4-Feb-22,7-Feb-22,Shifted,Jabar Ali,3
+Shift From,ER,No,435,121,M,,11-Feb-22,12-Feb-22,Discharge,Imran Khan,1
+Shift From,ER,No,450,136,M,,12-Feb-22,2/16/2022,Discharge,Imran Khan,4
+Shift From,ER,No,451,137,M,,13-Feb-22,21-Feb-22,Discharge,Imran Khan,8
+Shift From,ER,No,459,145,M,,13-Feb-22,14-Feb-22,Discharge,Malik Faisal,1
+Shift From,Gynae,No,486,172,F,,16-Feb-22,19-Feb-22,Discharge,Malik Faisal,3
+Shift From,ER,No,508,194,M,,18-Feb-22,19-Feb-22,LAMA,Malik Faisal,1
+Shift From,ER,No,540,226,F,,22-Feb-22,28-Feb-22,Discharge,Tariq Nawaz,6
+Shift From,bolton,No,542,228,F,,22-Feb-22,22-Feb-22,Shifted,Tariq Nawaz,0
+Shift From,GICU,No,589,275,F,,25-Feb-22,27-Feb-22,Discharge,Malik Faisal,2
+Shift From,ER,No,592,278,F,,25-Feb-22,26-Feb-22,Shifted,Ikram Ullah,1
+Shift From,ICU,No,624,310,F,,28-Feb-22,1-Mar-22,Discharge,Sadia Ilyas,1
+IBP,IBP,No,628,314,M,,28-Feb-22,1-Mar-22,Discharge,Ikram Ullah,1
+IBP,IBP,No,653,23,F,,2-Mar-22,3-Mar-22,Discharge,Jabar Ali,1
+Shift From,ER,No,672,42,M,,4-Mar-22,12-Mar-22,Discharge,Said Zaman,8
+Shift From,ER,No,678,48,F,,4-Mar-22,5-Mar-22,Discharge,Imran Khan,1
+Shift From,ER,No,683,53,F,,5-Mar-22,7-Mar-22,Discharge,Malik Faisal,2
+OPD ,OPD ,No,701,71,F,,7-Mar-22,8-Mar-22,Discharge,Adil,1
+Shift From,ER,No,757,127,F,,13-Mar-22,29-Mar-22,Discharge,Adil,16
+Shift From,PCW,No,770,140,M,,14-Mar-22,5-Apr-22,Expire,Sadia Ilyas,22
+Shift From,PCW,No,797,167,F,,16-Mar-22,17-Mar-22,Shifted,Sadia Ilyas,1
+Shift From,ER,No,827,197,M,,19-Mar-22,22-Mar-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,829,199,M,,20-Mar-22,22-Mar-22,Discharge,Ikram Ullah,2
+OPD,OPD,No,852,222,M,,22-Mar-22,23-Mar-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,854,224,M,,22-Mar-22,29-Mar-22,Discharge,Imran Khan,7
+IBP,IBP,No,855,225,M,,22-Mar-22,23-Mar-22,Discharge,Said Zaman,1
+OPD,OPD,No,883,253,F,,25-Mar-22,26-Mar-22,Discharge,Malik Faisal,1
+IBP,IBP,No,884,254,M,,25-Mar-22,26-Mar-22,Discharge,Malik Faisal,1
+Shift From,ER,No,924,294,F,,29-Mar-22,1-Apr-22,Expire,Jabar Ali,3
+Shift From,ER,No,950,320,F,,31-Mar-22,7-Apr-22,Discharge,Jabar Ali,7
+Shift From,ER,No,1004,53,M,,6-Apr-22,10-Apr-22,Expire,Samra Rehmat,4
+Shift From,ER,No,1008,57,M,,6-Apr-22,8-Apr-22,Discharge,Jabar Ali,2
+Shift From,ER,No,1095,144,F,,16-Apr-22,18-Apr-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,1096,145,M,,17-Apr-22,26-Apr-22,Discharge,Tariq Nawaz,9
+Shift From,ER,No,1097,146,F,,17-Apr-22,18-Apr-22,LAMA,Asif Iqbal,1
+Shift From,ER,No,1098,147,F,,17-Apr-22,19-Apr-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,1099,148,M,,17-Apr-22,19-Apr-22,Discharge,Imran Khan,2
+Shift From,ER,No,1100,149,F,,17-Apr-22,19-Apr-22,Discharge,Adil,2
+Shift From,ER,No,1101,150,F,,17-Apr-22,19-Apr-22,Discharge,Adil,2
+Shift From,ER,No,1102,151,M,,17-Apr-22,20-Apr-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,1103,152,M,,17-Apr-22,19-Apr-22,Discharge,Adil,2
+Shift From,ER,No,1104,153,F,,17-Apr-22,19-Apr-22,Discharge,Adil,2
+Shift From,ER,No,1105,154,F,,17-Apr-22,21-Apr-22,Discharge,Adil,4
+Shift From,ER,No,1106,155,F,,18-Apr-22,19-Apr-22,Discharge,Adil,1
+Shift From,ER,No,1107,156,M,,18-Apr-22,20-Apr-22,Discharge,Adil,2
+Shift From,ER,No,1108,157,M,,18-Apr-22,19-Apr-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,1109,158,F,,18-Apr-22,25-Apr-22,Discharge,Said Zaman,7
+Shift From,ER,No,1110,159,F,,18-Apr-22,19-Apr-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,1111,160,M,,18-Apr-22,21-Apr-22,Discharge,Samra Rehmat,3
+OPD,post cath OPD,No,1112,161,M,,18-Apr-22,20-Apr-22,Discharge,Jabar Ali,2
+Shift From,ER,No,1113,162,M,,18-Apr-22,19-Apr-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,1114,163,F,,18-Apr-22,18-Apr-22,Expire,Asif Iqbal,0
+IBP,IBP,No,1115,164,F,,18-Apr-22,18-Apr-22,LAMA,Ikram Ullah,0
+Shift From,ER,No,1116,165,M,,18-Apr-22,21-Apr-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,1117,166,M,,18-Apr-22,19-Apr-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,1118,167,F,,18-Apr-22,25-Apr-22,Discharge,Asif Iqbal,7
+Shift From,ER,No,1119,168,M,,19-Apr-22,22-Apr-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,1120,169,F,,19-Apr-22,22-Apr-22,Discharge,Jabar Ali,3
+Shift From,ER,No,1121,170,F,,19-Apr-22,24-Apr-22,Discharge,Jabar Ali,5
+OPD,OPD,No,1122,171,M,,19-Apr-22,21-Apr-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,1123,172,F,,19-Apr-22,29-Apr-22,Discharge,Asif Iqbal,10
+Shift From,ER,No,1124,173,M,,19-Apr-22,21-Apr-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,1125,174,M,,19-Apr-22,21-Apr-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,1126,175,M,,19-Apr-22,21-Apr-22,Discharge,Tariq Nawaz,2
+Shift From,Cath ER,No,1127,176,F,,19-Apr-22,20-Apr-22,Discharge,Jabar Ali,1
+Shift From,endo/opd,No,1135,184,M,,20-Apr-22,29-Apr-22,Discharge,Jabar Ali,9
+Shift From,ER,No,1136,185,M,,20-Apr-22,21-Apr-22,Discharge,Said Zaman,1
+Shift From,endo F,No,1141,190,F,,21-Apr-22,27-Apr-22,Discharge,Jabar Ali,6
+Shift From,endo,No,1142,191,M,,21-Apr-22,28-Apr-22,Discharge,Jabar Ali,7
+IBP,IBP,No,1150,199,M,,21-Apr-22,1-May-22,Discharge,Jabar Ali,10
+IBP,Cath IBP,No,1152,201,M,,21-Apr-22,25-Apr-22,Discharge,Asif Iqbal,4
+Shift From,ER,No,1153,202,F,,21-Apr-22,26-Apr-22,LAMA,Samra Rehmat,5
+Shift From,ER,No,1154,203,M,,21-Apr-22,27-Apr-22,Discharge,Malik Faisal,6
+Shift From,ER,No,1155,204,M,,22-Apr-22,27-Apr-22,Discharge,Imran Khan,5
+Shift From,ER,No,1158,207,M,,22-Apr-22,25-Apr-22,Discharge,Imran Khan,3
+Shift From,ER,No,1184,233,M,,25-Apr-22,28-Apr-22,Discharge,Said Zaman,3
+Shift From,Gynea,No,1186,235,F,,25-Apr-22,26-Apr-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,1187,236,F,,25-Apr-22,28-Apr-22,Discharge,Ikram Ullah,3
+Shift From,Gynea,No,1191,240,F,,25-Apr-22,6-May-22,Discharge,Asif Iqbal,11
+Shift From,ER,No,1194,243,M,,26-Apr-22,27-Apr-22,Discharge,Tariq Nawaz,1
+Shift From,endo/opd,No,1221,270,M,,28-Apr-22,29-Apr-22,Discharge,Jabar Ali,1
+Shift From,ER,No,1239,288,M,,30-Apr-22,30-Apr-22,Discharge,Malik Faisal,0
+Shift From,ER,No,1241,1,F,,1-May-22,13-May-22,LAMA,Tariq Nawaz,12
+Shift From,ER,No,1242,2,M,,1-May-22,1-May-22,Discharge,Tariq Nawaz,0
+Shift From,ER,No,1243,3,F,,2-May-22,4-May-22,Discharge,Jabar Ali,2
+Shift From,ER,No,1244,4,F,,2-May-22,7-May-22,Discharge,Sher Bahadar,5
+Shift From,ER,No,1245,5,M,,2-May-22,10-May-22,Discharge,Jabar Ali,8
+Shift From,ER,No,1253,13,F,,3-May-22,12-May-22,Discharge,Said Zaman,9
+Shift From,ER,No,1266,26,M,,5-May-22,7-May-22,Discharge,Adil,2
+Shift From,ER,No,1273,33,M,,6-May-22,7-May-22,Shifted,Sher Bahadar,1
+Shift From,ER,No,1317,77,M,,11-May-22,11-May-22,Discharge,Malik Faisal,0
+Shift From,ER,No,1320,80,M,,11-May-22,13-May-22,Discharge,Malik Faisal,2
+Shift From,ER,No,1325,85,M,,11-May-22,12-May-22,Discharge,Said Zaman,1
+IBP,IBP,No,1334,94,F,,12-May-22,19-May-22,Discharge,Jabar Ali,7
+Shift From,ER,No,1348,108,M,,13-May-22,14-May-22,Discharge,Jabar Ali,1
+Shift From,ER,No,1357,117,F,,14-May-22,17-May-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,1359,119,F,,14-May-22,27-May-22,Discharge,Malik Faisal,13
+Shift From,ER,No,1371,131,F,,16-May-22,18-May-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,1381,141,M,,17-May-22,17-May-22,LAMA,Tariq Nawaz,0
+Shift From,ER,No,1396,156,M,,18-May-22,21-May-22,Discharge,Sadia Ilyas,3
+Shift From,ER,No,1398,158,F,,18-May-22,23-May-22,Discharge,Said Zaman,5
+Shift From,ER,No,1399,159,F,,18-May-22,20-May-22,Discharge,Tariq Nawaz,2
+IBP,IBP,No,1413,173,F,,19-May-22,20-May-22,Discharge,Imran Khan,1
+Shift From,ER,No,1414,174,M,,19-May-22,20-May-22,Discharge,Imran Khan,1
+Shift From,ER,No,1421,181,M,,20-May-22,27-May-22,Discharge,Samra Rehmat,7
+IBP,IBP,No,1422,182,M,,20-May-22,21-May-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,1455,215,F,,23-May-22,25-May-22,Discharge,Jabar Ali,2
+Shift From,ER,No,1526,286,F,,30-May-22,3-Jun-22,Discharge,Tariq Nawaz,4
+Shift From,ER,No,1530,290,M,,30-May-22,1-Jun-22,Discharge,Jabar Ali,2
+Shift From,ER,No,1531,291,F,,30-May-22,31-May-22,Discharge,Jabar Ali,1
+IBP,Post cath IBP,No,1546,306,M,,31-May-22,1-Jun-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,1657,109,F,,12-Jun-22,15-Jun-22,Discharge,Imran Khan,3
+Shift From,ER,No,1658,110,M,,12-Jun-22,16-Jun-22,Shifted,Imran Khan,4
+Shift From,IBP,No,1728,180,F,,20-Jun-22,21-Jun-22,Shifted,Jabar Ali,1
+Shift From,ER,No,1734,186,F,,20-Jun-22,28-Jun-22,Discharge,Jabar Ali,8
+Shift From,Neurology ER,No,1749,201,M,,22-Jun-22,23-Jun-22,Shifted,Adil,1
+Shift From,ER,No,1764,216,F,,23-Jun-22,23-Jun-22,Shifted,Asif Iqbal,0
+OPD,OPD,No,1765,217,M,,23-Jun-22,27-Jun-22,Discharge,Jabar Ali,4
+Shift From,ER,No,1766,218,M,,23-Jun-22,1-Jul-22,Discharge,Jabar Ali,8
+Shift From,ER,No,1779,231,F,,24-Jun-22,24-Jun-22,Expire,Samra Rehmat,0
+Shift From,ER,No,1803,255,F,,27-Jun-22,1-Jul-22,Discharge,Sher Bahadar,4
+Shift From,ER,No,1815,267,M,,28-Jun-22,2-Jul-22,Discharge,Said Zaman,4
+IBP,post cath,No,1834,286,F,,30-Jun-22,1-Jul-22,Discharge,Jabar Ali,1
+Shift From,ER,No,1868,23,M,,4-Jul-22,7-Jul-22,Discharge,Asif Iqbal,3
+IBP,IBP,No,1887,42,F,,5-Jul-22,14-Jul-22,Discharge,Jabar Ali,9
+Shift From,ER,No,1894,49,M,,6-Jul-22,7-Jul-22,Discharge,Jabar Ali,1
+Shift From,ER,No,1931,86,M,,12-Jul-22,14-Jul-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,1941,96,M,,13-Jul-22,15-Jul-22,Discharge,Said Zaman,2
+IBP,IBP,No,1945,100,M,,13-Jul-22,15-Jul-22,Discharge,Jabar Ali,2
+Shift From,ER,No,1989,144,M,,18-Jul-22,21-Jul-22,Shifted,Malik Faisal,3
+Shift From,OPD,No,1990,145,M,,18-Jul-22,21-Jul-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,1991,146,M,,18-Jul-22,22-Jul-22,LAMA,Tariq Nawaz,4
+OPD,OPD,No,1992,147,F,,18-Jul-22,22-Jul-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,1993,148,F,,18-Jul-22,3-Aug-22,Discharge,Tariq Nawaz,16
+IBP,IBP,No,1994,149,F,,18-Jul-22,22-Jul-22,Discharge,Jabar Ali,4
+Shift From,G.ICU,No,2001,156,F,,19-Jul-22,22-Jul-22,Discharge,Imran Khan,3
+Shift From,post cath,No,2014,169,M,,20-Jul-22,21-Jul-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,2019,174,F,,20-Jul-22,25-Jul-22,Expire,Jabar Ali,5
+Shift From,ER,No,2070,225,M,,25-Jul-22,27-Jul-22,Discharge,Imran Khan,2
+Shift From,FMC,No,2072,227,F,,26-Jul-22,3-Aug-22,Discharge,Jabar Ali,8
+Shift From,AMU,No,2075,230,M,,26-Jul-22,26-Jul-22,Expire,Said Zaman,0
+Shift From,ER,No,2090,245,F,,27-Jul-22,28-Jul-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,2096,251,M,,28-Jul-22,3-Aug-22,Discharge,Asif Iqbal,6
+Shift From,ER,No,2097,252,M,,28-Jul-22,29-Jul-22,Discharge,Imran Khan,1
+Shift From,ER,No,2098,253,M,,28-Jul-22,3-Aug-22,Discharge,Sher Bahadar,6
+Shift From,ER,No,2103,258,M,,28-Jul-22,30-Jul-22,Discharge,Samra Rehmat,2
+Shift From,ER,No,2122,277,F,,29-Jul-22,1-Aug-22,Discharge,Said Zaman,3
+Shift From,ER,No,2125,280,F,,30-Jul-22,1-Aug-22,Discharge,Imran Khan,2
+Shift From,ER,No,2126,281,M,,30-Jul-22,2-Aug-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,2133,288,F,,31-Jul-22,14-Aug-22,Discharge,Ikram Ullah,14
+Shift From,ER,No,2134,289,M,,31-Jul-22,2-Aug-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,2135,290,F,,31-Jul-22,6-Aug-22,Discharge,Asif Iqbal,6
+Shift From,ER,No,2139,3,M,,1-Aug-22,3-Aug-22,Discharge,Ikram Ullah,2
+Shift From,CHEM,No,2150,14,M,,2-Aug-22,6-Aug-22,Discharge,Said Zaman,4
+Shift From,ER,No,2151,15,M,,2-Aug-22,4-Aug-22,Discharge,Jabar Ali,2
+Shift From,Chest ward,No,2157,21,M,,3-Aug-22,29-Aug-22,Discharge,Imran Khan,26
+Shift From,ER,No,2159,23,M,,3-Aug-22,6-Aug-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2170,34,M,,3-Aug-22,5-Aug-22,Discharge,Imran Khan,2
+Shift From,Nephro,No,2171,35,M,,4-Aug-22,7-Aug-22,Discharge,Imran Khan,3
+Shift From,ER,No,2172,36,M,,4-Aug-22,6-Aug-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2174,38,M,,4-Aug-22,6-Aug-22,Discharge,Samra Rehmat,2
+Shift From,ER,No,2176,40,F,,4-Aug-22,9-Aug-22,Expire,Imran Khan,5
+Shift From,ER,No,2182,46,M,,5-Aug-22,6-Aug-22,Discharge,Sher Bahadar,1
+Shift From,post cath,No,2184,48,M,,5-Aug-22,6-Aug-22,Discharge,Malik Faisal,1
+Shift From,ER,No,2185,49,M,,5-Aug-22,6-Aug-22,Discharge,Said Zaman,1
+Shift From,ER,No,2191,55,M,,6-Aug-22,7-Aug-22,Discharge,Imran Khan,1
+Shift From,ER,No,2197,61,M,,7-Aug-22,14-Aug-22,Discharge,Malik Faisal,7
+Shift From,ER,No,2200,64,M,,7-Aug-22,11-Aug-22,Discharge,Samra Rehmat,4
+Shift From,ER,No,2201,65,M,,7-Aug-22,8-Aug-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,2210,74,M,,8-Aug-22,15-Aug-22,Expire,Samra Rehmat,7
+Shift From,ER,No,2211,75,M,,8-Aug-22,19-Aug-22,Discharge,Samra Rehmat,11
+Shift From,ER,No,2212,76,M,,8-Aug-22,11-Aug-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,2213,77,M,,8-Aug-22,10-Aug-22,Discharge,Samra Rehmat,2
+Shift From,ER,No,2214,78,M,,8-Aug-22,11-Aug-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,2218,82,M,,9-Aug-22,11-Aug-22,Discharge,Said Zaman,2
+Shift From,ER,No,2219,83,M,,9-Aug-22,14-Aug-22,Discharge,Said Zaman,5
+Shift From,ER,No,2221,85,F,,9-Aug-22,11-Aug-22,Discharge,Said Zaman,2
+Shift From,ER,No,2225,89,M,,10-Aug-22,10-Aug-22,Discharge,Malik Faisal,0
+Shift From,ER,No,2226,90,M,,10-Aug-22,12-Aug-22,Discharge,Said Zaman,2
+Shift From,ER,No,2229,93,M,,10-Aug-22,12-Aug-22,Discharge,Said Zaman,2
+Shift From,ER,No,2235,99,F,,11-Aug-22,16-Aug-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2236,100,F,,11-Aug-22,16-Aug-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2237,101,M,,11-Aug-22,16-Aug-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2240,104,M,,11-Aug-22,16-Aug-22,Discharge,Samra Rehmat,5
+Shift From,ER,No,2249,113,M,,12-Aug-22,12-Aug-22,LAMA,Imran Khan,0
+Shift From,ER,No,2254,118,M,,13-Aug-22,19-Aug-22,Discharge,Tariq Nawaz,6
+Shift From,Cath Lab,No,2268,132,F,,15-Aug-22,18-Aug-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2271,135,F,,15-Aug-22,18-Aug-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2274,138,F,,16-Aug-22,17-Aug-22,Discharge,Jabar Ali,1
+Shift From,ER,No,2276,140,M,,16-Aug-22,23-Aug-22,Discharge,Malik Faisal,7
+Shift From,Opd,No,2278,142,M,,16-Aug-22,17-Aug-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,2284,148,M,,17-Aug-22,23-Aug-22,Discharge,Jabar Ali,6
+Shift From,Cath Lab,No,2286,150,M,,17-Aug-22,20-Aug-22,Discharge,Said Zaman,3
+Shift From,ER,No,2287,151,F,,17-Aug-22,19-Aug-22,LAMA,Malik Faisal,2
+Shift From,Opd,No,2291,155,M,,18-Aug-22,19-Aug-22,Discharge,Jabar Ali,1
+Shift From,post cath,No,2295,159,M,,18-Aug-22,19-Aug-22,Discharge,Imran Khan,1
+Shift From,Opd,No,2305,169,M,,19-Aug-22,19-Aug-22,Discharge,Jabar Ali,0
+Shift From,ER,No,2307,171,F,,19-Aug-22,22-Aug-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,2309,173,M,,19-Aug-22,19-Aug-22,Expire,Adil,0
+Shift From,ER,No,2319,183,F,,20-Aug-22,22-Aug-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2320,184,F,,20-Aug-22,23-Aug-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2340,204,F,,22-Aug-22,22-Aug-22,LAMA,Jabar Ali,0
+Shift From,ER,No,2341,205,M,,22-Aug-22,24-Aug-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2342,206,F,,22-Aug-22,25-Aug-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2347,211,F,,23-Aug-22,25-Aug-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2351,215,F,,23-Aug-22,25-Aug-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,2354,218,F,,23-Aug-22,26-Aug-22,Discharge,Sher Bahadar,3
+Shift From,Opd,No,2355,219,F,,23-Aug-22,25-Aug-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,2366,230,F,,24-Aug-22,25-Aug-22,Discharge,Jabar Ali,1
+Shift From,CHEST,No,2368,232,M,,24-Aug-22,6-Sep-22,Shifted,Sher Bahadar,13
+OPD,post cath,No,2381,245,F,,25-Aug-22,2-Sep-22,Discharge,Jabar Ali,8
+Shift From,Cath/ER,No,2399,263,F,,26-Aug-22,31-Aug-22,Discharge,Imran Khan,5
+Shift From,ER,No,2404,268,M,,27-Aug-22,30-Aug-22,Discharge,Sher Bahadar,3
+Shift From,ER,No,2406,270,M,,27-Aug-22,31-Aug-22,Discharge,Sher Bahadar,4
+IBP,ibp,No,2426,290,F,,29-Aug-22,5-Sep-22,Discharge,Jabar Ali,7
+IBP,IBP,No,2435,299,M,,30-Aug-22,31-Aug-22,Discharge,Jabar Ali,1
+Shift From,ER,No,2444,308,F,,31-Aug-22,3-Sep-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2447,311,M,,31-Aug-22,3-Sep-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2466,16,F,,2-Sep-22,6-Sep-22,Discharge,Imran Khan,4
+Shift From,ER,No,2467,17,M,,2-Sep-22,5-Sep-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2468,18,F,,2-Sep-22,20-Sep-22,Discharge,Malik Faisal,18
+IBP,IBP,No,2469,19,F,,2-Sep-22,9-Sep-22,Discharge,Jabar Ali,7
+Shift From,ER,No,2470,20,F,,2-Sep-22,7-Sep-22,Discharge,Malik Faisal,5
+Shift From,Er,No,2471,21,M,,2-Sep-22,5-Sep-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2472,22,M,,2-Sep-22,12-Sep-22,Discharge,Tariq Nawaz,10
+IBP,IBP,No,2473,23,M,,2-Sep-22,5-Sep-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2474,24,M,,2-Sep-22,6-Sep-22,Discharge,Malik Faisal,4
+Shift From,ER,No,2477,27,M,,3-Sep-22,5-Sep-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2479,29,F,,3-Sep-22,7-Sep-22,Discharge,Adil,4
+Shift From,ER,No,2489,39,M,,5-Sep-22,7-Sep-22,Discharge,Imran Khan,2
+IBP,IBP,No,2496,46,M,,5-Sep-22,7-Sep-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2497,47,M,,5-Sep-22,8-Sep-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2501,51,M,,6-Sep-22,7-Sep-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,2504,54,F,,6-Sep-22,10-Sep-22,Discharge,Samra Rehmat,4
+Shift From,ER,No,2508,58,F,,6-Sep-22,16-Sep-22,Discharge,Sher Bahadar,10
+OPD,PCW,No,2512,62,F,,7-Sep-22,9-Sep-22,Shifted,Arshad Sohail,2
+Shift From,ER,No,2514,64,M,,7-Sep-22,11-Sep-22,Discharge,Asif Iqbal,4
+Shift From,ER,No,2515,65,M,,7-Sep-22,9-Sep-22,Discharge,Ikram Ullah,2
+Shift From,ER,No,2516,66,F,,7-Sep-22,8-Sep-22,Discharge,Malik Faisal,1
+Shift From,ER,No,2518,68,F,,7-Sep-22,9-Sep-22,Discharge,Samra Rehmat,2
+Shift From,ER,No,2519,69,M,,7-Sep-22,7-Sep-22,Discharge,Samra Rehmat,0
+Shift From,ER,No,2520,70,M,,7-Sep-22,14-Sep-22,Discharge,Malik Faisal,7
+Shift From,ER,No,2522,72,F,,8-Sep-22,17-Sep-22,Shifted,Sher Bahadar,9
+Shift From,ER,No,2525,75,M,,8-Sep-22,13-Sep-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2526,76,M,,8-Sep-22,9-Sep-22,Expire,Asif Iqbal,1
+IBP,IBP,No,2527,77,F,,8-Sep-22,13-Sep-22,Discharge,Jabar Ali,5
+Shift From,ER,No,2528,78,M,,8-Sep-22,12-Sep-22,Discharge,Imran Khan,4
+Shift From,ER,No,2529,79,M,,8-Sep-22,10-Sep-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2530,80,F,,8-Sep-22,13-Sep-22,Discharge,Imran Khan,5
+Shift From,ER,No,2531,81,M,,9-Sep-22,9-Sep-22,Discharge,Jabar Ali,0
+Shift From,ER,No,2532,82,F,,9-Sep-22,13-Sep-22,Expire,Imran Khan,4
+Shift From,ER,No,2533,83,F,,9-Sep-22,13-Sep-22,Discharge,Tariq Nawaz,4
+Shift From,ER,No,2534,84,M,,9-Sep-22,12-Sep-22,Discharge,Imran Khan,3
+Shift From,ER,No,2537,87,M,,9-Sep-22,10-Sep-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,2538,88,F,,9-Sep-22,14-Sep-22,Discharge,Asif Iqbal,5
+Shift From,ER,No,2539,89,M,,9-Sep-22,13-Sep-22,Discharge,Asif Iqbal,4
+Shift From,ER,No,2541,91,M,,9-Sep-22,23-Sep-22,Discharge,Imran Khan,14
+Shift From,ER,No,2542,92,F,,10-Sep-22,21-Sep-22,Discharge,Imran Khan,11
+Shift From,ER,No,2548,98,M,,10-Sep-22,12-Sep-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2561,111,M,,12-Sep-22,15-Sep-22,Discharge,Imran Khan,3
+Shift From,ER,No,2565,115,M,,12-Sep-22,14-Sep-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2566,116,M,,12-Sep-22,15-Sep-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2567,117,M,,12-Sep-22,14-Sep-22,Discharge,Imran Khan,2
+Shift From,ER,No,2571,121,F,,13-Sep-22,14-Sep-22,Shifted,Jabar Ali,1
+Shift From,ER,No,2573,123,M,,13-Sep-22,15-Sep-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2575,125,M,,13-Sep-22,15-Sep-22,Discharge,Ikram Ullah,2
+Shift From,ER,No,2576,126,F,,13-Sep-22,18-Sep-22,Discharge,Tariq Nawaz,5
+Shift From,ER,No,2578,128,M,,13-Sep-22,16-Sep-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2579,129,M,,13-Sep-22,16-Sep-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,2580,130,M,,13-Sep-22,15-Sep-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2581,131,F,,14-Sep-22,23-Sep-22,Expire,Jabar Ali,9
+Shift From,ER,No,2582,132,F,,14-Sep-22,19-Sep-22,Discharge,Tariq Nawaz,5
+IBP,IBP,No,2590,140,M,,14-Sep-22,23-Sep-22,Discharge,Jabar Ali,9
+Shift From,ER,No,2591,141,F,,15-Sep-22,23-Sep-22,Discharge,Imran Khan,8
+Shift From,ER,No,2592,142,M,,15-Sep-22,16-Sep-22,Discharge,Jabar Ali,1
+Shift From,ER,No,2593,143,M,,15-Sep-22,17-Sep-22,Discharge,Imran Khan,2
+Shift From,ER,No,2594,144,M,,15-Sep-22,17-Sep-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2595,145,F,,15-Sep-22,24-Sep-22,Discharge,Malik Faisal,9
+Shift From,ER,No,2596,146,M,,15-Sep-22,21-Sep-22,Discharge,Imran Khan,6
+Shift From,ER,No,2597,147,F,,15-Sep-22,17-Sep-22,Discharge,Imran Khan,2
+Shift From,ER,No,2598,148,M,,15-Sep-22,17-Sep-22,Discharge,Malik Faisal,2
+ER,ER,No,2599,149,M,,15-Sep-22,20-Sep-22,Discharge,Malik Faisal,5
+OPD,OPD,No,2600,150,M,,15-Sep-22,18-Sep-22,Discharge,Jabar Ali,3
+Shift From,ER,No,2601,151,M,,15-Sep-22,21-Sep-22,Discharge,Imran Khan,6
+Shift From,ER,No,2602,152,M,,15-Sep-22,18-Sep-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,2603,153,M,,16-Sep-22,17-Sep-22,LAMA,Malik Faisal,1
+Shift From,ER,No,2604,154,M,,16-Sep-22,20-Sep-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2605,155,M,,16-Sep-22,20-Sep-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2606,156,M,,16-Sep-22,21-Sep-22,DOW,Jabar Ali,5
+Shift From,ER,No,2607,157,F,,16-Sep-22,21-Sep-22,Discharge,Imran Khan,5
+Shift From,ER,No,2613,163,F,,17-Sep-22,20-Sep-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2614,164,M,,17-Sep-22,22-Sep-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2626,176,M,,19-Sep-22,20-Sep-22,Discharge,Malik Faisal,1
+OPD,OPD,No,2631,181,M,,19-Sep-22,30-Sep-22,Discharge,Tariq Nawaz,11
+Shift From,ER,No,2641,191,F,,20-Sep-22,20-Sep-22,Expire,Tariq Nawaz,0
+Shift From,ER,No,2644,194,M,,20-Sep-22,23-Sep-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,2650,200,F,,21-Sep-22,27-Sep-22,Discharge,Said Zaman,6
+IBP,IBP,No,2652,202,M,,21-Sep-22,23-Sep-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2661,211,F,,22-Sep-22,24-Sep-22,Discharge,Imran Khan,2
+Shift From,ER,No,2662,212,F,,22-Sep-22,30-Sep-22,Discharge,Tariq Nawaz,8
+Shift From,ER,No,2664,214,F,,22-Sep-22,26-Sep-22,Expire,Imran Khan,4
+Shift From,ER,No,2665,215,M,,22-Sep-22,27-Sep-22,Discharge,Jabar Ali,5
+Shift From,ER,No,2669,219,M,,23-Sep-22,30-Sep-22,Discharge,Imran Khan,7
+Shift From,ER,No,2671,221,M,,23-Sep-22,24-Sep-22,Discharge,Imran Khan,1
+Shift From,ER,No,2677,227,M,,24-Sep-22,27-Sep-22,Discharge,Arshad Sohail,3
+Shift From,ER,No,2684,234,F,,24-Sep-22,25-Sep-22,DOW,Arshad Sohail,1
+Shift From,ER,No,2685,235,F,,25-Sep-22,2-Oct-22,Expire,Sher Bahadar,7
+Shift From,ER,No,2686,236,M,,25-Sep-22,27-Sep-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,2695,245,M,,26-Sep-22,27-Sep-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,2703,253,F,,27-Sep-22,28-Sep-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,2705,255,M,,27-Sep-22,28-Sep-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,2709,259,F,,27-Sep-22,4-Oct-22,Discharge,Imran Khan,7
+Shift From,Er,No,2717,267,M,,28-Sep-22,1-Oct-22,Shifted,Tariq Nawaz,3
+Shift From,ER,No,2722,272,M,,28-Sep-22,7-Oct-22,Discharge,Tariq Nawaz,9
+Shift From,ER,No,2728,278,F,,29-Sep-22,2-Oct-22,Expire,Asif Iqbal,3
+Shift From,ER,No,2734,284,M,,30-Sep-22,3-Oct-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2735,285,M,,30-Sep-22,3-Oct-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,2737,287,M,,30-Sep-22,5-Oct-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2738,288,M,,30-Sep-22,1-Oct-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,2739,289,M,,30-Sep-22,3-Oct-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,2740,1,F,,1-Oct-22,5-Oct-22,Discharge,Sher Bahadar,4
+Shift From,ER,No,2741,2,F,,1-Oct-22,9-Oct-22,Discharge,Jabar Ali,8
+Shift From,ER,No,2757,18,M,,2-Oct-22,5-Oct-22,Discharge,Adil,3
+Shift From,ER,No,2758,19,M,,2-Oct-22,4-Oct-22,Discharge,Adil,2
+Shift From,ER,No,2759,20,M,,2-Oct-22,5-Oct-22,Discharge,Adil,3
+Shift From,ER,No,2772,33,F,,4-Oct-22,6-Oct-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2773,34,M,,4-Oct-22,8-Oct-22,Discharge,Jabar Ali,4
+OPD,peads CW,No,2775,36,M,,4-Oct-22,7-Oct-22,Discharge,Arshad Sohail,3
+Shift From,ER,No,2778,39,M,,4-Oct-22,5-Oct-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,2783,44,F,,4-Oct-22,8-Oct-22,Discharge,Sher Bahadar,4
+Shift From,ER,No,2785,46,F,,4-Oct-22,7-Oct-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,2787,48,F,,4-Oct-22,9-Oct-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2788,49,M,,5-Oct-22,7-Oct-22,Discharge,Malik Faisal,2
+Shift From,GICU,No,2789,50,M,,5-Oct-22,8-Oct-22,Discharge,Asif Iqbal,3
+Shift From,Sur PACU,No,2790,51,F,,5-Oct-22,7-Oct-22,Shifted,Malik Faisal,2
+Shift From,CVS/M,No,2791,52,M,,5-Oct-22,6-Oct-22,Discharge,adil,1
+Shift From,ER,No,2794,55,M,,5-Oct-22,8-Oct-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,2801,62,F,,6-Oct-22,12-Oct-22,Discharge,Malik Faisal,6
+Shift From,ER,No,2804,65,F,,6-Oct-22,13-Oct-22,Discharge,Sher Bahadar,7
+Shift From,ER,No,2805,66,F,,6-Oct-22,10-Oct-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2807,68,M,,6-Oct-22,9-Oct-22,Discharge,Imran Khan,3
+Shift From,ER,No,2809,70,M,,7-Oct-22,8-Oct-22,Discharge,Imran Khan,1
+Shift From,Endo,No,2813,74,F,,7-Oct-22,12-Oct-22,LAMA,adil,5
+Shift From,ER,No,2814,75,F,,7-Oct-22,10-Oct-22,Discharge,Imran Khan,3
+Shift From,ER,No,2834,95,M,,9-Oct-22,20-Oct-22,Discharge,Imran Khan,11
+Shift From,ER,No,2835,96,F,,9-Oct-22,14-Oct-22,Discharge,Jabar Ali,5
+Shift From,ER,No,2836,97,F,,9-Oct-22,11-Oct-22,Shifted,Asif Iqbal,2
+Shift From,ER,No,2837,98,M,,9-Oct-22,11-Oct-22,Expire,Asif Iqbal,2
+Shift From,ER,No,2838,99,F,,9-Oct-22,17-Oct-22,Discharge,Jabar Ali,8
+Shift From,ER,No,2843,104,M,,10-Oct-22,15-Oct-22,Discharge,Asif Iqbal,5
+Shift From,ER,No,2848,109,M,,10-Oct-22,20-Oct-22,Discharge,Jabar Ali,10
+Shift From,ER,No,2852,113,M,,11-Oct-22,20-Oct-22,Discharge,Imran Khan,9
+Shift From,ER,No,2853,114,M,,11-Oct-22,13-Oct-22,Discharge,Tariq Nawaz,2
+IBP,IBP,No,2858,119,F,,11-Oct-22,13-Oct-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2862,123,M,,11-Oct-22,13-Oct-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2864,125,M,,12-Oct-22,13-Oct-22,Discharge,Ikram Ullah,1
+IBP,IBP,No,2868,129,M,,12-Oct-22,14-Oct-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2870,131,F,,12-Oct-22,13-Oct-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,2872,133,F,,13-Oct-22,17-Oct-22,Discharge,Asif Iqbal,4
+Shift From,ER,No,2873,134,F,,13-Oct-22,14-Oct-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,2874,135,F,,13-Oct-22,15-Oct-22,Discharge,Ikram Ullah,2
+Shift From,ER,No,2875,136,M,,13-Oct-22,14-Oct-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,2876,137,M,,13-Oct-22,15-Oct-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2877,138,M,,13-Oct-22,15-Oct-22,Discharge,Sher Bahadar,2
+OPD,OPD,No,2878,139,M,,13-Oct-22,14-Oct-22,Expire,Sadia Ilyas,1
+Shift From,ER,No,2879,140,M,,13-Oct-22,27-Oct-22,Shifted,Tariq Nawaz,14
+Shift From,ER,No,2880,141,M,,13-Oct-22,15-Oct-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2881,142,F,,13-Oct-22,15-Oct-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2882,143,F,,13-Oct-22,17-Oct-22,Discharge,Samra Rehmat,4
+Shift From,ER,No,2883,144,M,,13-Oct-22,15-Oct-22,Shifted,Samra Rehmat,2
+IBP,IBP,No,2884,145,M,,13-Oct-22,20-Oct-22,Discharge,Jabar Ali,7
+Shift From,ER,No,2887,148,M,,14-Oct-22,17-Oct-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,2888,149,F,,14-Oct-22,17-Oct-22,Discharge,Adil,3
+Shift From,ER,No,2889,150,F,,14-Oct-22,20-Oct-22,Discharge,Tariq Nawaz,6
+Shift From,ER,No,2890,151,F,,14-Oct-22,21-Oct-22,Discharge,Adil,7
+Shift From,ER,No,2891,152,M,,14-Oct-22,17-Oct-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2892,153,M,,14-Oct-22,18-Oct-22,Discharge,Malik Faisal,4
+Shift From,ER,No,2893,154,M,,14-Oct-22,17-Oct-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,2894,155,F,,14-Oct-22,16-Oct-22,Expire,Malik Faisal,2
+Shift From,ER,No,2895,156,M,,15-Oct-22,16-Oct-22,Discharge,Jabar Ali,1
+Shift From,ER,No,2896,157,M,,15-Oct-22,16-Oct-22,LAMA,Malik Faisal,1
+Shift From,ER,No,2897,158,M,,15-Oct-22,18-Oct-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2898,159,F,,15-Oct-22,16-Oct-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,2899,160,F,,15-Oct-22,20-Oct-22,Discharge,Malik Faisal,5
+Shift From,ER,No,2900,161,M,,15-Oct-22,17-Oct-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2901,162,M,,15-Oct-22,24-Oct-22,Discharge,Malik Faisal,9
+Shift From,ER,No,2902,163,M,,15-Oct-22,18-Oct-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,2903,164,M,,16-Oct-22,1-Nov-22,Discharge,Tariq Nawaz,16
+Shift From,ER,No,2904,165,M,,16-Oct-22,20-Oct-22,Discharge,Tariq Nawaz,4
+Shift From,ER,No,2905,166,F,,16-Oct-22,26-Oct-22,Expire,Tariq Nawaz,10
+Shift From,ER,No,2906,167,M,,16-Oct-22,21-Oct-22,Discharge,Tariq Nawaz,5
+Shift From,ER,No,2907,168,F,,16-Oct-22,18-Oct-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2908,169,M,,16-Oct-22,17-Oct-22,Discharge,Malik Faisal,1
+Shift From,ER,No,2909,170,M,,16-Oct-22,18-Oct-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,2910,171,F,,16-Oct-22,16-Oct-22,Expire,Tariq Nawaz,1
+Shift From,ER,No,2911,172,M,,16-Oct-22,18-Oct-22,Discharge,Malik Faisal,2
+Shift From,ER,No,2912,173,M,,16-Oct-22,2-Nov-22,Discharge,Tariq Nawaz,17
+Shift From,ER,No,2913,174,M,,17-Oct-22,25-Oct-22,Discharge,Jabar Ali,8
+Shift From,ER,No,2914,175,F,,17-Oct-22,21-Oct-22,Discharge,Imran Khan,4
+Shift From,ER,No,2915,176,F,,17-Oct-22,20-Oct-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,2916,177,F,,17-Oct-22,20-Oct-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2917,178,M,,17-Oct-22,20-Oct-22,Discharge,Malik Faisal,3
+Shift From,ER,No,2918,179,M,,17-Oct-22,25-Oct-22,Discharge,Tariq Nawaz,8
+Shift From,ER,No,2919,180,F,,17-Oct-22,29-Oct-22,Discharge,Malik Faisal,12
+Shift From,ER,No,2920,181,M,,17-Oct-22,20-Oct-22,Discharge,Adil,3
+Shift From,ER,No,2921,182,M,,17-Oct-22,21-Oct-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2922,183,F,,17-Oct-22,21-Oct-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2923,184,M,,17-Oct-22,21-Oct-22,Discharge,Tariq Nawaz,4
+Shift From,ER,No,2924,185,M,,17-Oct-22,25-Oct-22,Discharge,Asif Iqbal,8
+Shift From,ER,No,2925,186,M,,17-Oct-22,18-Oct-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,2926,187,M,,17-Oct-22,20-Oct-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,2927,188,M,,18-Oct-22,20-Oct-22,Discharge,Jabar Ali,2
+Shift From,ER,No,2928,189,F,,18-Oct-22,21-Oct-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,2929,190,M,,18-Oct-22,22-Oct-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2930,191,M,,18-Oct-22,25-Oct-22,Discharge,Sher Bahadar,7
+ER,Ortho,No,2931,192,M,,18-Oct-22,29-Oct-22,Discharge,Sher Bahadar,11
+Shift From,ER,No,2932,193,M,,18-Oct-22,21-Oct-22,Discharge,Jabar Ali,3
+OPD,OPD,No,2933,194,M,,18-Oct-22,20-Oct-22,Discharge,Ikram Ullah,2
+Shift From,Er,No,2934,195,F,,19-Oct-22,24-Oct-22,Discharge,Imran Khan,5
+Shift From,Gastro,No,2937,198,F,,19-Oct-22,21-Oct-22,Discharge,adil,2
+Shift From,ER,No,2953,214,F,,20-Oct-22,24-Oct-22,Discharge,Jabar Ali,4
+Shift From,ER,No,2963,224,M,,21-Oct-22,21-Oct-22,Expire,Jabar Ali,1
+OPD,OPD,No,2967,228,M,,21-Oct-22,6-Nov-22,Shifted,Jabar Ali,16
+Shift From,Er,No,2971,232,M,,22-Oct-22,26-Oct-22,Discharge,Jabar Ali,4
+IBP,IBP,No,2993,254,F,,25-Oct-22,28-Oct-22,Discharge,Jabar Ali,3
+Shift From,ER,No,3003,264,M,,26-Oct-22,2-Nov-22,Discharge,Jabar Ali,7
+Shift From,ER,No,3007,268,M,,26-Oct-22,29-Oct-22,Shifted,Sadia Ilyas,3
+Shift From,ER,No,3015,276,F,,27-Oct-22,28-Oct-22,Discharge,Jabar Ali,1
+Shift From,CV pacu,No,3018,279,M,,27-Oct-22,31-Oct-22,Discharge,adil,4
+Shift From,ER,No,3023,284,M,,27-Oct-22,31-Oct-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3035,296,M,,28-Oct-22,29-Oct-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,3037,298,M,,28-Oct-22,29-Oct-22,Discharge,Jabar Ali,1
+Shift From,ER,No,3047,308,M,,29-Oct-22,1-Nov-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,3049,310,F,,29-Oct-22,3-Nov-22,Discharge,Imran Khan,5
+Shift From,ER,No,3055,316,M,,30-Oct-22,15-Dec-22,Discharge,Jabar Ali,46
+Shift From,ER,No,3056,317,F,,30-Oct-22,6-Nov-22,Discharge,Sher Bahadar,7
+Shift From,ER,No,3057,318,F,,31-Oct-22,5-Nov-22,Discharge,Jabar Ali,5
+Shift From,CT ICU/IBP,No,3058,319,M,,31-Oct-22,2-Nov-22,Shifted,adil,2
+Shift From,ER,No,3063,324,F,,31-Oct-22,3-Nov-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,3064,325,M,,31-Oct-22,3-Nov-22,Discharge,Imran Khan,3
+Shift From,ER,No,3065,326,M,,31-Oct-22,3-Nov-22,Discharge,Imran Khan,3
+Shift From,ER,No,3072,7,M,,1-Nov-22,8-Nov-22,Discharge,Samra Rehmat,7
+OPD,opd,No,3074,9,M,,1-Nov-22,1-Nov-22,Expire,Sher Bahadar,1
+Shift From,ER,No,3075,10,M,,1-Nov-22,3-Nov-22,Discharge,Tariq Nawaz,2
+Shift From,AMU/ER,No,3079,14,F,,2-Nov-22,12-Nov-22,Shifted,Tariq Nawaz,10
+Shift From,ER,No,3086,21,F,,2-Nov-22,5-Nov-22,Discharge,Malik Faisal,3
+Shift From,ER,No,3089,24,M,,3-Nov-22,4-Nov-22,Discharge,Imran Khan,1
+Shift From,ER,No,3091,26,M,,3-Nov-22,7-Nov-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,3093,28,F,,3-Nov-22,4-Nov-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,3094,29,F,,3-Nov-22,5-Nov-22,Discharge,Imran Khan,2
+Shift From,ER,No,3095,30,M,,3-Nov-22,7-Nov-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3097,32,F,,3-Nov-22,4-Nov-22,Discharge,Asif Iqbal,1
+Shift From,ER,No,3098,33,M,,3-Nov-22,4-Nov-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3099,34,M,,3-Nov-22,8-Nov-22,Discharge,Jabar Ali,5
+Shift From,ER,No,3100,35,M,,3-Nov-22,8-Nov-22,Discharge,Adil,5
+Shift From,ER,No,3101,36,F,,3-Nov-22,8-Nov-22,Discharge,Ikram Ullah,5
+Shift From,ER,No,3107,42,M,,4-Nov-22,6-Nov-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,3108,43,M,,4-Nov-22,8-Nov-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3109,44,F,,4-Nov-22,7-Nov-22,Discharge,Adil,3
+Shift From,ER,No,3110,45,M,,4-Nov-22,8-Nov-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3113,48,M,,4-Nov-22,11-Nov-22,Discharge,Imran Khan,7
+Shift From,ER,No,3114,49,M,,4-Nov-22,12-Nov-22,Discharge,Jabar Ali,8
+Shift From,ER,No,3116,51,M,,4-Nov-22,8-Nov-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,3119,54,M,,5-Nov-22,6-Nov-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,3120,55,F,,5-Nov-22,12-Nov-22,Discharge,Asif Iqbal,7
+Shift From,ER,No,3127,62,F,,5-Nov-22,8-Nov-22,Discharge,Adil,3
+Shift From,ER,No,3130,65,F,,6-Nov-22,10-Nov-22,Discharge,adil,4
+Shift From,AMU,No,3134,69,F,,7-Nov-22,12-Nov-22,Discharge,Sher Bahadar,5
+Shift From,ER,No,3138,73,F,,7-Nov-22,18-Nov-22,Discharge,Asif Iqbal,11
+Shift From,ER,No,3140,75,M,,8-Nov-22,10-Nov-22,Discharge,Jabar Ali,2
+Shift From,ER,No,3144,79,M,,8-Nov-22,15-Nov-22,Discharge,Jabar Ali,7
+IBP,ibp,No,3156,91,M,,8-Nov-22,30-Nov-22,Discharge,Jabar Ali,22
+Shift From,ER,No,3164,99,M,,10-Nov-22,17-Nov-22,Discharge,Imran Khan,7
+Shift From,ER,No,3166,101,F,,10-Nov-22,11-Nov-22,LAMA,Asif Iqbal,1
+Shift From,ER,No,3169,104,M,,10-Nov-22,14-Nov-22,Discharge,Malik Faisal,4
+IBP,ibp,No,3171,106,M,,10-Nov-22,11-Nov-22,Discharge,Jabar Ali,1
+Shift From,ER,No,3175,110,M,,11-Nov-22,22-Nov-22,Discharge,Malik Faisal,11
+Shift From,ER,No,3179,114,F,,11-Nov-22,20-Nov-22,Discharge,Imran Khan,9
+Shift From,ER,No,3180,115,M,,11-Nov-22,16-Nov-22,Discharge,Tariq Nawaz,5
+Shift From,ER,No,3181,116,M,,11-Nov-22,12-Nov-22,Expire,Imran Khan,1
+Shift From,ER,No,3183,118,F,,11-Nov-22,17-Nov-22,Discharge,Tariq Nawaz,6
+Shift From,ER,No,3188,123,F,,12-Nov-22,18-Nov-22,Discharge,Tariq Nawaz,6
+Shift From,ER,No,3193,128,M,,12-Nov-22,18-Nov-22,Discharge,Jabar Ali,6
+Shift From,ER,No,3196,131,M,,12-Nov-22,25-Nov-22,Discharge,Malik Faisal,13
+Shift From,ER,No,3199,134,M,,13-Nov-22,15-Nov-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,3200,135,M,,13-Nov-22,14-Nov-22,Expire,Tariq Nawaz,1
+Shift From,ER,No,3201,136,F,,13-Nov-22,16-Nov-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3203,138,M,,14-Nov-22,15-Nov-22,Discharge,Malik Faisal,1
+Shift From,ER,No,3219,154,M,,15-Nov-22,17-Nov-22,Discharge,Tariq Nawaz,2
+IBP,IBP,No,3220,155,F,,15-Nov-22,17-Nov-22,Discharge,Jabar Ali,2
+Shift From,ER,No,3223,158,F,,15-Nov-22,16-Nov-22,Shifted,Ikram Ullah,1
+Shift From,ER,No,3228,163,F,,16-Nov-22,22-Nov-22,Discharge,Tariq Nawaz,6
+Shift From,ER,No,3229,164,F,,16-Nov-22,23-Nov-22,LAMA,Jabar Ali,7
+Shift From,ER,No,3231,166,M,,16-Nov-22,25-Nov-22,Discharge,Tariq Nawaz,9
+Shift From,ER,No,3232,167,M,,16-Nov-22,17-Nov-22,Discharge,Imran Khan,1
+OPD,OPD,No,3233,168,M,,16-Nov-22,17-Nov-22,Discharge,Sher Bahadar,1
+Shift From,ER,No,3239,174,M,,17-Nov-22,24-Nov-22,Expire,Ikram Ullah,7
+Shift From,ER,No,3240,175,M,,17-Nov-22,8-Dec-22,Discharge,Adil,21
+Shift From,ER,No,3242,177,M,,17-Nov-22,28-Nov-22,Discharge,Imran Khan,11
+Shift From,ER,No,3249,184,M,,18-Nov-22,22-Nov-22,Discharge,Samra Rehmat,4
+Shift From,ER,No,3252,187,F,,18-Nov-22,22-Nov-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,3253,188,F,,18-Nov-22,19-Nov-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,3254,189,F,,18-Nov-22,22-Nov-22,Discharge,Adil,4
+Shift From,ER,No,3256,191,M,,18-Nov-22,19-Nov-22,Discharge,Imran Khan,1
+Shift From,ER,No,3257,192,M,,18-Nov-22,19-Nov-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,3258,193,F,,18-Nov-22,25-Nov-22,Expire,Adil,7
+Shift From,ER,No,3259,194,M,,18-Nov-22,22-Nov-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3260,195,F,,18-Nov-22,19-Nov-22,Discharge,Samra Rehmat,1
+Shift From,ER,No,3261,196,F,,18-Nov-22,23-Nov-22,Shifted,Malik Faisal,5
+Shift From,ER,No,3262,197,M,,18-Nov-22,21-Nov-22,Discharge,Jabar Ali,3
+Shift From,Gastro,No,3265,200,M,,19-Nov-22,26-Nov-22,Discharge,Ikram Ullah,7
+Shift From,ER,No,3266,201,F,,19-Nov-22,22-Nov-22,Discharge,Imran Khan,3
+Shift From,ER,No,3267,202,M,,19-Nov-22,22-Nov-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,3268,203,F,,19-Nov-22,22-Nov-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,3270,205,M,,20-Nov-22,23-Nov-22,LAMA,Ikram Ullah,3
+Shift From,ER,No,3276,211,M,,21-Nov-22,22-Nov-22,LAMA,Ikram Ullah,1
+Shift From,ER,No,3286,221,F,,22-Nov-22,23-Nov-22,Discharge,Imran Khan,1
+Shift From,ER,No,3304,239,M,,23-Nov-22,26-Nov-22,Discharge,Asif Iqbal,3
+Shift From,ER,No,3305,240,F,,24-Nov-22,24-Nov-22,Expire,Imran Khan,1
+Shift From,ER,No,3306,241,M,,24-Nov-22,29-Nov-22,Discharge,Imran Khan,5
+Shift From,ER,No,3307,242,M,,24-Nov-22,29-Nov-22,Discharge,Imran Khan,5
+Shift From,ER,No,3309,244,F,,24-Nov-22,25-Nov-22,Discharge,Imran Khan,1
+IBP,IBP,No,3310,245,M,,24-Nov-22,2-Dec-22,Discharge,Malik Faisal,8
+Shift From,ER,No,3312,247,F,,24-Nov-22,26-Nov-22,Discharge,Jabar Ali,2
+Shift From,ER,No,3313,248,F,,24-Nov-22,25-Nov-22,Expire,Imran Khan,1
+Shift From,ER,No,3314,249,F,,25-Nov-22,26-Nov-22,Discharge,Jabar Ali,1
+Shift From,ER,No,3315,250,M,,25-Nov-22,28-Nov-22,Discharge,Sher Bahadar,3
+Shift From,ER,No,3316,251,M,,25-Nov-22,1-Dec-22,Discharge,Imran Khan,6
+Shift From,ER,No,3317,252,F,,25-Nov-22,29-Nov-22,Expire,Imran Khan,4
+Shift From,ER,No,3318,253,M,,25-Nov-22,28-Nov-22,Discharge,Malik Faisal,3
+Shift From,ER,No,3319,254,F,,25-Nov-22,9-Dec-22,Discharge,Adil,14
+Shift From,ER,No,3320,255,M,,25-Nov-22,1-Dec-22,Discharge,Tariq Nawaz,6
+Shift From,PCW,No,3321,256,F,,25-Nov-22,26-Nov-22,Discharge,Imran Khan,1
+Shift From,ER,No,3322,257,F,,25-Nov-22,26-Nov-22,Discharge,Sadia Ilyas,1
+Shift From,AMU,No,3323,258,F,,25-Nov-22,1-Dec-22,Expire,Malik Faisal,6
+Shift From,ER,No,3324,259,M,,25-Nov-22,1-Dec-22,Discharge,Malik Faisal,6
+Shift From,ER,No,3325,260,M,,25-Nov-22,29-Nov-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3326,261,F,,25-Nov-22,28-Nov-22,Discharge,Jabar Ali,3
+Shift From,ER,No,3327,262,M,,26-Nov-22,7-Dec-22,Discharge,Malik Faisal,11
+Shift From,ER,No,3328,263,M,,26-Nov-22,26-Nov-22,Discharge,Imran Khan,1
+Shift From,ER,No,3329,264,M,,26-Nov-22,29-Nov-22,Discharge,Imran Khan,3
+Shift From,ER,No,3330,265,M,,26-Nov-22,17-Dec-22,Discharge,Malik Faisal,21
+Shift From,ER,No,3331,266,M,,26-Nov-22,7-Dec-22,Discharge,Imran Khan,11
+Shift From,ER,No,3332,267,M,,26-Nov-22,30-Nov-22,Discharge,Imran Khan,4
+Shift From,ER,No,3333,268,M,,26-Nov-22,9-Dec-22,Discharge,Malik Faisal,13
+Shift From,ER,No,3334,269,M,,26-Nov-22,28-Nov-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,3335,270,M,,26-Nov-22,1-Dec-22,Discharge,Imran Khan,5
+Shift From,ER,No,3336,271,F,,26-Nov-22,1-Dec-22,Discharge,Imran Khan,5
+Shift From,ER,No,3347,282,M,,29-Nov-22,2-Dec-22,Discharge,Jabar Ali,3
+Shift From,ER,No,3349,284,M,,29-Nov-22,6-Dec-22,Discharge,Imran Khan,7
+Shift From,ER,No,3356,291,M,,30-Nov-22,1-Dec-22,Discharge,Ikram Ullah,1
+Shift From,ER,No,3359,294,M,,30-Nov-22,30-Nov-22,Expire,Ikram Ullah,1
+Shift From,ER,No,3362,1,M,,1-Dec-22,2-Dec-22,Discharge,Malik Faisal,1
+Shift From,NS ICU,No,3365,4,F,,1-Dec-22,3-Dec-22,Discharge,Tariq Nawaz,2
+Shift From,AMU,No,3374,13,M,,2-Dec-22,7-Dec-22,Expire,Malik Faisal,5
+Shift From,ER,No,3386,25,M,,3-Dec-22,8-Dec-22,Discharge,Asif Iqbal,5
+Shift From,ER,No,3398,37,F,,4-Dec-22,7-Dec-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,3399,38,M,,4-Dec-22,5-Dec-22,Discharge,Jabar Ali,1
+Shift From,ER,No,3402,41,F,,5-Dec-22,9-Dec-22,Discharge,Jabar Ali,4
+Shift From,ER,No,3409,48,F,,5-Dec-22,13-Dec-22,Discharge,Tariq Nawaz,8
+Shift From,ER,No,3410,49,M,,6-Dec-22,8-Dec-22,Expire,Asif Iqbal,2
+Shift From,ER,No,3411,50,F,,6-Dec-22,10-Dec-22,Discharge,Sher Bahadar,4
+Shift From,ER,No,3412,51,M,,6-Dec-22,9-Dec-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3413,52,M,,6-Dec-22,10-Dec-22,Discharge,Jabar Ali,4
+Shift From,ER,No,3414,53,M,,6-Dec-22,9-Dec-22,Discharge,Ikram Ullah,3
+Shift From,ER,No,3415,54,M,,6-Dec-22,9-Dec-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3420,59,M,,7-Dec-22,9-Dec-22,Discharge,Jabar Ali,2
+Shift From,Gastro,No,3422,61,F,,7-Dec-22,9-Dec-22,Discharge,Ikram Ullah,2
+Shift From,ER,No,3429,68,M,,8-Dec-22,13-Dec-22,Discharge,Imran Khan,5
+Shift From,ER,No,3433,72,M,,8-Dec-22,12-Dec-22,Discharge,Imran Khan,4
+Shift From,ER,No,3440,79,F,,9-Dec-22,15-Dec-22,Discharge,Sadia Ilyas,6
+Shift From,ER,No,3442,81,M,,9-Dec-22,13-Dec-22,Discharge,Jabar Ali,4
+OPD,OPD,No,3444,83,M,,9-Dec-22,13-Dec-22,Discharge,Asif Iqbal,4
+Shift From,ER,No,3460,99,F,,10-Dec-22,14-Dec-22,Discharge,Tariq Nawaz,4
+Shift From,ER,No,3464,103,M,,11-Dec-22,15-Dec-22,Discharge,Jabar Ali,4
+Shift From,ER,No,3465,104,M,,12-Dec-22,13-Dec-22,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3466,105,F,,12-Dec-22,14-Dec-22,Discharge,Asif Iqbal,2
+Shift From,ER,No,3479,118,M,,13-Dec-22,15-Dec-22,Discharge,Sher Bahadar,2
+Shift From,ER,No,3483,122,F,,13-Dec-22,15-Dec-22,Discharge,Ikram Ullah,2
+Shift From,ER,No,3484,123,F,,14-Dec-22,16-Dec-22,Discharge,Malik Faisal,2
+Shift From,ER,No,3487,126,M,,14-Dec-22,18-Dec-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,3512,151,F,,15-Dec-22,20-Dec-22,Shifted,Sher Bahadar,5
+Shift From,ER,No,3513,152,M,,15-Dec-22,19-Dec-22,Discharge,Samra Rehmat,4
+Shift From,ER,No,3516,155,F,,16-Dec-22,20-Dec-22,Discharge,Ikram Ullah,4
+Shift From,ER,No,3517,156,F,,16-Dec-22,24-Dec-22,Discharge,Ikram Ullah,8
+Shift From,ER,No,3518,157,M,,16-Dec-22,19-Dec-22,Discharge,Malik Faisal,3
+OPD,OPD,No,3519,158,M,,16-Dec-22,19-Dec-22,Discharge,Ikram Ullah,3
+Shift From,IBP,No,3520,159,M,,16-Dec-22,22-Dec-22,Discharge,Ikram Ullah,6
+Shift From,ER,No,3521,160,F,,16-Dec-22,21-Dec-22,Discharge,Tariq Nawaz,5
+Shift From,ER,No,3522,161,M,,16-Dec-22,20-Dec-22,Discharge,Adil,4
+Shift From,ER,No,3523,162,F,,16-Dec-22,23-Dec-22,Discharge,Jabar Ali,7
+Shift From,ER,No,3524,163,F,,16-Dec-22,22-Dec-22,Discharge,Jabar Ali,6
+Shift From,ER,No,3525,164,F,,16-Dec-22,20-Dec-22,Discharge,Malik Faisal,4
+Shift From,ER,No,3526,165,M,,16-Dec-22,17-Dec-22,LAMA,Malik Faisal,1
+Shift From,ER,No,3528,167,M,,17-Dec-22,20-Dec-22,Discharge,Malik Faisal,3
+Shift From,ER,No,3530,169,M,,17-Dec-22,21-Dec-22,Discharge,Tariq Nawaz,4
+Shift From,ER,No,3531,170,M,,17-Dec-22,22-Dec-22,Discharge,Malik Faisal,5
+Shift From,ER,No,3532,171,F,,17-Dec-22,22-Dec-22,Discharge,Imran Khan,5
+Shift From,ER,No,3533,172,F,,17-Dec-22,20-Dec-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3534,173,M,,17-Dec-22,19-Dec-22,Discharge,Tariq Nawaz,2
+Shift From,ER,No,3537,176,M,,17-Dec-22,22-Dec-22,Discharge,Tariq Nawaz,5
+Shift From,ER,No,3538,177,F,,18-Dec-22,21-Dec-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3547,186,M,,19-Dec-22,23-Dec-22,Discharge,Jabar Ali,4
+Shift From,ER,No,3553,192,M,,20-Dec-22,24-Dec-22,Discharge,Malik Faisal,4
+OPD,OPD,No,3557,196,M,,20-Dec-22,21-Dec-22,Discharge,Jabar Ali,1
+Shift From,ER,No,3566,205,F,,21-Dec-22,27-Dec-22,Discharge,Sher Bahadar,6
+Shift From,ER,No,3571,210,F,,21-Dec-22,26-Dec-22,Discharge,Ikram Ullah,5
+Shift From,ER,No,3582,221,F,,23-Dec-22,26-Dec-22,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3583,222,F,,23-Dec-22,23-Dec-22,Discharge,Jabar Ali,0
+Shift From,ER,No,3584,223,M,,23-Dec-22,26-Dec-22,Discharge,Samra Rehmat,3
+Shift From,ER,No,3585,224,M,,23-Dec-22,31-Dec-22,Discharge,Samra Rehmat,8
+Shift From,ER,No,3586,225,F,,23-Dec-22,26-Dec-22,Discharge,Malik Faisal,3
+Shift From,ER,No,3587,226,F,,23-Dec-22,31-Dec-22,Discharge,Imran Khan,8
+Shift From,ER,No,3588,227,M,,23-Dec-22,28-Dec-22,Discharge,Imran Khan,5
+Shift From,ER,No,3589,228,F,,23-Dec-22,26-Dec-22,Discharge,Samra Rehmat,3
+IBP,IBP,No,3590,229,M,,23-Dec-22,10-Jan-23,Discharge,Jabar Ali,18
+Shift From,ER,No,3591,230,M,,23-Dec-22,26-Dec-22,Discharge,Malik Faisal,3
+IBP,IBP,No,3592,231,F,,23-Dec-22,12-Jan-23,Discharge,Jabar Ali,20
+Shift From,ER,No,3594,233,F,,23-Dec-22,29-Dec-22,Discharge,Imran Khan,6
+Shift From,ER,No,3623,262,M,,27-Dec-22,2-Jan-23,Discharge,Sher Bahadar,6
+OPD,OPD,No,3629,268,F,,27-Dec-22,28-Dec-22,Discharge,Jabar Ali,1
+Shift From,ER,No,3637,276,M,,28-Dec-22,31-Dec-22,Discharge,Imran Khan,3
+Shift From,IBP FC,No,3649,288,F,,28-Dec-22,4-Jan-23,Discharge,Jabar Ali,7
+Shift From,ER,No,3651,290,M,,29-Dec-22,5-Jan-23,Discharge,Malik Faisal,7
+Shift From,ER,No,3654,293,M,,29-Dec-22,5-Jan-23,Discharge,Malik Faisal,7
+Shift From,ER,No,3664,303,F,,30-Dec-22,5-Jan-23,Discharge,Ikram Ullah,6
+Shift From,ER,No,3665,304,F,,30-Dec-22,4-Jan-23,Discharge,Imran Khan,5
+Shift From,ER,No,3667,306,M,,30-Dec-22,1-Jan-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3669,308,F,,31-Dec-22,6-Jan-23,Discharge,Ikram Ullah,6
+Shift From,ER,No,3670,309,M,,31-Dec-22,2-Jan-23,Expire,Imran Khan,2
+Shift From,ER,No,3671,310,M,,31-Dec-22,6-Jan-23,Discharge,Imran Khan,6
+Shift From,ER,yes,131,131,M,,13-Jan-23,20-Jan-23,Shifted,Malik Faisal,7
+Shift From,ER,yes,167,167,M,,17-Jan-23,22-Jan-23,Discharge,Asif Iqbal,5
+OPD,OPD,yes,176,176,F,,18-Jan-23,31-Jan-23,Discharge,Jabar Ali,13
+Shift From,Neprology,yes,184,184,F,,19-Jan-23,1-Feb-23,Expire,Malik Faisal,13
+Shift From,ER,yes,185,185,M,,19-Jan-23,27-Jan-23,Discharge,Jabar Ali,8
+Shift From,ER,yes,206,206,F,,21-Jan-23,29-Jan-23,Discharge,Sher Bahadar,8
+Shift From,ER,yes,251,251,F,,26-Jan-23,27-Jan-23,Discharge,Samra Rehmat,1
+Shift From,ER,yes,253,253,M,,27-Jan-23,31-Jan-23,Discharge,Samra Rehmat,4
+Shift From,MMC,yes,266,266,M,,27-Jan-23,27-Jan-23,Expire,Tariq Nawaz,0
+Shift From,ER,yes,276,276,F,,28-Jan-23,6-Feb-23,Discharge,Asif Iqbal,9
+Shift From,ER,yes,279,279,F,,29-Jan-23,1-Feb-23,Discharge,Jabar Ali,3
+Shift From,ER,yes,280,280,M,,29-Jan-23,30-Jan-23,Discharge,Adil,1
+Shift From,ER,yes,284,284,M,,29-Jan-23,31-Jan-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,288,288,F,,29-Jan-23,9-Feb-23,Discharge,Jabar Ali,11
+Shift From,ER,yes,291,291,M,,30-Jan-23,31-Jan-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,292,292,F,,30-Jan-23,1-Feb-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,312,312,M,,31-Jan-23,2-Feb-23,Discharge,Jabar Ali,2
+IBP,IBP,yes,324,10,M,,1-Feb-23,3-Feb-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,325,11,F,,1-Feb-23,4-Feb-23,Shifted,Sher Bahadar,3
+Shift From,ER,yes,326,12,F,,1-Feb-23,2-Feb-23,Discharge,Imran Khan,1
+IBP,Post Cath,yes,338,24,M,,2-Feb-23,6-Feb-23,Expire,Jabar Ali,4
+Shift From,Post Cath,yes,339,25,F,,2-Feb-23,3-Feb-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,346,32,F,,3-Feb-23,4-Feb-23,Discharge,Imran Khan,1
+Shift From,ER,yes,347,33,F,,3-Feb-23,4-Feb-23,Discharge,Imran Khan,1
+Shift From,ER,yes,360,46,F,,4-Feb-23,11-Feb-23,Discharge,Imran Khan,7
+Shift From,ER,yes,368,54,M,,6-Feb-23,10-Feb-23,Discharge,Imran Khan,4
+Shift From,ER,yes,369,55,F,,6-Feb-23,16-Feb-23,Discharge,Imran Khan,10
+Shift From,ER,yes,371,57,M,,6-Feb-23,8-Feb-23,Discharge,Imran Khan,2
+Shift From,ER,yes,372,58,F,,6-Feb-23,8-Feb-23,Discharge,Asif Iqbal,2
+Shift From,ER,yes,373,59,F,,6-Feb-23,8-Feb-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,374,60,M,,6-Feb-23,14-Feb-23,Discharge,Jabar Ali,8
+Shift From,ER,yes,380,66,F,,7-Feb-23,9-Feb-23,Discharge,Jabar Ali,2
+Shift From,Gyne,No,386,72,F,,8-Feb-23,15-Feb-23,Discharge,Adil,7
+Shift From,ER,yes,388,74,M,,8-Feb-23,13-Feb-23,Discharge,Ikram Ullah,5
+OPD,Post Cath,yes,392,78,F,,8-Feb-23,10-Feb-23,Discharge,Sher Bahadar,2
+IBP,Post Cath,yes,394,80,M,,8-Feb-23,24-Feb-23,Discharge,Jabar Ali,16
+Shift From,ER,yes,410,96,F,,9-Feb-23,11-Feb-23,Expire,Samra Rehmat,2
+IBP,Post Cath,yes,411,97,F,,9-Feb-23,10-Feb-23,Discharge,Malik Faisal,1
+IBP,Post Cath,yes,412,98,F,,9-Feb-23,10-Feb-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,413,99,F,,9-Feb-23,10-Feb-23,Discharge,Tariq Nawaz,1
+IBP,Post Cath,yes,414,100,F,,9-Feb-23,13-Feb-23,Discharge,Ikram Ullah,4
+Shift From,ER,yes,415,101,M,,9-Feb-23,18-Feb-23,Discharge,Jabar Ali,9
+Shift From,ER,yes,421,107,M,,10-Feb-23,15-Feb-23,Discharge,Samra Rehmat,5
+Shift From,ER,No,433,119,M,,11-Feb-23,17-Feb-23,Expire,Samra Rehmat,6
+Shift From,ER,yes,445,131,M,,13-Feb-23,15-Feb-23,Discharge,Malik Faisal,2
+Shift From,NSICU,No,448,134,F,,13-Feb-23,17-Feb-23,Expire,Sher Bahadar,4
+Shift From,ER,yes,487,173,M,,16-Feb-23,21-Feb-23,Discharge,Malik Faisal,5
+Shift From,ER,yes,495,181,M,,17-Feb-23,18-Feb-23,Discharge,Imran Khan,1
+Shift From,ER,yes,501,187,F,,18-Feb-23,23-Feb-23,Discharge,Imran Khan,5
+Shift From,ER,yes,502,188,F,,18-Feb-23,21-Feb-23,Discharge,Malik Faisal,3
+Shift From,ER,No,509,195,M,,19-Feb-23,20-Feb-23,Discharge,Samra Rehmat,1
+Shift From,ER,yes,511,197,M,,20-Feb-23,22-Feb-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,517,203,M,,20-Feb-23,26-Feb-23,Discharge,Samra Rehmat,6
+Shift From,ER,yes,522,208,F,,21-Feb-23,21-Feb-23,Expire,Ikram Ullah,0
+IBP,Post Cath,yes,546,232,M,,22-Feb-23,26-Feb-23,Discharge,Jabar Ali,4
+Shift From,ER,yes,549,235,M,,23-Feb-23,2-Mar-23,Discharge,Imran Khan,7
+Shift From,ER,yes,550,236,F,,23-Feb-23,26-Feb-23,Discharge,Samra Rehmat,3
+Shift From,ER,yes,551,237,M,,23-Feb-23,27-Feb-23,Discharge,Samra Rehmat,4
+IBP,Post Cath,yes,573,259,F,,24-Feb-23,10-Mar-23,Discharge,Jabar Ali,14
+Shift From,ER,yes,590,276,M,,27-Feb-23,1-Mar-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,607,293,F,,28-Feb-23,28-Feb-23,Discharge,Imran Khan,0
+OPD,OPD,yes,608,294,F,,28-Feb-23,1-Mar-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,613,299,F,,28-Feb-23,3-Mar-23,Discharge,Ikram Ullah,3
+Shift From,ER,yes,615,301,F,,28-Feb-23,2-Mar-23,Discharge,Imran Khan,2
+ER,Post Cath,yes,624,4,F,,1-Mar-23,4-Mar-23,Discharge,Sadia Ilyas,3
+IBP,IBP,yes,643,23,M,,2-Mar-23,4-Mar-23,Expire,Jabar Ali,2
+Shift From,ER,yes,644,24,M,,2-Mar-23,3-Mar-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,663,43,M,,5-Mar-23,7-Mar-23,Discharge,Imran Khan,2
+Shift From,ER,yes,669,49,M,,6-Mar-23,8-Mar-23,Discharge,Asif Iqbal,2
+Shift From,ER,yes,671,51,M,,6-Mar-23,7-Mar-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,685,65,M,,7-Mar-23,7-Mar-23,Discharge,Imran Khan,0
+Shift From,ER,yes,697,77,F,,8-Mar-23,9-Mar-23,Discharge,Imran Khan,1
+Shift From,ER,yes,704,84,F,,8-Mar-23,14-Mar-23,Discharge,Sher Bahadar,6
+Shift From,ER,yes,709,89,F,,9-Mar-23,10-Mar-23,Discharge,Ikram Ullah,1
+Shift From,ER,No,735,115,M,,11-Mar-23,14-Mar-23,DOW,Tariq Nawaz,3
+Shift From,ER,yes,736,116,M,,11-Mar-23,3-Apr-23,Discharge,Jabar Ali,23
+Shift From,ER,yes,737,117,M,,11-Mar-23,13-Mar-23,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,750,130,F,,13-Mar-23,17-Mar-23,Discharge,Jabar Ali,4
+Shift From,ER,yes,762,142,M,,14-Mar-23,22-Mar-23,Discharge,Jabar Ali,8
+Shift From,ER,yes,765,145,M,,14-Mar-23,15-Mar-23,Discharge,Imran Khan,1
+Shift From,ER,yes,778,158,M,,15-Mar-23,30-Mar-23,Discharge,Ikram Ullah,15
+Shift From,ER,yes,789,169,M,,16-Mar-23,20-Mar-23,Discharge,Ikram Ullah,4
+Shift From,ER,yes,797,177,F,,16-Mar-23,21-Mar-23,Discharge,Malik Faisal,5
+Shift From,ER,No,799,179,M,,16-Mar-23,18-Mar-23,Expire,Malik Faisal,2
+Shift From,Post Cath,yes,813,193,M,,18-Mar-23,21-Mar-23,Discharge,Tariq Nawaz,3
+Shift From,Post Cath,yes,814,194,M,,18-Mar-23,21-Mar-23,Discharge,Tariq Nawaz,3
+Shift From,ER,No,826,206,F,,20-Mar-23,25-Mar-23,Discharge,Samra Rehmat,5
+Shift From,ER,yes,829,209,M,,20-Mar-23,21-Mar-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,832,212,M,,20-Mar-23,21-Mar-23,Discharge,Ikram Ullah,1
+IBP,IBP,yes,834,214,F,,20-Mar-23,24-Mar-23,Discharge,Jabar Ali,4
+Shift From,ER,yes,840,220,F,,21-Mar-23,25-Mar-23,Expire,Sher Bahadar,4
+Shift From,ER,yes,841,221,F,,21-Mar-23,24-Mar-23,Discharge,Imran Khan,3
+Shift From,ER,yes,855,235,M,,21-Mar-23,22-Mar-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,857,237,F,,21-Mar-23,23-Mar-23,Discharge,Imran Khan,2
+Shift From,ER,No,858,238,M,,22-Mar-23,25-Mar-23,Discharge,Imran Khan,3
+Shift From,ER,yes,859,239,F,,22-Mar-23,24-Mar-23,Discharge,Imran Khan,2
+Shift From,ER,yes,890,270,M,,25-Mar-23,28-Mar-23,Discharge,Malik Faisal,3
+Shift From,ER,yes,891,271,M,,25-Mar-23,26-Mar-23,Discharge,Malik Faisal,1
+Shift From,ER,No,892,272,F,,26-Mar-23,29-Mar-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,896,276,F,,26-Mar-23,30-Mar-23,Discharge,Imran Khan,4
+Shift From,ER,No,897,277,F,,26-Mar-23,29-Mar-23,Discharge,Imran Khan,3
+Shift From,ER,yes,904,284,M,,27-Mar-23,29-Mar-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,914,294,F,,27-Mar-23,28-Mar-23,LAMA,Jabar Ali,1
+Shift From,ER,yes,933,313,M,,29-Mar-23,30-Mar-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,943,324,F,,30-Mar-23,3-Apr-23,Discharge,Imran Khan,4
+Shift From,ER,yes,957,337,M,,31-Mar-23,3-Apr-23,Discharge,Malik Faisal,3
+Shift From,ER,yes,961,1,M,,1-Apr-23,1-Apr-23,Discharge,Samra Rehmat,0
+Shift From,ER,yes,962,2,F,,1-Apr-23,3-Apr-23,Discharge,Malik Faisal,2
+Shift From,ER,yes,963,3,M,,1-Apr-23,3-Apr-23,Discharge,Malik Faisal,2
+Shift From,ER,yes,966,6,M,,1-Apr-23,5-Apr-23,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,967,7,F,,1-Apr-23,8-May-23,Discharge,Tariq Nawaz,37
+Shift From,ER,yes,978,18,F,,2-Apr-23,5-Apr-23,Discharge,Sher Bahadar,3
+Shift From,ER,No,985,25,M,,3-Apr-23,7-Apr-23,Discharge,Jabar Ali,4
+Shift From,FMB,yes,993,33,F,,4-Apr-23,4-Apr-23,Shifted,Tariq Nawaz,0
+Shift From,ER,yes,994,34,M,,4-Apr-23,6-Apr-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,1002,42,F,,4-Apr-23,7-Apr-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1004,44,F,,5-Apr-23,6-Apr-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,1016,56,F,,6-Apr-23,11-Apr-23,Discharge,Samra Rehmat,5
+Shift From,ER,yes,1037,77,M,,7-Apr-23,11-Apr-23,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,1042,82,M,,8-Apr-23,11-Apr-23,Discharge,Adil,3
+Shift From,ER,No,1043,83,F,,8-Apr-23,12-Apr-23,Discharge,Adil,4
+Shift From,Post Cath,yes,1049,89,M,,8-Apr-23,11-Apr-23,Discharge,Adil,3
+Shift From,Post Cath,yes,1050,90,M,,8-Apr-23,10-Apr-23,Discharge,Adil,2
+Shift From,Post Cath,yes,1051,91,M,,8-Apr-23,11-Apr-23,Discharge,Adil,3
+Shift From,ER,yes,1063,103,M,,11-Apr-23,14-Apr-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1079,119,M,,12-Apr-23,22-May-23,Discharge,Tariq Nawaz,40
+Shift From,ER,yes,1084,124,M,,12-Apr-23,15-Apr-23,LAMA,Jabar Ali,3
+Shift From,ER,yes,1085,125,F,,12-Apr-23,21-Apr-23,Discharge,Tariq Nawaz,9
+Shift From,ER,No,1088,128,F,,13-Apr-23,17-Apr-23,Discharge,Adil,4
+Shift From,ER,yes,1094,134,F,,14-Apr-23,15-Apr-23,Discharge,Malik Faisal,1
+Shift From,ER,yes,1108,148,F,,15-Apr-23,21-Apr-23,Discharge,Jabar Ali,6
+Shift From,ER,yes,1110,150,M,,16-Apr-23,16-Apr-23,Discharge,Imran Khan,0
+Shift From,ER,yes,1135,175,M,,19-Apr-23,1-May-23,Discharge,Samra Rehmat,12
+Shift From,Post Cath,yes,1207,247,M,,26-Apr-23,28-Apr-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,1215,255,M,,27-Apr-23,30-Apr-23,Discharge,Imran Khan,3
+Shift From,ER,yes,1216,256,F,,27-Apr-23,2-May-23,Discharge,Imran Khan,5
+Shift From,Post Cath,yes,1217,257,M,,27-Apr-23,28-Apr-23,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1218,258,M,,27-Apr-23,3-May-23,Discharge,Ikram Ullah,6
+Shift From,Post Cath,yes,1219,259,F,,27-Apr-23,28-Apr-23,Discharge,Ikram Ullah,1
+Shift From,Post Cath,yes,1249,3,M,,1-May-23,5-May-23,Discharge,Sher Bahadar,4
+Shift From,ER,yes,1253,7,M,,1-May-23,12-May-23,Discharge,Ikram Ullah,11
+Shift From,ER,No,1267,21,M,,2-May-23,5-May-23,Discharge,Jabar Ali,3
+Shift From,Orthup,yes,1271,25,M,,3-May-23,13-May-23,Discharge,Malik Faisal,10
+Shift From,Endo,yes,1283,37,F,,4-May-23,12-May-23,Discharge,Jabar Ali,8
+Shift From,ER,yes,1287,41,F,,4-May-23,5-May-23,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1299,53,M,,5-May-23,9-May-23,Discharge,Adil,4
+Shift From,ER,yes,1312,66,M,,5-May-23,10-May-23,Discharge,Jabar Ali,5
+Shift From,ER,No,1315,69,M,,6-May-23,7-May-23,Discharge,Malik Faisal,1
+Shift From,ER,yes,1338,92,F,,9-May-23,12-May-23,Discharge,Malik Faisal,3
+Shift From,ER,No,1342,96,M,,10-May-23,10-May-23,Discharge,Ikram Ullah,0
+Shift From,ER,yes,1394,148,M,,15-May-23,17-May-23,Discharge,Malik Faisal,2
+Shift From,ER,yes,1435,189,F,,19-May-23,22-May-23,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1445,199,M,,20-May-23,20-May-23,Expire,Asif Iqbal,0
+Shift From,ER,yes,1457,211,F,,22-May-23,3-Jun-23,Discharge,Adil,12
+Shift From,ER,yes,1461,215,M,,23-May-23,24-May-23,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1468,222,M,,23-May-23,29-May-23,Discharge,Tariq Nawaz,6
+Shift From,ER,yes,1476,230,M,,24-May-23,6-Jun-23,Discharge,Asif Iqbal,13
+Shift From,ER,yes,1477,231,M,,24-May-23,29-May-23,Discharge,Imran Khan,5
+IBP,IBP,yes,1486,240,M,,25-May-23,28-May-23,Shifted,Jabar Ali,3
+Shift From,ER,yes,1491,245,F,,26-May-23,29-May-23,Discharge,Samra Rehmat,3
+Shift From,NSHDU,yes,1508,262,M,,27-May-23,3-Jul-23,Discharge,Samra Rehmat,37
+Shift From,ER,yes,1546,300,M,,30-May-23,2-Jun-23,Discharge,Arshad Sohail,3
+Shift From,ER,yes,1567,7,F,,1-Jun-23,3-Jun-23,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1628,68,M,,6-Jun-23,10-Jun-23,Discharge,Sher Bahadar,4
+Shift From,ER,yes,1633,73,M,,7-Jun-23,9-Jun-23,Discharge,Tariq Nawaz,2
+Shift From,GICU,yes,1637,77,M,,7-Jun-23,12-Jul-23,Discharge,Adil,35
+Shift From,ER,yes,1640,80,M,,7-Jun-23,10-Jun-23,Discharge,Jabar Ali,3
+Shift From,ER,yes,1674,114,F,,11-Jun-23,12-Jun-23,Expire,Malik Faisal,1
+Shift From,ER,yes,1686,126,F,,12-Jun-23,13-Jun-23,Discharge,Malik Faisal,1
+Shift From,Post Cath,yes,1693,133,F,,13-Jun-23,14-Jun-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,1705,145,F,,14-Jun-23,19-Jun-23,Discharge,Malik Faisal,5
+Shift From,ER,yes,1709,149,M,,14-Jun-23,17-Jun-23,Discharge,Jabar Ali,3
+Shift From,Post Cath,yes,1728,168,M,,16-Jun-23,17-Jun-23,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,1742,182,M,,16-Jun-23,17-Jun-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,1746,186,F,,17-Jun-23,19-Jun-23,Discharge,Asif Iqbal,2
+Shift From,ER,yes,1748,188,F,,17-Jun-23,22-Jun-23,Discharge,Asif Iqbal,5
+Shift From,ER,yes,1761,201,M,,19-Jun-23,21-Jun-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,1763,203,F,,19-Jun-23,21-Jun-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1815,255,M,,24-Jun-23,3-Jul-23,Discharge,Asif Iqbal,9
+Shift From,ER,yes,1844,284,M,,27-Jun-23,28-Jun-23,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1845,285,F,,27-Jun-23,28-Jun-23,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1848,288,M,,27-Jun-23,29-Jun-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,1856,296,F,,29-Jun-23,12-Jul-23,Discharge,Tariq Nawaz,13
+Shift From,ER,No,1874,9,M,,2-Jul-23,7-Jul-23,Discharge,Imran Khan,5
+Shift From,ER,yes,1883,18,M,,3-Jul-23,5-Jul-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,1884,19,F,,3-Jul-23,4-Jul-23,Discharge,Imran Khan,1
+Shift From,ER,yes,1885,20,F,,3-Jul-23,6-Jul-23,Expire,Asif Iqbal,3
+Shift From,ER,yes,1886,21,F,,3-Jul-23,4-Jul-23,Discharge,Adil,1
+Shift From,ER,yes,1887,22,M,,3-Jul-23,4-Jul-23,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1888,23,F,,3-Jul-23,12-Jul-23,Discharge,Jabar Ali,9
+Shift From,ER,yes,1889,24,F,,3-Jul-23,6-Jul-23,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1903,38,M,,4-Jul-23,7-Jul-23,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1906,41,F,,5-Jul-23,7-Jul-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1924,59,F,,7-Jul-23,17-Jul-23,Discharge,Malik Faisal,10
+Shift From,ER,yes,1925,60,F,,7-Jul-23,8-Jul-23,Discharge,Sher Bahadar,1
+Shift From,ER,yes,1926,61,M,,7-Jul-23,7-Jul-23,Discharge,Tariq Nawaz,0
+Shift From,Post Cath,yes,1947,82,M,,8-Jul-23,10-Jul-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1977,112,M,,11-Jul-23,22-Jul-23,Discharge,Tariq Nawaz,11
+Shift From,ER,yes,1979,114,F,,11-Jul-23,19-Jul-23,Expire,Tariq Nawaz,8
+Shift From,ER,yes,1993,128,F,,11-Jul-23,13-Jul-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,1995,130,M,,12-Jul-23,27-Jul-23,Discharge,Said Zaman,15
+Shift From,ER,yes,2003,138,M,,12-Jul-23,26-Jul-23,Discharge,Malik Faisal,14
+Shift From,ER,yes,2009,144,F,,13-Jul-23,15-Jul-23,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,2062,197,M,,18-Jul-23,26-Jul-23,Discharge,Jabar Ali,8
+Shift From,ER,yes,2070,205,F,,19-Jul-23,22-Jul-23,Discharge,Jabar Ali,3
+Shift From,ER,yes,2071,206,M,,19-Jul-23,29-Jul-23,Discharge,Imran Khan,10
+Shift From,ER,yes,2072,207,F,,19-Jul-23,22-Jul-23,LAMA,Ikram Ullah,3
+Shift From,PCW,yes,2073,208,M,,19-Jul-23,20-Jul-23,Discharge,Asif Iqbal,1
+Shift From,ER,yes,2116,251,F,,22-Jul-23,7-Aug-23,Discharge,Imran Khan,16
+Shift From,ER,yes,2117,252,F,,22-Jul-23,24-Jul-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,2118,253,F,,22-Jul-23,24-Jul-23,Discharge,Imran Khan,2
+Shift From,ER,yes,2119,254,F,,22-Jul-23,27-Jul-23,Discharge,Malik Faisal,5
+Shift From,ER,yes,2120,255,M,,22-Jul-23,8-Aug-23,Discharge,Malik Faisal,17
+Shift From,ER,yes,2121,256,M,,22-Jul-23,24-Jul-23,Discharge,Imran Khan,2
+Shift From,ER,yes,2122,257,F,,23-Jul-23,24-Jul-23,Discharge,Malik Faisal,1
+Shift From,ER,yes,2124,259,M,,23-Jul-23,25-Jul-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,2627,33,F,,4-Sep-23,7-Sep-23,Discharge,Malik Faisal,3
+Shift From,ER,yes,2628,34,M,,4-Sep-23,9-Sep-23,Shifted,Jabar Ali,5
+Shift From,ER,yes,2631,37,M,,4-Sep-23,7-Sep-23,Discharge,Samra Rehmat,3
+Shift From,ER,yes,2635,41,F,,4-Sep-23,9-Sep-23,Discharge,Asif Iqbal,5
+Shift From,nepro,No,2641,47,F,,5-Sep-23,21-Sep-23,Discharge,Tariq Nawaz,16
+Shift From,ER,yes,2642,48,F,,5-Sep-23,8-Sep-23,Discharge,Sher Bahadar,3
+Shift From,ER,yes,2643,49,M,,5-Sep-23,8-Sep-23,Discharge,Ikram Ullah,3
+Shift From,ER,yes,2654,60,M,,6-Sep-23,14-Sep-23,Discharge,Malik Faisal,8
+IBP,IBPP,yes,2657,63,M,,6-Sep-23,8-Sep-23,Discharge,Jabar Ali,2
+IBP,IBPP,yes,2658,64,M,,6-Sep-23,8-Sep-23,Discharge,Jabar Ali,2
+Shift From,ER,No,2659,65,F,,6-Sep-23,8-Sep-23,Discharge,Imran Khan,2
+Shift From,ER,yes,2665,71,M,,7-Sep-23,11-Sep-23,Expire,Asif Iqbal,4
+Shift From,ER,yes,2666,72,F,,7-Sep-23,20-Sep-23,Discharge,Jabar Ali,13
+Shift From,ER,yes,2672,78,M,,8-Sep-23,9-Sep-23,Discharge,Said Zaman,1
+Shift From,ER,yes,2675,81,F,,8-Sep-23,12-Sep-23,Discharge,Malik Faisal,4
+Shift From,Post Cath,yes,2677,83,M,,8-Sep-23,9-Sep-23,Discharge,Asif Iqbal,1
+Shift From,ER,yes,2689,95,M,,10-Sep-23,19-Sep-23,Shifted,Tariq Nawaz,9
+Shift From,ER,yes,2697,103,M,,11-Sep-23,23-Sep-23,Discharge,Asif Iqbal,12
+Shift From,ER,No,2698,104,F,,11-Sep-23,14-Sep-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,2699,105,F,,11-Sep-23,12-Sep-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,2700,106,M,,11-Sep-23,27-Sep-23,Discharge,Asif Iqbal,16
+Shift From,ER,yes,2701,107,M,,11-Sep-23,12-Sep-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,2703,109,F,,11-Sep-23,12-Sep-23,Discharge,Asif Iqbal,1
+Shift From,ER,yes,2705,111,M,,11-Sep-23,12-Sep-23,Discharge,Asif Iqbal,1
+Shift From,ER,yes,2713,119,F,,12-Sep-23,15-Sep-23,Discharge,Tariq Nawaz,3
+Shift From,Post Cath,yes,2714,120,M,,12-Sep-23,13-Sep-23,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,2715,121,F,,12-Sep-23,13-Sep-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,2716,122,F,,12-Sep-23,15-Sep-23,Discharge,Ikram Ullah,3
+Shift From,ER,yes,2717,123,F,,12-Sep-23,16-Sep-23,Discharge,Jabar Ali,4
+Shift From,Post Cath,yes,2718,124,F,,12-Sep-23,13-Sep-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,2719,125,M,,12-Sep-23,16-Sep-23,Discharge,Ikram Ullah,4
+Shift From,ER,yes,2720,126,M,,12-Sep-23,21-Sep-23,Discharge,Tariq Nawaz,9
+IBP,IBPP,yes,2723,129,M,,12-Sep-23,20-Sep-23,Discharge,Jabar Ali,8
+Shift From,Post Cath,yes,2732,138,F,,13-Sep-23,15-Sep-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,2734,140,M,,13-Sep-23,14-Sep-23,Discharge,Jabar Ali,1
+Shift From,Neurology,yes,2745,151,M,,14-Sep-23,15-Sep-23,Discharge,Samra Rehmat,1
+Shift From,ER,yes,2746,152,M,,14-Sep-23,19-Sep-23,Discharge,Samra Rehmat,5
+Shift From,Chest,yes,2747,153,F,,14-Sep-23,16-Sep-23,Shifted,Tariq Nawaz,2
+IBP,IBPP,yes,2748,154,M,,14-Sep-23,19-Sep-23,Discharge,Jabar Ali,5
+Shift From,ER,yes,2749,155,M,,14-Sep-23,15-Sep-23,Discharge,Malik Faisal,1
+Shift From,ER,No,2753,159,F,,15-Sep-23,15-Sep-23,Discharge,Samra Rehmat,0
+Shift From,ER,yes,2754,160,M,,15-Sep-23,19-Sep-23,Discharge,Adil,4
+Shift From,Post Cath,yes,2756,162,M,,15-Sep-23,15-Sep-23,Discharge,Samra Rehmat,0
+Shift From,ER,yes,2757,163,F,,15-Sep-23,19-Sep-23,Discharge,Malik Faisal,4
+Shift From,ER,yes,2780,186,F,,18-Sep-23,21-Sep-23,Shifted,Adil,3
+Shift From,ER,yes,2791,197,F,,19-Sep-23,28-Sep-23,Discharge,Asif Iqbal,9
+Shift From,ER,yes,2792,198,F,,19-Sep-23,21-Sep-23,Discharge,Samra Rehmat,2
+Shift From,Post Cath,yes,2793,199,M,,19-Sep-23,23-Sep-23,Discharge,Malik Faisal,4
+Shift From,Post Cath,yes,2794,200,F,,19-Sep-23,20-Sep-23,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,2795,201,M,,19-Sep-23,20-Sep-23,Expire,Tariq Nawaz,1
+Shift From,ER,yes,2811,217,M,,20-Sep-23,21-Sep-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,2813,219,M,,20-Sep-23,26-Sep-23,Discharge,Malik Faisal,6
+Shift From,ER,yes,2814,220,M,,20-Sep-23,21-Sep-23,Discharge,Imran Khan,1
+Shift From,ER,yes,2816,222,F,,20-Sep-23,2-Oct-23,Discharge,Sher Bahadar,12
+Shift From,ER,yes,2818,224,F,,21-Sep-23,9-Oct-23,Discharge,Malik Faisal,18
+Shift From,ER,yes,2820,226,M,,21-Sep-23,22-Sep-23,Discharge,Said Zaman,1
+Shift From,ER,yes,2821,227,M,,21-Sep-23,27-Sep-23,Discharge,Said Zaman,6
+Shift From,Post Cath,yes,2822,228,M,,21-Sep-23,26-Sep-23,Discharge,Said Zaman,5
+Shift From,ER,yes,2823,229,M,,21-Sep-23,23-Sep-23,Discharge,Imran Khan,2
+Shift From,ER,No,2824,230,M,,21-Sep-23,25-Sep-23,Discharge,Jabar Ali,4
+Shift From,Post Cath,yes,2833,239,M,,22-Sep-23,23-Sep-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,2834,240,F,,22-Sep-23,28-Sep-23,Discharge,Said Zaman,6
+Shift From,ER,No,2835,241,M,,22-Sep-23,2-Oct-23,Discharge,Said Zaman,10
+Shift From,ER,yes,2836,242,F,,22-Sep-23,6-Oct-23,Discharge,Said Zaman,14
+Shift From,ER,No,2837,243,M,,22-Sep-23,23-Sep-23,Discharge,Said Zaman,1
+Shift From,ER,yes,2838,244,F,,22-Sep-23,25-Sep-23,Discharge,Sher Bahadar,3
+Shift From,ER,yes,2839,245,M,,22-Sep-23,26-Sep-23,Discharge,Said Zaman,4
+Shift From,ER,yes,2844,250,M,,23-Sep-23,30-Sep-23,Discharge,Jabar Ali,7
+Shift From,ER,yes,2845,251,F,,23-Sep-23,27-Sep-23,Discharge,Imran Khan,4
+Shift From,ER,yes,2847,253,M,,23-Sep-23,28-Sep-23,Discharge,Imran Khan,5
+Shift From,ER,yes,2848,254,F,,23-Sep-23,25-Sep-23,Discharge,Samra Rehmat,2
+Shift From,Post Cath,yes,2849,255,M,,23-Sep-23,26-Sep-23,Discharge,Imran Khan,3
+Shift From,ER,yes,2850,256,F,,23-Sep-23,28-Sep-23,Discharge,Imran Khan,5
+Shift From,Post Cath,yes,2851,257,F,,23-Sep-23,26-Sep-23,Discharge,Imran Khan,3
+Shift From,Post Cath,yes,2852,258,M,,23-Sep-23,25-Sep-23,Discharge,Imran Khan,2
+Shift From,ER,yes,2870,276,M,,26-Sep-23,28-Sep-23,Discharge,Tariq Nawaz,2
+Shift From,Post Cath,yes,2871,277,M,,26-Sep-23,27-Sep-23,Discharge,Said Zaman,1
+Shift From,Post Cath,yes,2872,278,M,,26-Sep-23,30-Sep-23,Discharge,Tariq Nawaz,4
+Shift From,cath lab,yes,2873,279,F,,26-Sep-23,27-Sep-23,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,2874,280,M,,26-Sep-23,29-Sep-23,Discharge,Tariq Nawaz,3
+Shift From,Post Cath,yes,2875,281,M,,26-Sep-23,27-Sep-23,Discharge,Ikram Ullah,1
+Shift From,ER,yes,2876,282,F,,26-Sep-23,27-Sep-23,Discharge,Ikram Ullah,1
+Shift From,ER,No,2877,283,F,,26-Sep-23,28-Sep-23,Discharge,Sher Bahadar,2
+Shift From,ER,No,2878,284,M,,26-Sep-23,29-Sep-23,Discharge,Imran Khan,3
+Shift From,ER,yes,2880,286,M,,26-Sep-23,27-Sep-23,Discharge,Sher Bahadar,1
+Shift From,ER,yes,2887,293,M,,27-Sep-23,3-Oct-23,Discharge,Ikram Ullah,6
+Shift From,ER,yes,2888,294,F,,27-Sep-23,10-Oct-23,Discharge,Tariq Nawaz,13
+Shift From,ER,yes,2891,297,F,,27-Sep-23,5-Oct-23,Discharge,Imran Khan,8
+Shift From,ER,yes,2892,298,M,,27-Sep-23,30-Sep-23,Discharge,Sher Bahadar,3
+Shift From,ER,yes,2893,299,F,,28-Sep-23,8-Oct-23,Discharge,Said Zaman,10
+Shift From,ER,yes,2895,301,M,,28-Sep-23,3-Oct-23,Discharge,Ikram Ullah,5
+Shift From,ER,yes,2896,302,M,,28-Sep-23,29-Sep-23,Expire,Malik Faisal,1
+Shift From,Post Cath,yes,2899,305,F,,28-Sep-23,30-Sep-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,2900,306,F,,28-Sep-23,28-Sep-23,Discharge,Samra Rehmat,0
+Shift From,ER,yes,2907,313,F,,29-Sep-23,18-Oct-23,Expire,Sher Bahadar,19
+Shift From,ER,No,2908,314,F,,29-Sep-23,4-Oct-23,Discharge,Ikram Ullah,5
+Shift From,ER,yes,2912,318,M,,30-Sep-23,2-Oct-23,Discharge,Ikram Ullah,2
+Shift From,ER,No,2913,319,M,,30-Sep-23,3-Oct-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,2914,320,M,,30-Sep-23,4-Oct-23,Discharge,Ikram Ullah,4
+Shift From,ER,yes,2915,321,M,,30-Sep-23,2-Oct-23,Discharge,Ikram Ullah,2
+Shift From,ER,No,2916,322,M,,30-Sep-23,5-Oct-23,Discharge,Ikram Ullah,5
+Shift From,ER,yes,2917,323,M,,30-Sep-23,12-Oct-23,Discharge,Imran Khan,12
+Shift From,ER,No,2918,324,F,,30-Sep-23,4-Oct-23,Discharge,Ikram Ullah,4
+Shift From,Post Cath,yes,2919,325,M,,30-Sep-23,2-Oct-23,Discharge,Ikram Ullah,2
+Shift From,Post Cath,yes,2920,326,M,,30-Sep-23,2-Oct-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,2921,327,F,,30-Sep-23,16-Oct-23,Discharge,Ikram Ullah,16
+Shift From,Post Cath,yes,2922,328,F,,30-Sep-23,2-Oct-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,2924,1,M,,1-Oct-23,4-Oct-23,Discharge,Ikram Ullah,3
+Shift From,ER,yes,2925,2,M,,1-Oct-23,4-Oct-23,Discharge,Said Zaman,3
+Shift From,ER,yes,2926,3,M,,2-Oct-23,9-Oct-23,Discharge,Ikram Ullah,7
+Shift From,ER,yes,2927,4,F,,2-Oct-23,3-Oct-23,Discharge,Said Zaman,1
+Shift From,ER,yes,2928,5,M,,2-Oct-23,5-Oct-23,Discharge,Ikram Ullah,3
+Shift From,ER,No,2929,6,F,,2-Oct-23,3-Oct-23,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,2930,7,M,,2-Oct-23,3-Oct-23,LAMA,Tariq Nawaz,1
+Shift From,Nephrology,yes,2931,8,M,,2-Oct-23,6-Oct-23,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,2932,9,F,,2-Oct-23,4-Oct-23,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,2938,15,F,,3-Oct-23,4-Oct-23,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,2939,16,F,,3-Oct-23,23-Oct-23,Discharge,Imran Khan,20
+Shift From,ER,yes,2940,17,M,,3-Oct-23,5-Oct-23,Discharge,Sher Bahadar,2
+Shift From,ER,yes,2941,18,F,,3-Oct-23,4-Oct-23,Discharge,Imran Khan,1
+Shift From,ER,yes,2942,19,M,,3-Oct-23,6-Oct-23,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,2943,20,F,,3-Oct-23,5-Oct-23,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,2944,21,M,,3-Oct-23,7-Oct-23,Discharge,Jabar Ali,4
+IBP,IBP,yes,2945,22,M,,3-Oct-23,4-Oct-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,2947,24,M,,3-Oct-23,9-Oct-23,Discharge,Sher Bahadar,6
+Shift From,Post Cath,yes,2949,26,F,,4-Oct-23,7-Oct-23,Discharge,Jabar Ali,3
+Shift From,ER,yes,2950,27,M,,4-Oct-23,8-Oct-23,Expire,Said Zaman,4
+Shift From,Post Cath,yes,2951,28,F,,4-Oct-23,5-Oct-23,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,2952,29,F,,4-Oct-23,7-Oct-23,Discharge,Malik Faisal,3
+Shift From,Post Cath,yes,2955,32,M,,4-Oct-23,5-Oct-23,Discharge,Imran Khan,1
+IBP,IBP,yes,2956,33,F,,4-Oct-23,5-Oct-23,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,2957,34,M,,4-Oct-23,5-Oct-23,Discharge,Imran Khan,1
+Shift From,ER,yes,2960,37,F,,5-Oct-23,9-Oct-23,Discharge,Jabar Ali,4
+Shift From,ER,yes,2962,39,M,,5-Oct-23,13-Oct-23,Discharge,Imran Khan,8
+Shift From,ER,yes,2963,40,M,,5-Oct-23,8-Oct-23,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,2964,41,M,,5-Oct-23,7-Oct-23,Discharge,Said Zaman,2
+Shift From,ER,yes,2965,42,F,,5-Oct-23,6-Oct-23,Shifted,Ikram Ullah,1
+Shift From,Skin,yes,2967,44,F,,5-Oct-23,17-Oct-23,Discharge,Sher Bahadar,12
+Shift From,ER,No,2968,45,F,,5-Oct-23,9-Oct-23,Discharge,Said Zaman,4
+Shift From,ER,No,2969,46,F,,5-Oct-23,9-Oct-23,Discharge,Samra Rehmat,4
+Shift From,Post Cath,yes,2973,50,F,,6-Oct-23,6-Oct-23,Discharge,Asif Iqbal,0
+Shift From,ER,yes,2974,51,F,,6-Oct-23,12-Oct-23,Discharge,Imran Khan,6
+Shift From,Post Cath,yes,2975,52,F,,6-Oct-23,8-Oct-23,Discharge,Malik Faisal,2
+Shift From,ER,yes,2976,53,M,,6-Oct-23,7-Oct-23,Discharge,Said Zaman,1
+Shift From,ER,yes,2977,54,M,,6-Oct-23,7-Oct-23,Discharge,Said Zaman,1
+Shift From,ER,No,2978,55,M,,6-Oct-23,10-Oct-23,Discharge,Malik Faisal,4
+Shift From,ER,yes,2979,56,F,,6-Oct-23,10-Oct-23,Discharge,Said Zaman,4
+Shift From,Post Cath,yes,2980,57,M,,6-Oct-23,7-Oct-23,Discharge,Malik Faisal,1
+Shift From,ER,yes,2982,59,M,,7-Oct-23,10-Oct-23,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,2983,60,M,,7-Oct-23,7-Oct-23,Expire,Malik Faisal,0
+Shift From,ER,yes,2984,61,F,,7-Oct-23,17-Oct-23,Discharge,Jabar Ali,10
+Shift From,ER,yes,2985,62,M,,7-Oct-23,19-Oct-23,Discharge,Tariq Nawaz,12
+Shift From,ER,yes,2986,63,F,,7-Oct-23,8-Oct-23,Expire,Tariq Nawaz,1
+Shift From,er,yes,2987,64,M,,7-Oct-23,10-Oct-23,Discharge,Samra Rehmat,3
+Shift From,Post Cath,yes,2988,65,F,,7-Oct-23,9-Oct-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,2989,66,M,,7-Oct-23,11-Oct-23,Discharge,Samra Rehmat,4
+Shift From,ibp,yes,2990,67,M,,7-Oct-23,10-Oct-23,Discharge,Malik Faisal,3
+Shift From,ER,yes,2991,68,M,,7-Oct-23,12-Oct-23,Discharge,Samra Rehmat,5
+Shift From,ER,yes,2992,69,F,,7-Oct-23,13-Oct-23,Discharge,Malik Faisal,6
+Shift From,ER,yes,2993,70,M,,7-Oct-23,10-Oct-23,Discharge,Adil,3
+Shift From,ER,yes,2994,71,M,,8-Oct-23,11-Oct-23,Discharge,Samra Rehmat,3
+Shift From,ER,yes,2995,72,M,,8-Oct-23,9-Oct-23,Discharge,Samra Rehmat,1
+Shift From,ER,yes,2996,73,M,,8-Oct-23,16-Oct-23,DOW,Malik Faisal,8
+Shift From,ER,yes,2997,74,M,,8-Oct-23,10-Oct-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,2998,75,M,,8-Oct-23,16-Oct-23,Discharge,Samra Rehmat,8
+Shift From,ER,yes,3000,77,M,,8-Oct-23,14-Oct-23,Expire,Samra Rehmat,6
+Shift From,ER,No,3001,78,F,,8-Oct-23,10-Oct-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,3002,79,M,,9-Oct-23,11-Oct-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,3003,80,F,,9-Oct-23,14-Oct-23,Discharge,Samra Rehmat,5
+Shift From,ER,yes,3004,81,M,,9-Oct-23,14-Oct-23,Expire,Asif Iqbal,5
+Shift From,Chest Ward,yes,3005,82,M,,9-Oct-23,30-Nov-23,Discharge,Asif Iqbal,52
+Shift From,ER,yes,3006,83,F,,9-Oct-23,13-Oct-23,Discharge,Malik Faisal,4
+Shift From,ER,yes,3007,84,F,,9-Oct-23,10-Oct-23,Discharge,Samra Rehmat,1
+Shift From,ER,yes,3008,85,F,,9-Oct-23,21-Oct-23,Discharge,Samra Rehmat,12
+Shift From,ER,No,3009,86,F,,9-Oct-23,16-Oct-23,LAMA,Samra Rehmat,7
+Shift From,ER,yes,3010,87,F,,9-Oct-23,12-Oct-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,3013,90,F,,10-Oct-23,12-Oct-23,Discharge,Samra Rehmat,2
+Shift From,ER,yes,3014,91,F,,10-Oct-23,17-Oct-23,Discharge,Tariq Nawaz,7
+Shift From,ER,yes,3015,92,M,,10-Oct-23,12-Oct-23,Discharge,Sher Bahadar,2
+Shift From,ER,yes,3016,93,M,,10-Oct-23,11-Oct-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,3017,94,F,,10-Oct-23,13-Oct-23,Discharge,Asif Iqbal,3
+Shift From,ER,yes,3018,95,M,,10-Oct-23,12-Oct-23,Discharge,Sher Bahadar,2
+Shift From,ER,yes,3019,96,M,,10-Oct-23,12-Oct-23,Discharge,Tariq Nawaz,2
+Shift From,Post Cath,yes,3020,97,F,,10-Oct-23,17-Oct-23,Discharge,Tariq Nawaz,7
+Shift From,ER,yes,3021,98,F,,10-Oct-23,16-Oct-23,Discharge,Ikram Ullah,6
+Shift From,ER,No,3022,99,F,,10-Oct-23,18-Oct-23,Discharge,Samra Rehmat,8
+Shift From,Chest Ward,yes,3026,103,F,,11-Oct-23,18-Oct-23,Discharge,Jabar Ali,7
+Shift From,ER,yes,3028,105,F,,11-Oct-23,17-Oct-23,Discharge,Samra Rehmat,6
+IBP,IBP,No,3029,106,F,,11-Oct-23,12-Oct-23,LAMA,Jabar Ali,1
+Shift From,ER,yes,3033,110,M,,12-Oct-23,19-Oct-23,Discharge,Samra Rehmat,7
+IBP,IBP,yes,3037,114,F,,12-Oct-23,20-Oct-23,Discharge,Jabar Ali,8
+Shift From,ER,yes,3039,116,M,,12-Oct-23,17-Oct-23,Discharge,Samra Rehmat,5
+Shift From,Post Cath,yes,3044,121,M,,13-Oct-23,14-Oct-23,Discharge,Samra Rehmat,1
+Shift From,ER,No,3046,123,F,,13-Oct-23,19-Oct-23,Discharge,Malik Faisal,6
+Shift From,Post Cath,yes,3047,124,M,,13-Oct-23,20-Oct-23,Discharge,Adil,7
+Shift From,ER,yes,3048,125,F,,13-Oct-23,18-Oct-23,Discharge,Ikram Ullah,5
+Shift From,ER,yes,3049,126,M,,13-Oct-23,17-Oct-23,Discharge,Imran Khan,4
+Shift From,ER,yes,3056,133,M,,14-Oct-23,21-Oct-23,Discharge,Samra Rehmat,7
+Shift From,Post Cath,yes,3057,134,M,,14-Oct-23,15-Oct-23,Discharge,Samra Rehmat,1
+Shift From,Post Cath,yes,3058,135,F,,14-Oct-23,16-Oct-23,Discharge,Malik Faisal,2
+Shift From,Post Cath,yes,3059,136,F,,14-Oct-23,22-Oct-23,Expire,Tariq Nawaz,8
+Shift From,ER,yes,3063,140,M,,15-Oct-23,20-Oct-23,Discharge,Tariq Nawaz,5
+Shift From,ER,yes,3064,141,M,,16-Oct-23,18-Oct-23,Discharge,Tariq Nawaz,2
+Shift From,Post Cath,yes,3065,142,M,,16-Oct-23,18-Oct-23,Discharge,Jabar Ali,2
+Shift From,ER,yes,3066,143,F,,16-Oct-23,19-Oct-23,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,3067,144,F,,16-Oct-23,20-Oct-23,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,3068,145,M,,16-Oct-23,18-Oct-23,Discharge,Asif Iqbal,2
+Shift From,ER,yes,3069,146,F,,16-Oct-23,19-Oct-23,Discharge,Jabar Ali,3
+Shift From,Post Cath,yes,3070,147,M,,16-Oct-23,17-Oct-23,Discharge,Asif Iqbal,1
+Shift From,ER,yes,3074,151,F,,16-Oct-23,19-Oct-23,Discharge,Tariq Nawaz,3
+Shift From,Post Cath,yes,3075,152,M,,17-Oct-23,22-Oct-23,Expire,Jabar Ali,5
+Shift From,ER,yes,3076,153,M,,17-Oct-23,19-Oct-23,Discharge,Asif Iqbal,2
+Shift From,ER,yes,3077,154,M,,17-Oct-23,18-Oct-23,Discharge,Jabar Ali,1
+Shift From,ER,yes,3078,155,F,,17-Oct-23,25-Oct-23,Discharge,Tariq Nawaz,8
+Shift From,ER,yes,3079,156,M,,17-Oct-23,19-Oct-23,Discharge,Ikram Ullah,2
+Shift From,ER,yes,3080,157,F,,17-Oct-23,2-Nov-23,Discharge,Asif Iqbal,16
+Shift From,ER,yes,3081,158,F,,17-Oct-23,19-Oct-23,Discharge,Asif Iqbal,2
+IBP,IBP,yes,3083,160,F,,17-Oct-23,24-Oct-23,Discharge,Jabar Ali,7
+Shift From,ER,yes,3088,165,M,,18-Oct-23,19-Oct-23,Discharge,Ikram Ullah,1
+Shift From,Post Cath,yes,3091,168,F,,18-Oct-23,19-Oct-23,Discharge,Samra Rehmat,1
+Shift From,Post Cath,yes,3092,169,F,,18-Oct-23,19-Oct-23,Discharge,Sher Bahadar,1
+Shift From,ER,No,3093,170,F,,18-Oct-23,23-Oct-23,Discharge,Imran Khan,5
+Shift From,ER,No,3096,173,F,,19-Oct-23,19-Oct-23,Discharge,Jabar Ali,0
+Shift From,ER,No,3104,181,F,,19-Oct-23,21-Oct-23,Discharge,Said Zaman,2
+Shift From,ER,No,3109,186,F,,20-Oct-23,21-Oct-23,Discharge,Said Zaman,1
+Shift From,Pulmo,No,3113,190,M,,20-Oct-23,23-Oct-23,Discharge,Said Zaman,3
+Shift From,ER,No,3120,197,M,,20-Oct-23,23-Oct-23,Discharge,Malik Faisal,3
+Shift From,ER,No,3122,199,F,,21-Oct-23,22-Oct-23,Discharge,Asif Iqbal,1
+Shift From,ER,No,3124,201,M,,21-Oct-23,23-Oct-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3131,208,F,,22-Oct-23,26-Oct-23,Expire,Said Zaman,4
+Shift From,ER,No,3138,215,M,,23-Oct-23,25-Oct-23,Discharge,Said Zaman,2
+Shift From,ER,No,3142,219,M,,23-Oct-23,30-Oct-23,Discharge,Asif Iqbal,7
+Shift From,ER,No,3149,226,F,,24-Oct-23,25-Oct-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3152,229,M,,24-Oct-23,2-Nov-23,Discharge,Jabar Ali,9
+Shift From,ER,No,3163,240,M,,25-Oct-23,26-Oct-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3164,241,M,,25-Oct-23,26-Oct-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3165,242,M,,25-Oct-23,27-Oct-23,Discharge,Jabar Ali,2
+Shift From,ER,No,3166,243,M,,25-Oct-23,27-Oct-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3167,244,M,,25-Oct-23,27-Oct-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3173,250,M,,25-Oct-23,27-Oct-23,Discharge,Jabar Ali,2
+Shift From,ER,No,3175,252,M,,26-Oct-23,30-Oct-23,Discharge,Imran Khan,4
+Shift From,ER,No,3176,253,M,,26-Oct-23,11-Nov-23,Discharge,Samra Rehmat,16
+Shift From,ER,No,3177,254,M,,26-Oct-23,28-Oct-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,3181,258,F,,26-Oct-23,26-Oct-23,Expire,Samra Rehmat,0
+Shift From,ER,No,3184,261,M,,26-Oct-23,13-Nov-23,Discharge,Samra Rehmat,18
+Shift From,ER,No,3186,263,M,,26-Oct-23,30-Oct-23,Discharge,Samra Rehmat,4
+Shift From,ER,No,3187,264,M,,26-Oct-23,28-Oct-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3189,266,M,,27-Oct-23,31-Oct-23,Discharge,Samra Rehmat,4
+Shift From,ER,No,3190,267,F,,27-Oct-23,2-Nov-23,Discharge,Tariq Nawaz,6
+Shift From,ER,No,3191,268,F,,27-Oct-23,30-Oct-23,Discharge,Samra Rehmat,3
+Shift From,ER,No,3201,278,M,,27-Oct-23,31-Oct-23,Discharge,Jabar Ali,4
+Shift From,ER,No,3204,281,M,,28-Oct-23,30-Oct-23,Discharge,Tariq Nawaz,2
+Shift From,ER,No,3205,282,M,,28-Oct-23,7-Nov-23,Expire,Imran Khan,10
+Shift From,AMU,No,3209,286,M,,29-Oct-23,5-Nov-23,Expire,Tariq Nawaz,7
+Shift From,ER,No,3210,287,F,,29-Oct-23,30-Oct-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3215,292,F,,30-Oct-23,2-Nov-23,Discharge,Malik Faisal,3
+Shift From,CTW,No,3224,301,M,,30-Oct-23,31-Oct-23,LAMA,Adil,1
+Shift From,ER,No,3237,2,F,,1-Nov-23,3-Nov-23,Discharge,Tariq Nawaz,2
+Shift From,ER,No,3244,9,F,,2-Nov-23,4-Nov-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3245,10,F,,2-Nov-23,7-Nov-23,Discharge,Jabar Ali,5
+Shift From,ER,No,3251,16,M,,2-Nov-23,10-Nov-23,Shifted,Jabar Ali,8
+Shift From,ER,No,3255,20,F,,3-Nov-23,6-Nov-23,Discharge,Said Zaman,3
+Shift From,ER,No,3256,21,M,,3-Nov-23,3-Nov-23,Discharge,Said Zaman,0
+Shift From,ER,No,3257,22,M,,3-Nov-23,3-Nov-23,Discharge,Said Zaman,0
+Shift From,ER,No,3258,23,M,,3-Nov-23,4-Nov-23,Discharge,Said Zaman,1
+Shift From,ER,No,3259,24,M,,3-Nov-23,7-Nov-23,Discharge,Said Zaman,4
+Shift From,ER,No,3260,25,M,,3-Nov-23,7-Nov-23,Discharge,Adil,4
+Shift From,ER,No,3261,26,F,,3-Nov-23,28-Nov-23,Discharge,Adil,25
+Shift From,ER,No,3280,45,F,,4-Nov-23,9-Nov-23,Discharge,Ikram Ullah,5
+Shift From,ER,No,3283,48,M,,5-Nov-23,6-Nov-23,LAMA,Malik Faisal,1
+Shift From,pulmo,No,3284,49,F,,5-Nov-23,8-Nov-23,Discharge,Malik Faisal,3
+Shift From,ER,No,3287,52,M,,5-Nov-23,7-Nov-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3301,66,F,,7-Nov-23,7-Nov-23,Discharge,Tariq Nawaz,0
+Shift From,ER,No,3302,67,F,,7-Nov-23,8-Nov-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3304,69,F,,7-Nov-23,11-Nov-23,Discharge,Sher Bahadar,4
+Shift From,ER,No,3305,70,M,,7-Nov-23,8-Nov-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3307,72,M,,7-Nov-23,8-Nov-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3319,84,M,,8-Nov-23,10-Nov-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3331,96,M,,9-Nov-23,17-Nov-23,Discharge,Samra Rehmat,8
+Shift From,ER,No,3338,103,F,,10-Nov-23,15-Nov-23,Discharge,Sher Bahadar,5
+Shift From,ER,No,3339,104,M,,10-Nov-23,12-Nov-23,Discharge,Imran Khan,2
+Shift From,ER,No,3346,111,M,,10-Nov-23,13-Nov-23,Discharge,Imran Khan,3
+Shift From,ER,No,3349,114,F,,11-Nov-23,12-Nov-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3350,115,F,,11-Nov-23,20-Nov-23,Discharge,Imran Khan,9
+Shift From,ER,No,3351,116,M,,11-Nov-23,13-Nov-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,3352,117,M,,11-Nov-23,13-Nov-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,3356,121,F,,11-Nov-23,13-Nov-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,3363,128,F,,12-Nov-23,21-Nov-23,Discharge,Tariq Nawaz,9
+Shift From,ER,No,3364,129,F,,12-Nov-23,16-Nov-23,Discharge,Tariq Nawaz,4
+Shift From,ER,No,3365,130,F,,12-Nov-23,15-Nov-23,Discharge,Tariq Nawaz,3
+Shift From,ER,No,3366,131,M,,12-Nov-23,13-Nov-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3367,132,F,,12-Nov-23,21-Nov-23,Discharge,Tariq Nawaz,9
+Shift From,ER,No,3368,133,F,,12-Nov-23,14-Nov-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,3369,134,M,,12-Nov-23,13-Nov-23,Discharge,Tariq Nawaz,1
+Shift From,ER,No,3374,139,M,,13-Nov-23,17-Nov-23,Discharge,Samra Rehmat,4
+Shift From,ER,No,3375,140,F,,13-Nov-23,15-Nov-23,Discharge,Samra Rehmat,2
+Shift From,ER,No,3376,141,M,,13-Nov-23,16-Nov-23,Discharge,Asif Iqbal,3
+Shift From,ER,No,3378,143,F,,13-Nov-23,15-Nov-23,Discharge,Samra Rehmat,2
+Shift From,GY-HDU,No,3396,161,F,,14-Nov-23,29-Nov-23,Discharge,Imran Khan,15
+Shift From,ER,No,3397,162,M,,14-Nov-23,18-Nov-23,Discharge,Sher Bahadar,4
+Shift From,ER,No,3413,178,M,,16-Nov-23,20-Nov-23,Discharge,Said Zaman,4
+Shift From,ER,No,3427,192,F,,17-Nov-23,20-Nov-23,Discharge,Asif Iqbal,3
+Shift From,ER,No,3429,194,M,,17-Nov-23,18-Nov-23,Discharge,Malik Faisal,1
+Shift From,ER,No,3430,195,F,,17-Nov-23,23-Nov-23,Discharge,Said Zaman,6
+Shift From,ER,No,3431,196,M,,17-Nov-23,21-Nov-23,Discharge,Adil,4
+Shift From,ER,No,3448,213,M,,20-Nov-23,22-Nov-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,3449,214,F,,20-Nov-23,21-Nov-23,Discharge,Asif Iqbal,1
+Shift From,ER,No,3450,215,M,,20-Nov-23,21-Nov-23,Discharge,Asif Iqbal,1
+Shift From,ER,No,3463,228,M,,21-Nov-23,22-Nov-23,Discharge,Sher Bahadar,1
+Shift From,ER,No,3464,229,M,,21-Nov-23,24-Nov-23,Discharge,Sher Bahadar,3
+Shift From,ER,No,3465,230,F,,21-Nov-23,23-Nov-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,3466,231,F,,21-Nov-23,23-Nov-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,3478,243,F,,22-Nov-23,24-Nov-23,Shifted,Jabar Ali,2
+Shift From,ER,No,3507,272,M,,24-Nov-23,8-Dec-23,Discharge,Imran Khan,14
+Shift From,ER,No,3482,247,M,,22-Nov-23,23-Nov-23,Discharge,Said Zaman,1
+Shift From,ER,No,3491,256,F,,23-Nov-23,25-Nov-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3509,274,F,,24-Nov-23,27-Nov-23,Expire,Samra Rehmat,3
+Shift From,ER,No,3513,278,M,,25-Nov-23,28-Nov-23,Discharge,Imran Khan,3
+Shift From,ER,No,3538,303,M,,27-Nov-23,28-Nov-23,Discharge,Samra Rehmat,1
+Shift From,ER,No,3559,324,M,,28-Nov-23,2-Dec-23,LAMA,Asif Iqbal,4
+Shift From,ER,No,3582,347,M,,30-Nov-23,1-Dec-23,Discharge,Said Zaman,1
+Shift From,ER,No,3537,302,F,,27-Nov-23,11-Jan-24,Discharge,Asif Iqbal,45
+Shift From,ER,No,3593,8,M,,1-Dec-23,5-Dec-23,Discharge,Sher Bahadar,4
+Shift From,ER,No,3595,10,M,,2-Dec-23,9-Dec-23,Discharge,Imran Khan,7
+Shift From,ER,No,3598,13,F,,2-Dec-23,5-Dec-23,Discharge,Ikram Ullah,3
+Shift From,ER,No,3599,14,M,,2-Dec-23,4-Dec-23,Discharge,Ikram Ullah,2
+Shift From,ER,No,3615,30,F,,4-Dec-23,5-Dec-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3616,31,F,,4-Dec-23,5-Dec-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3631,46,M,,5-Dec-23,18-Dec-23,Expire,Tariq Nawaz,13
+Shift From,ER,No,3633,48,F,,5-Dec-23,6-Dec-23,Discharge,Sher Bahadar,1
+Shift From,ER,No,3634,49,F,,5-Dec-23,8-Dec-23,Discharge,Sher Bahadar,3
+Shift From,ER,No,3651,66,M,,6-Dec-23,8-Dec-23,Discharge,Malik Faisal,2
+Shift From,ER,No,3670,85,F,,7-Dec-23,15-Dec-23,Discharge,Jabar Ali,8
+Shift From,ER,No,3689,104,M,,9-Dec-23,10-Dec-23,Discharge,Ikram Ullah,1
+Shift From,ER,No,3708,123,M,,11-Dec-23,19-Dec-23,Expire,Malik Faisal,8
+Shift From,ER,No,3712,127,M,,11-Dec-23,15-Dec-23,Discharge,Ikram Ullah,4
+Shift From,ER,No,3714,129,F,,11-Dec-23,12-Dec-23,Expire,Tariq nawaz,1
+Shift From,ER,No,3729,144,F,,12-Dec-23,16-Dec-23,Discharge,Malik Faisal,4
+Shift From,ER,No,3734,149,M,,13-Dec-23,21-Dec-23,Discharge,Tariq nawaz,8
+Shift From,ER,No,3735,150,F,,13-Dec-23,19-Dec-23,Discharge,Malik Faisal,6
+Shift From,ER,No,3736,151,F,,13-Dec-23,21-Dec-23,Discharge,Malik Faisal,8
+Shift From,ER,No,3740,155,F,,13-Dec-23,21-Dec-23,Discharge,Malik Faisal,8
+Shift From,ER,No,3747,162,F,,14-Dec-23,16-Dec-23,Discharge,Ikram Ullah,2
+Shift From,ER,No,3750,165,F,,14-Dec-23,1-Jan-24,LAMA,Imran Khan,18
+Shift From,ER,No,3755,170,F,,14-Dec-23,16-Dec-23,Discharge,Said Zaman,2
+Shift From,ER,No,3760,175,F,,15-Dec-23,25-Dec-23,Expire,Tariq nawaz,10
+Shift From,ER,No,3771,186,M,,16-Dec-23,18-Dec-23,Discharge,Tariq nawaz,2
+Shift From,ER,No,3775,190,M,,16-Dec-23,19-Dec-23,Discharge,Imran Khan,3
+Shift From,ER,No,3781,196,F,,17-Dec-23,17-Dec-23,Discharge,Asif Iqbal,0
+Shift From,ER,No,3786,201,M,,18-Dec-23,22-Dec-23,DOW,Malik Faisal,4
+Shift From,ER,No,3789,204,M,,18-Dec-23,21-Dec-23,Expire,Said Zaman,3
+Shift From,ER,No,3795,210,M,,19-Dec-23,20-Dec-23,Discharge,Asif Iqbal,1
+Shift From,ER,No,3796,211,M,,19-Dec-23,20-Dec-23,Discharge,Asif Iqbal,1
+Shift From,ER,No,3797,212,M,,19-Dec-23,30-Dec-23,Discharge,Tariq nawaz,11
+Shift From,ER,No,3798,213,F,,19-Dec-23,21-Dec-23,Discharge,Tariq nawaz,2
+Shift From,ER,No,3799,214,M,,19-Dec-23,27-Dec-23,Discharge,Tariq nawaz,8
+Shift From,ER,No,3802,217,F,,19-Dec-23,21-Dec-23,Discharge,Asif Iqbal,2
+Shift From,ER,No,3804,219,M,,19-Dec-23,24-Dec-23,Discharge,Asif Iqbal,5
+Shift From,ER,No,3807,222,M,,20-Dec-23,21-Dec-23,Expire,Tariq nawaz,1
+Shift From,ER,No,3808,223,M,,20-Dec-23,21-Dec-23,Discharge,Tariq nawaz,1
+Shift From,ER,No,3809,224,F,,20-Dec-23,20-Dec-23,Discharge,Samra Rehmat,0
+Shift From,ER,No,3813,228,M,,20-Dec-23,29-Dec-23,Discharge,Tariq nawaz,9
+Shift From,ER,No,3814,229,F,,20-Dec-23,22-Dec-23,Discharge,Jabar Ali,2
+Shift From,ER,No,3815,230,M,,20-Dec-23,25-Dec-23,Discharge,Tariq nawaz,5
+Shift From,ER,No,3816,231,M,,20-Dec-23,22-Dec-23,Discharge,Tariq nawaz,2
+Shift From,ER,No,3822,237,F,,21-Dec-23,28-Dec-23,Discharge,Tariq nawaz,7
+Shift From,post cath,No,3832,247,F,,22-Dec-23,27-Dec-23,Discharge,Jabar Ali,5
+Shift From,ER,No,3841,256,M,,23-Dec-23,5-Jan-24,Expire,Malik Faisal,13
+Shift From,ER,No,3842,257,M,,23-Dec-23,24-Dec-23,Discharge,Malik Faisal,1
+Shift From,ER,No,3843,258,M,,23-Dec-23,26-Dec-23,Discharge,Ikram Ullah,3
+Shift From,ER,No,3844,259,F,,23-Dec-23,24-Dec-23,Discharge,Tariq nawaz,1
+Shift From,ER,No,3850,265,F,,23-Dec-23,24-Dec-23,Discharge,Said Zaman,1
+Shift From,ER,No,3851,266,F,,23-Dec-23,29-Dec-23,Discharge,Adil,6
+Shift From,ER,No,3855,270,F,,24-Dec-23,26-Dec-23,Expire,Tariq nawaz,2
+Shift From,ER,No,3856,271,M,,24-Dec-23,25-Dec-23,Discharge,Asif Iqbal,1
+Shift From,ER,No,3865,280,F,,25-Dec-23,29-Dec-23,Discharge,Said Zaman,4
+Shift From,ER,No,3866,281,M,,26-Dec-23,1-Jan-24,Discharge,Said Zaman,6
+Shift From,ER,No,3867,282,F,,26-Dec-23,28-Dec-23,Shifted,Jabar Ali,2
+Shift From,ER,No,3868,283,F,,26-Dec-23,30-Dec-23,Discharge,Malik Faisal,4
+Shift From,ER,No,3869,284,F,,26-Dec-23,27-Dec-23,Discharge,Said Zaman,1
+Shift From,ER,No,3870,285,F,,26-Dec-23,31-Dec-23,Expire,Malik Faisal,5
+Shift From,FMB,No,3871,286,F,,26-Dec-23,14-Jan-24,Discharge,Tariq nawaz,19
+Shift From,ER,No,3872,287,M,,26-Dec-23,28-Dec-23,Expire,Malik Faisal,2
+Shift From,ER,No,3873,288,M,,26-Dec-23,29-Dec-23,Discharge,Imran Khan,3
+Shift From,ER,No,3874,289,M,,26-Dec-23,27-Dec-23,LAMA,Malik Faisal,1
+Shift From,ER,No,3875,290,M,,26-Dec-23,28-Dec-23,Discharge,Imran Khan,2
+Shift From,ER,No,3879,294,M,,27-Dec-23,28-Dec-23,Discharge,Imran Khan,1
+Shift From,ER,No,3881,296,M,,27-Dec-23,28-Dec-23,Discharge,Imran Khan,1
+Shift From,ER,No,3882,297,F,,27-Dec-23,2-Jan-24,Discharge,Tariq nawaz,6
+Shift From,ER,No,3890,305,M,,28-Dec-23,29-Dec-23,Discharge,Jabar Ali,1
+Shift From,ER,No,3904,319,M,,29-Dec-23,29-Dec-23,Shifted,Sher Bahadar,0
+Shift From,ER,No,3905,320,M,,29-Dec-23,6-Jan-24,Discharge,Said Zaman,8
+Shift From,ER,No,3913,328,M,,30-Dec-23,31-Dec-23,Discharge,Malik Faisal,1
+Shift From,ER,No,3914,329,F,,30-Dec-23,31-Dec-23,Discharge,Malik Faisal,1
+Shift From,ER,No,3915,330,F,,30-Dec-23,3-Jan-24,Discharge,Imran Khan,4
+Shift From,ER,No,3920,335,F,,31-Dec-23,6-Jan-24,Discharge,Imran Khan,6
+Shift From,ER,No,3921,336,F,,31-Dec-23,6-Jan-24,Discharge,Tariq nawaz,6
+Shift From,ER,No,3922,337,M,,31-Dec-23,2-Jan-24,Discharge,Tariq nawaz,2
+Shift From,ER,No,3923,338,F,,31-Dec-23,12-Jan-24,Discharge,Tariq nawaz,12
+Shift From,ER,No,49,49,M,,5-Jan-24,10-Jan-24,Discharge,Asif Iqbal,5
+Shift From,ER,No,50,50,F,,5-Jan-24,13-Jan-24,Discharge,Samra Rehmat,8
+Shift From,ER,No,51,51,M,,5-Jan-24,7-Jan-24,Discharge,Asif Iqbal,2
+Shift From,ER,No,54,54,M,,6-Jan-24,8-Jan-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,56,56,M,,6-Jan-24,6-Jan-24,LAMA,Malik Faisal,0
+Shift From,ER,No,57,57,M,,6-Jan-24,8-Jan-24,Expire,Ikram Ullah,2
+Shift From,ER,No,60,60,F,,6-Jan-24,9-Jan-24,Discharge,Samra Rehmat,3
+Shift From,ER,No,62,62,M,,7-Jan-24,9-Jan-24,Discharge,Malik Faisal,2
+Shift From,ER,No,63,63,M,,7-Jan-24,8-Jan-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,74,74,F,,8-Jan-24,10-Jan-24,Discharge,Jabar Ali,2
+Shift From,ER,No,83,83,F,,8-Jan-24,9-Jan-24,Discharge,Malik Faisal,1
+Shift From,ER,No,85,85,F,,9-Jan-24,13-Jan-24,Discharge,Tariq Nawaz,4
+Shift From,ER,No,97,97,F,,9-Jan-24,11-Jan-24,Discharge,Ikram Ullah,2
+Shift From,ER,No,98,98,M,,9-Jan-24,10-Jan-24,Discharge,Jabar Ali,1
+Shift From,ER,No,99,99,M,,9-Jan-24,11-Jan-24,Discharge,Jabar Ali,2
+Shift From,ER,No,109,109,F,,10-Jan-24,11-Jan-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,112,112,M,,11-Jan-24,14-Jan-24,Discharge,Malik Faisal,3
+Shift From,ER,No,123,123,M,,12-Jan-24,15-Jan-24,Expire,Said Zaman,3
+Shift From,ER,No,130,130,F,,13-Jan-24,17-Jan-24,Discharge,Samra Rehmat,4
+Shift From,ER,No,132,132,F,,13-Jan-24,17-Jan-24,Discharge,Samra Rehmat,4
+Shift From,ER,No,133,133,M,,13-Jan-24,29-Jan-24,Discharge,Samra Rehmat,16
+Shift From,ER,No,143,143,M,,15-Jan-24,16-Jan-24,Discharge,Asif Iqbal,1
+Shift From,ER,No,146,146,M,,15-Jan-24,22-Jan-24,Discharge,Asif Iqbal,7
+Shift From,ER,No,155,155,M,,16-Jan-24,19-Jan-24,LAMA,Ikram Ullah,3
+Shift From,ER,No,156,156,F,,16-Jan-24,24-Jan-24,Discharge,Imran Khan,8
+Shift From,ER,No,160,160,F,,16-Jan-24,23-Jan-24,Discharge,Tariq Nawaz,7
+Shift From,ER,No,162,162,M,,16-Jan-24,18-Jan-24,Discharge,Jabar Ali,2
+Shift From,ER,No,179,179,F,,18-Jan-24,19-Jan-24,Discharge,Imran Khan,1
+Shift From,ER,No,180,180,M,,18-Jan-24,19-Jan-24,Discharge,Imran Khan,1
+Shift From,ER,No,181,181,M,,18-Jan-24,22-Jan-24,Discharge,Asif Iqbal,4
+Shift From,ER,No,182,182,F,,18-Jan-24,19-Jan-24,Discharge,Samra Rehmat,1
+Shift From,ER,No,185,185,M,,18-Jan-24,7-Feb-24,Discharge,Samra Rehmat,20
+Shift From,ER,No,186,186,M,,18-Jan-24,20-Jan-24,Discharge,Samra Rehmat,2
+Shift From,ER,No,202,202,F,,19-Jan-24,23-Jan-24,Discharge,Jabar Ali,4
+Shift From,ER,No,203,203,M,,19-Jan-24,22-Jan-24,Discharge,Jabar Ali,3
+Shift From,ER,No,204,204,M,,19-Jan-24,25-Jan-24,Discharge,Asif Iqbal,6
+Shift From,ER,No,214,214,F,,21-Jan-24,22-Jan-24,Discharge,Adil,1
+Shift From,ER,No,215,215,M,,21-Jan-24,26-Jan-24,Expire,Asif Iqbal,5
+Shift From,ER,No,216,216,M,,21-Jan-24,23-Jan-24,Discharge,Samra Rehmat,2
+Shift From,ER,No,217,217,M,,22-Jan-24,23-Jan-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,220,220,F,,22-Jan-24,24-Jan-24,Discharge,Asif Iqbal,2
+Shift From,ER,No,229,229,F,,22-Jan-24,25-Jan-24,Discharge,Adil,3
+Shift From,Post Cath,No,230,230,F,,22-Jan-24,1-Feb-24,Discharge,Said Zaman,10
+Shift From,ER,No,234,234,F,,23-Jan-24,24-Jan-24,Discharge,Jabar Ali,1
+Shift From,ER,No,248,248,F,,24-Jan-24,29-Jan-24,Discharge,Jabar Ali,5
+Shift From,ER,No,249,249,F,,24-Jan-24,29-Jan-24,Discharge,Jabar Ali,5
+Shift From,ER,No,252,252,M,,25-Jan-24,29-Jan-24,Discharge,Tariq Nawaz,4
+Shift From,ER,No,253,253,F,,25-Jan-24,26-Jan-24,LAMA,Malik Faisal,1
+Shift From,ER,No,254,254,M,,25-Jan-24,25-Jan-24,LAMA,Asif Iqbal,0
+Shift From,ER,No,256,256,F,,25-Jan-24,29-Jan-24,Discharge,Malik Faisal,4
+Shift From,ER,No,260,260,M,,25-Jan-24,27-Jan-24,Discharge,Said Zaman,2
+Shift From,ER,No,264,264,M,,26-Jan-24,27-Jan-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,265,265,M,,26-Jan-24,27-Jan-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,268,268,M,,26-Jan-24,31-Jan-24,Discharge,Imran Khan,5
+Shift From,ER,No,271,271,M,,26-Jan-24,29-Jan-24,Discharge,Imran Khan,3
+Shift From,ER,No,272,272,F,,26-Jan-24,30-Jan-24,Discharge,Imran Khan,4
+Shift From,ER,No,295,295,F,,29-Jan-24,2-Feb-24,Discharge,Imran Khan,4
+Shift From,ER,No,298,298,M,,30-Jan-24,20-Feb-24,Discharge,Adil,21
+Shift From,ER,No,308,308,M,,31-Jan-24,1-Feb-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,309,309,F,,31-Jan-24,1-Feb-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,310,310,M,,31-Jan-24,1-Feb-24,Discharge,Malik Faisal,1
+Shift From,ER,No,311,311,M,,31-Jan-24,2-Feb-24,Discharge,Said Zaman,2
+Shift From,ER,No,312,312,M,,31-Jan-24,31-Jan-24,Expire,Tariq Nawaz,0
+Shift From,ER,No,329,4,F,,1-Feb-24,1-Feb-24,Discharge,Imran Khan,0
+Shift From,ER,No,334,9,F,,1-Feb-24,10-Feb-24,Discharge,Imran Khan,9
+Shift From,ER,No,346,21,F,,2-Feb-24,3-Feb-24,DOW,Ikram Ullah,1
+Shift From,ER,No,350,25,M,,3-Feb-24,4-Feb-24,Discharge,Malik Faisal,1
+Shift From,ER,No,358,33,F,,4-Feb-24,6-Feb-24,Discharge,Jabar Ali,2
+Shift From,ER,No,378,53,M,,6-Feb-24,19-Feb-24,Discharge,Samra Rehmat,13
+Shift From,ER,No,379,54,M,,6-Feb-24,16-Feb-24,Discharge,Jabar Ali,10
+Shift From,ER,No,380,55,F,,6-Feb-24,9-Feb-24,Discharge,Ikram Ullah,3
+Shift From,ER,No,396,71,F,,7-Feb-24,13-Feb-24,Discharge,Tariq Nawaz,6
+Shift From,Gyne,No,397,72,F,,7-Feb-24,10-Feb-24,Discharge,Tariq Nawaz,3
+Shift From,FMB,No,399,74,F,,7-Feb-24,11-Feb-24,Shifted,Imran Khan,4
+Shift From,ER,No,403,78,M,,7-Feb-24,22-Feb-24,Discharge,Jabar Ali,15
+Shift From,ER,No,414,89,M,,9-Feb-24,10-Feb-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,415,90,M,,9-Feb-24,9-Feb-24,LAMA,Samra Rehmat,0
+Shift From,ER,No,416,91,F,,9-Feb-24,19-Feb-24,Discharge,Malik Faisal,10
+Shift From,ER,No,417,92,M,,9-Feb-24,10-Feb-24,Discharge,Malik Faisal,1
+Shift From,GICU,No,419,94,M,,9-Feb-24,17-Feb-24,Discharge,Imran Khan,8
+Shift From,ER,No,426,101,M,,10-Feb-24,11-Feb-24,Discharge,Imran Khan,1
+Shift From,ER,No,434,109,F,,11-Feb-24,13-Feb-24,Discharge,Imran Khan,2
+Shift From,ER,No,452,127,F,,12-Feb-24,12-Feb-24,Discharge,Jabar Ali,0
+Shift From,ER,No,459,134,M,,13-Feb-24,13-Feb-24,LAMA,Asif Iqbal,0
+Shift From,ER,No,466,141,F,,13-Feb-24,15-Feb-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,483,158,M,,15-Feb-24,17-Feb-24,Discharge,Asif Iqbal,2
+Shift From,ER,No,502,177,F,,17-Feb-24,19-Feb-24,Discharge,Samra Rehmat,2
+Shift From,ER,No,503,178,F,,17-Feb-24,20-Feb-24,Discharge,Asif Iqbal,3
+Shift From,ER,No,506,181,M,,18-Feb-24,21-Feb-24,Discharge,Tariq Nawaz,3
+Shift From,ER,No,507,182,F,,18-Feb-24,21-Feb-24,Discharge,Samra Rehmat,3
+Shift From,ER,No,511,186,F,,18-Feb-24,24-Feb-24,Expire,Samra Rehmat,6
+Shift From,ER,No,514,189,M,,18-Feb-24,19-Feb-24,LAMA,Samra Rehmat,1
+Shift From,ER,No,530,205,M,,20-Feb-24,26-Feb-24,Discharge,Malik Faisal,6
+Shift From,ER,No,531,206,M,,20-Feb-24,20-Feb-24,LAMA,Tariq Nawaz,0
+Shift From,ER,No,534,209,M,,20-Feb-24,21-Feb-24,Discharge,Asif Iqbal,1
+Shift From,ER,No,555,230,M,,22-Feb-24,22-Feb-24,Discharge,Malik Faisal,0
+Shift From,ER,No,556,231,M,,22-Feb-24,24-Feb-24,Discharge,Malik Faisal,2
+Shift From,ER,No,557,232,M,,22-Feb-24,24-Feb-24,Discharge,Malik Faisal,2
+Shift From,Neurology,No,559,234,M,,22-Feb-24,6-Mar-24,Expire,Said Zaman,13
+Shift From,ER,No,568,243,M,,23-Feb-24,2-Mar-24,Discharge,Said Zaman,8
+Shift From,ER,No,569,244,F,,23-Feb-24,29-Feb-24,Discharge,Said Zaman,6
+Shift From,ER,No,570,245,F,,23-Feb-24,24-Feb-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,574,249,M,,23-Feb-24,2-Mar-24,Discharge,Jabar Ali,8
+Shift From,pulmo,No,576,251,M,,24-Feb-24,27-Feb-24,Discharge,Tariq Nawaz,3
+Shift From,ER,No,587,262,F,,26-Feb-24,28-Feb-24,Discharge,Samra Rehmat,2
+Shift From,ER,No,590,265,M,,26-Feb-24,4-Mar-24,Discharge,Asif Iqbal,7
+Shift From,ER,No,599,274,M,,27-Feb-24,27-Feb-24,LAMA,Samra Rehmat,0
+Shift From,ER,No,600,275,M,,27-Feb-24,29-Feb-24,Expire,Imran Khan,2
+Shift From,ER,No,601,276,M,,27-Feb-24,6-Mar-24,Discharge,Jabar Ali,8
+Shift From,Chest,No,603,278,F,,27-Feb-24,9-Mar-24,Discharge,Malik Faisal,11
+Shift From,ER,No,605,280,M,,27-Feb-24,29-Feb-24,Discharge,Sher Bahadar,2
+Shift From,ER,No,606,281,F,,27-Feb-24,29-Feb-24,Discharge,Sher Bahadar,2
+Shift From,ER,No,607,282,F,,27-Feb-24,29-Feb-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,610,285,M,,27-Feb-24,3-Mar-24,Shifted,Imran Khan,5
+Shift From,ER,No,612,287,M,,27-Feb-24,2-Mar-24,Discharge,Tariq Nawaz,4
+Shift From,ER,No,616,291,M,,28-Feb-24,6-Mar-24,Discharge,Said Zaman,7
+Shift From,ER,No,617,292,F,,28-Feb-24,29-Feb-24,Expire,Tariq Nawaz,1
+Shift From,CMM,No,621,296,M,,28-Feb-24,5-Mar-24,Expire,Malik Faisal,6
+Shift From,ER,No,626,301,M,,29-Feb-24,2-Mar-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,628,303,M,,29-Feb-24,2-Mar-24,Discharge,Samra Rehmat,2
+Shift From,ER,No,629,304,M,,29-Feb-24,1-Mar-24,Discharge,Malik Faisal,1
+Shift From,ER,No,631,306,M,,29-Feb-24,4-Mar-24,Discharge,Asif Iqbal,4
+Shift From,ER,No,632,307,F,,29-Feb-24,3-Mar-24,Discharge,Samra Rehmat,3
+Shift From,ER,No,644,7,F,,2-Mar-24,6-Mar-24,Discharge,Jabar Ali,4
+Shift From,ER,No,645,8,F,,2-Mar-24,3-Mar-24,Discharge,Imran Khan,1
+Shift From,ER,No,647,10,F,,2-Mar-24,4-Mar-24,Discharge,Sher Bahadar,2
+Shift From,ER,No,648,11,M,,2-Mar-24,4-Mar-24,Discharge,Imran Khan,2
+Shift From,ER,No,660,23,F,,3-Mar-24,5-Mar-24,Discharge,Malik Faisal,2
+Shift From,ER,No,661,24,M,,3-Mar-24,5-Mar-24,Discharge,Malik Faisal,2
+Shift From,ER,No,664,27,F,,4-Mar-24,5-Mar-24,Discharge,Imran Khan,1
+Shift From,ER,No,669,32,M,,4-Mar-24,19-Mar-24,Discharge,Sher Bahadar,15
+Shift From,ER,No,670,33,F,,4-Mar-24,12-Mar-24,Discharge,Said Zaman,8
+Shift From,ER,No,671,34,M,,4-Mar-24,6-Mar-24,Discharge,Asif Iqbal,2
+Shift From,ER,No,673,36,F,,4-Mar-24,6-Mar-24,Shifted,Jabar Ali,2
+Shift From,ER,No,674,37,M,,4-Mar-24,15-Mar-24,Discharge,Asif Iqbal,11
+Shift From,ER,No,685,48,M,,5-Mar-24,6-Mar-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,686,49,F,,5-Mar-24,6-Mar-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,691,54,F,,5-Mar-24,8-Mar-24,Discharge,Asif Iqbal,3
+Shift From,ER,No,692,55,F,,5-Mar-24,7-Mar-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,696,59,M,,5-Mar-24,11-Mar-24,Discharge,Tariq Nawaz,6
+Shift From,ER,No,700,63,F,,6-Mar-24,7-Mar-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,701,64,M,,6-Mar-24,7-Mar-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,702,65,M,,6-Mar-24,23-Mar-24,Discharge,Tariq Nawaz,17
+Shift From,ER,No,703,66,M,,6-Mar-24,8-Mar-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,743,106,M,,9-Mar-24,14-Mar-24,Discharge,Imran Khan,5
+Shift From,ER,No,746,109,M,,9-Mar-24,11-Mar-24,Discharge,Said Zaman,2
+Shift From,ER,No,749,112,M,,9-Mar-24,19-Mar-24,Discharge,Imran Khan,10
+Shift From,ER,No,754,117,F,,10-Mar-24,16-Mar-24,Discharge,Said Zaman,6
+Shift From,ER,No,755,118,F,,10-Mar-24,12-Mar-24,Discharge,Said Zaman,2
+Shift From,ER,No,756,119,M,,10-Mar-24,14-Mar-24,Discharge,Said Zaman,4
+Shift From,ER,No,763,126,F,,11-Mar-24,15-Mar-24,Discharge,Jabar Ali,4
+Shift From,ER,No,776,139,M,,12-Mar-24,17-Mar-24,Discharge,Asif Iqbal,5
+Shift From,ER,No,779,142,M,,12-Mar-24,15-Mar-24,Discharge,Tariq Nawaz,3
+Shift From,ER,No,788,151,M,,13-Mar-24,14-Mar-24,Discharge,Tariq Nawaz,1
+Shift From,ER,No,789,152,F,,13-Mar-24,16-Mar-24,Discharge,Tariq Nawaz,3
+Shift From,ER,No,792,155,M,,13-Mar-24,15-Mar-24,Discharge,Jabar Ali,2
+Shift From,ER,No,797,160,F,,14-Mar-24,16-Mar-24,Discharge,Malik Faisal,2
+Shift From,ER,No,798,161,F,,14-Mar-24,19-Mar-24,Discharge,Asif Iqbal,5
+Shift From,ER,yes,800,163,F,,14-Mar-24,16-Mar-24,Discharge,Asif Iqbal,2
+Shift From,ER,yes,835,198,F,,17-Mar-24,20-Mar-24,Discharge,Malik Faisal,3
+Shift From,ER,No,836,199,F,,17-Mar-24,19-Mar-24,Discharge,Malik Faisal,2
+Shift From,ER,No,837,200,M,,17-Mar-24,20-Mar-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,838,201,M,,17-Mar-24,18-Mar-24,Discharge,Said Zaman,1
+Shift From,ER,yes,839,202,M,,17-Mar-24,19-Mar-24,Discharge,Malik Faisal,2
+ER,ER,No,840,203,F,,17-Mar-24,22-Mar-24,Discharge,Imran Khan,5
+Shift From,ER,No,842,205,M,,18-Mar-24,21-Mar-24,Discharge,Asif Iqbal,3
+Shift From,ER,No,843,206,M,,18-Mar-24,20-Mar-24,Discharge,Ikram Ullah,2
+Shift From,ER,No,844,207,M,,18-Mar-24,18-Mar-24,LAMA,Asif Iqbal,0
+Shift From,ER,yes,856,219,F,,19-Mar-24,21-Mar-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,857,220,M,,19-Mar-24,21-Mar-24,Discharge,Sher Bahadar,2
+Shift From,pos cath,yes,863,226,M,,19-Mar-24,20-Mar-24,Expire,Jabar Ali,1
+Shift From,ER,yes,870,233,F,,20-Mar-24,30-Mar-24,Discharge,Said Zaman,10
+Shift From,ER,No,872,235,M,,20-Mar-24,21-Mar-24,Discharge,Imran Khan,1
+Shift From,ER,yes,875,238,M,,20-Mar-24,23-Mar-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,876,239,M,,20-Mar-24,25-Mar-24,Discharge,Malik Faisal,5
+Shift From,ER,No,877,240,F,,20-Mar-24,28-Mar-24,Shifted,Said Zaman,8
+Shift From,ER,yes,878,241,F,,20-Mar-24,23-Mar-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,887,250,F,,21-Mar-24,22-Mar-24,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,888,251,F,,21-Mar-24,23-Mar-24,Discharge,Said Zaman,2
+Shift From,MMC,yes,896,259,M,,22-Mar-24,1-Apr-24,Discharge,Malik Faisal,10
+Shift From,Post Cath,yes,898,261,F,,22-Mar-24,23-Mar-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,909,272,M,,23-Mar-24,29-Mar-24,Discharge,Jabar Ali,6
+Shift From,ER,yes,911,274,F,,23-Mar-24,1-Apr-24,Discharge,Imran Khan,9
+Shift From,ER,yes,922,285,M,,25-Mar-24,30-Mar-24,Discharge,Jabar Ali,5
+Shift From,ER,yes,929,292,M,,25-Mar-24,27-Mar-24,Expire,Imran Khan,2
+Shift From,ER,yes,933,296,F,,26-Mar-24,1-Apr-24,Discharge,Imran Khan,6
+Shift From,ER,yes,934,297,M,,26-Mar-24,2-Apr-24,Discharge,Tariq Nawaz,7
+Shift From,ER,yes,938,301,M,,26-Mar-24,27-Mar-24,Discharge,Imran Khan,1
+Shift From,ER,yes,947,310,M,,27-Mar-24,30-Mar-24,Discharge,Asif Iqbal,3
+Shift From,AMU,yes,948,311,M,,27-Mar-24,30-Mar-24,Shifted,Tariq Nawaz,3
+Shift From,Nephro,yes,949,312,M,,27-Mar-24,30-Mar-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,953,316,M,,27-Mar-24,29-Mar-24,Discharge,Ikram Ullah,2
+Shift From,ER,No,963,326,M,,29-Mar-24,11-Apr-24,Shifted,Samra Rehmat,13
+Shift From,ER,No,967,330,M,,29-Mar-24,31-Mar-24,Discharge,Asif Iqbal,2
+Shift From,ER,yes,968,331,F,,29-Mar-24,5-Apr-24,Discharge,Imran Khan,7
+Shift From,ER,yes,969,332,F,,29-Mar-24,30-Mar-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,971,334,F,,29-Mar-24,30-Mar-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,978,341,F,,30-Mar-24,31-Mar-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,981,344,M,,30-Mar-24,31-Mar-24,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,982,345,M,,30-Mar-24,1-Apr-24,Discharge,Malik Faisal,2
+Shift From,Post Cath,yes,983,346,M,,30-Mar-24,4-Apr-24,Discharge,Jabar Ali,5
+Shift From,Post Cath,yes,984,347,M,,30-Mar-24,31-Mar-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,985,348,M,,30-Mar-24,2-Apr-24,Discharge,Asif Iqbal,3
+Shift From,Post Cath,yes,986,349,M,,30-Mar-24,1-Apr-24,Discharge,Jabar Ali,2
+Shift From,Post Cath,yes,987,350,F,,30-Mar-24,30-Mar-24,Discharge,Jabar Ali,0
+Shift From,ER,yes,991,354,M,,31-Mar-24,1-Apr-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,992,355,F,,31-Mar-24,1-Apr-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,993,356,M,,31-Mar-24,2-Apr-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,995,2,F,,1-Apr-24,15-Apr-24,Discharge,Malik Faisal,14
+Shift From,ER,yes,997,4,F,,1-Apr-24,2-Apr-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,998,5,M,,1-Apr-24,4-Apr-24,Discharge,Samra Rehmat,3
+Shift From,ER,yes,999,6,M,,1-Apr-24,3-Apr-24,Discharge,Jabar Ali,2
+Shift From,Post Cath,yes,1000,7,M,,1-Apr-24,2-Apr-24,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,1001,8,M,,1-Apr-24,2-Apr-24,Discharge,Adil,1
+Shift From,ER,yes,1003,10,M,,1-Apr-24,6-Apr-24,Discharge,Jabar Ali,5
+Shift From,Post Cath,yes,1004,11,F,,1-Apr-24,2-Apr-24,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1005,12,M,,1-Apr-24,3-Apr-24,Discharge,Ikram Ullah,2
+Shift From,ER,yes,1006,13,M,,1-Apr-24,3-Apr-24,Expire,Jabar Ali,2
+Shift From,ER,yes,1015,22,M,,2-Apr-24,3-Apr-24,Expire,Samra Rehmat,1
+Shift From,ER,yes,1016,23,F,,2-Apr-24,6-Apr-24,Discharge,Sher Bahadar,4
+Shift From,ER,yes,1023,30,F,,3-Apr-24,6-Apr-24,Expire,Ikram Ullah,3
+Shift From,ER,yes,1043,50,F,,5-Apr-24,6-Apr-24,Discharge,Said Zaman,1
+Shift From,Post Cath,yes,1044,51,M,,5-Apr-24,6-Apr-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1048,55,F,,6-Apr-24,9-Apr-24,Shifted,Asif Iqbal,3
+Shift From,ER,yes,1049,56,M,,6-Apr-24,8-Apr-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1050,57,M,,6-Apr-24,9-Apr-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1056,63,M,,7-Apr-24,9-Apr-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1058,65,M,,7-Apr-24,8-Apr-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1061,68,F,,7-Apr-24,8-Apr-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1063,70,M,,7-Apr-24,11-Apr-24,Discharge,Jabar Ali,4
+Shift From,ER,yes,1064,71,M,,7-Apr-24,11-Apr-24,Discharge,Jabar Ali,4
+Shift From,ER,yes,1067,74,M,,8-Apr-24,8-Apr-24,Discharge,Asif Iqbal,0
+Shift From,Post Cath,yes,1071,78,M,,8-Apr-24,8-Apr-24,Discharge,Adil,0
+Shift From,Post Cath,yes,1072,79,M,,8-Apr-24,9-Apr-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1073,80,F,,8-Apr-24,9-Apr-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1075,82,M,,8-Apr-24,9-Apr-24,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,1079,86,M,,9-Apr-24,10-Apr-24,Discharge,Adil,1
+Shift From,Post Cath,yes,1080,87,F,,9-Apr-24,10-Apr-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1081,88,M,,9-Apr-24,19-May-24,Expire,Tariq Nawaz,40
+Shift From,Post Cath,yes,1083,90,M,,9-Apr-24,10-Apr-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1084,91,F,,9-Apr-24,11-Apr-24,Discharge,Tariq Nawaz,2
+Shift From,Post Cath,No,1086,93,M,,9-Apr-24,11-Apr-24,Discharge,Jabar Ali,2
+Shift From,ER,No,1087,94,M,,10-Apr-24,12-Apr-24,Discharge,Jabar Ali,2
+Shift From,ER,No,1088,95,F,,10-Apr-24,15-Apr-24,Discharge,Jabar Ali,5
+Shift From,ER,yes,1089,96,F,,10-Apr-24,16-Apr-24,LAMA,Tariq Nawaz,6
+Shift From,AMU-M,yes,1090,97,M,,10-Apr-24,13-Apr-24,Discharge,Syed Asif Akbar,3
+Shift From,Post Cath,yes,1093,100,M,,11-Apr-24,11-Apr-24,Discharge,Tariq Nawaz,0
+Shift From,ER,yes,1095,102,F,,11-Apr-24,14-Apr-24,Discharge,Tariq Nawaz,3
+Shift From,Post Cath,yes,1096,103,M,,11-Apr-24,13-Apr-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1097,104,M,,11-Apr-24,12-Apr-24,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,1098,105,M,,11-Apr-24,13-Apr-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1099,106,M,,11-Apr-24,12-Apr-24,Expire,Tariq Nawaz,1
+Shift From,ER,yes,1107,114,F,,12-Apr-24,16-Apr-24,Discharge,Said Zaman,4
+Shift From,ER,No,1120,127,F,,14-Apr-24,16-Apr-24,Discharge,Tariq Nawaz,2
+Shift From,Post Cath,yes,1121,128,F,,14-Apr-24,18-Apr-24,Discharge,Imran Khan,4
+Shift From,ER,yes,1135,142,F,,15-Apr-24,18-Apr-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1136,143,F,,15-Apr-24,18-Apr-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1137,144,M,,15-Apr-24,19-Apr-24,Discharge,Jabar Ali,4
+Shift From,ER,yes,1138,145,M,,15-Apr-24,18-Apr-24,Discharge,Jabar Ali,3
+Shift From,ER,yes,1143,150,M,,16-Apr-24,24-Apr-24,Discharge,Tariq Nawaz,8
+Shift From,ER,yes,1144,151,M,,16-Apr-24,30-Apr-24,Discharge,Tariq Nawaz,14
+Shift From,ER,yes,1154,161,F,,17-Apr-24,20-Apr-24,Discharge,Jabar Ali,3
+Shift From,ER,yes,1155,162,M,,17-Apr-24,19-Apr-24,Discharge,Arshad Sohail,2
+Shift From,ER,yes,1156,163,M,,17-Apr-24,24-Apr-24,Discharge,Imran Khan,7
+Shift From,ER,yes,1157,164,M,,17-Apr-24,18-Apr-24,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1160,167,M,,17-Apr-24,23-Apr-24,Discharge,Malik Faisal,6
+Shift From,Post Cath,yes,1161,168,F,,17-Apr-24,23-Apr-24,Discharge,Ikram Ullah,6
+Shift From,Post Cath,yes,1163,170,F,,17-Apr-24,18-Apr-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1177,184,M,,18-Apr-24,21-Apr-24,Discharge,Malik Faisal,3
+Shift From,Post Cath,yes,1178,185,M,,18-Apr-24,19-Apr-24,Discharge,Sher Bahadar,1
+Shift From,ER,yes,1179,186,M,,18-Apr-24,23-Apr-24,Discharge,Malik Faisal,5
+Shift From,Post Cath,yes,1183,190,M,,18-Apr-24,19-Apr-24,Discharge,Imran Khan,1
+ER,DER,yes,1186,193,M,,19-Apr-24,25-Apr-24,Discharge,Said Zaman,6
+Shift From,ER,yes,1187,194,M,,19-Apr-24,24-Apr-24,Discharge,Said Zaman,5
+Shift From,Post Cath,yes,1188,195,M,,19-Apr-24,20-Apr-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1190,197,F,,19-Apr-24,25-Apr-24,Discharge,Ikram Ullah,6
+Shift From,ER,yes,1191,198,F,,19-Apr-24,22-Apr-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1192,199,F,,19-Apr-24,26-Apr-24,Discharge,Said Zaman,7
+Shift From,ER,yes,1193,200,F,,19-Apr-24,23-Apr-24,Discharge,Said Zaman,4
+Shift From,ER,yes,1198,205,F,,20-Apr-24,23-Apr-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1199,206,M,,20-Apr-24,23-Apr-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1201,208,M,,20-Apr-24,23-Apr-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1202,209,F,,20-Apr-24,22-Apr-24,Discharge,Ikram Ullah,2
+Shift From,ER,yes,1206,213,F,,20-Apr-24,22-Apr-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1207,214,M,,20-Apr-24,25-Apr-24,Discharge,Asif Iqbal,5
+Shift From,ER,yes,1210,217,F,,21-Apr-24,23-Apr-24,Discharge,Asif Iqbal,2
+Shift From,ER,yes,1211,218,M,,22-Apr-24,7-May-24,Discharge,Said Zaman,15
+Shift From,ER,yes,1213,220,M,,22-Apr-24,22-Apr-24,LAMA,Asif Iqbal,0
+Shift From,ER,yes,1215,222,F,,22-Apr-24,27-Apr-24,Discharge,Asif Iqbal,5
+Shift From,Post Cath,yes,1216,223,M,,22-Apr-24,24-Apr-24,Discharge,Asif Iqbal,2
+Shift From,ER,yes,1225,232,F,,23-Apr-24,24-Apr-24,Discharge,Malik Faisal,1
+Shift From,Post Cath,yes,1226,233,M,,23-Apr-24,25-Apr-24,Discharge,Ikram Ullah,2
+Shift From,Post Cath,yes,1228,235,M,,23-Apr-24,29-Apr-24,Discharge,Jabar Ali,6
+Shift From,ER,yes,1229,236,F,,23-Apr-24,24-Apr-24,Shifted,Jabar Ali,1
+Shift From,ER,yes,1231,238,F,,23-Apr-24,25-Apr-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1241,248,M,,24-Apr-24,26-Apr-24,Discharge,Jabar Ali,2
+Shift From,Post Cath,yes,1243,250,M,,24-Apr-24,26-Apr-24,Discharge,Sher Bahadar,2
+Shift From,Post Cath,yes,1244,251,M,,24-Apr-24,25-Apr-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1247,254,M,,24-Apr-24,25-Apr-24,Discharge,Jabar Ali,1
+Shift From,PCW,yes,1248,255,F,,24-Apr-24,26-Apr-24,Shifted,Sadia Ilyas,2
+Shift From,Post Cath,yes,1249,256,F,,24-Apr-24,26-Apr-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1251,258,M,,24-Apr-24,29-Apr-24,Discharge,Asif Iqbal,5
+Shift From,ER,yes,1252,259,F,,24-Apr-24,27-Apr-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1254,261,F,,25-Apr-24,5-May-24,Discharge,Malik Faisal,10
+Shift From,ER,yes,1255,262,F,,25-Apr-24,30-Apr-24,Discharge,Jabar Ali,5
+Shift From,ER,yes,1256,263,F,,25-Apr-24,3-May-24,Discharge,Imran Khan,8
+Shift From,Post Cath,yes,1257,264,M,,25-Apr-24,27-Apr-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1261,268,M,,25-Apr-24,26-Apr-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1262,269,M,,25-Apr-24,26-Apr-24,Discharge,Adil,1
+Shift From,ER,yes,1267,274,F,,26-Apr-24,6-May-24,Discharge,Imran Khan,10
+Shift From,ER,yes,1268,275,M,,26-Apr-24,27-Apr-24,Discharge,Samra Rehmat,1
+Shift From,Post Cath,yes,1269,276,M,,26-Apr-24,27-Apr-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1271,278,F,,26-Apr-24,1-May-24,Discharge,Jabar Ali,5
+Shift From,ER,yes,1273,280,F,,26-Apr-24,29-Apr-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1275,282,F,,26-Apr-24,1-May-24,Discharge,Imran Khan,5
+Shift From,ER,yes,1276,283,M,,26-Apr-24,1-May-24,Discharge,Adil,5
+Shift From,ER,yes,1277,284,F,,26-Apr-24,30-Apr-24,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,1282,289,F,,27-Apr-24,30-Apr-24,Discharge,Ikram Ullah,3
+Shift From,Post Cath,yes,1283,290,M,,27-Apr-24,27-Apr-24,Discharge,Imran Khan,0
+Shift From,Post Cath,yes,1284,291,M,,27-Apr-24,29-Apr-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1285,292,M,,27-Apr-24,30-Apr-24,Discharge,Tariq Nawaz,3
+Shift From,Post Cath,yes,1286,293,F,,27-Apr-24,30-Apr-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1287,294,M,,27-Apr-24,7-May-24,Expire,Malik Faisal,10
+Shift From,Post Cath,yes,1288,295,M,,27-Apr-24,29-Apr-24,Expire,Tariq Nawaz,2
+Shift From,Post Cath,yes,1289,296,M,,27-Apr-24,28-Apr-24,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,1290,297,F,,27-Apr-24,3-May-24,Discharge,Tariq Nawaz,6
+Shift From,ER,yes,1291,298,F,,28-Apr-24,3-May-24,Discharge,Imran Khan,5
+Shift From,ER,yes,1292,299,M,,29-Apr-24,1-May-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1293,300,M,,29-Apr-24,1-May-24,Discharge,Jabar Ali,2
+Shift From,ER,yes,1294,301,F,,29-Apr-24,1-May-24,Discharge,Jabar Ali,2
+Shift From,Post Cath,yes,1295,302,M,,29-Apr-24,6-May-24,Discharge,Adil,7
+Shift From,ER,yes,1296,303,M,,29-Apr-24,2-May-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1297,304,F,,29-Apr-24,2-May-24,Discharge,Imran Khan,3
+Shift From,Post Cath,yes,1298,305,M,,29-Apr-24,30-Apr-24,Discharge,Adil,1
+Shift From,ER,yes,1299,306,F,,29-Apr-24,30-Apr-24,Discharge,Sher Bahadar,1
+Shift From,ER,yes,1300,307,M,,29-Apr-24,4-May-24,Discharge,Asif Iqbal,5
+Shift From,S.Pacu,yes,1301,308,F,,29-Apr-24,3-May-24,Discharge,Tariq Nawaz,4
+Shift From,Post Cath,yes,1302,309,F,,29-Apr-24,30-Apr-24,Discharge,Adil,1
+Shift From,ER,yes,1306,313,F,,30-Apr-24,5-May-24,Discharge,Malik Faisal,5
+Shift From,ER,yes,1307,314,F,,30-Apr-24,4-May-24,Discharge,Malik Faisal,4
+Shift From,ER,yes,1328,13,M,,2-May-24,6-May-24,Discharge,Jabar Ali,4
+Shift From,ER,yes,1329,14,F,,2-May-24,9-May-24,Discharge,Imran Khan,7
+Shift From,GICU Old,yes,1330,15,F,,2-May-24,8-May-24,Discharge,Malik Faisal,6
+Shift From,Post Cath,yes,1331,16,M,,2-May-24,4-May-24,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1332,17,M,,3-May-24,9-May-24,Discharge,Imran Khan,6
+Shift From,ER,yes,1333,18,M,,3-May-24,4-May-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1334,19,F,,3-May-24,8-May-24,Discharge,Malik Faisal,5
+Shift From,ER,yes,1335,20,M,,3-May-24,6-May-24,Discharge,Asif Iqbal,3
+Shift From,Post Cath,yes,1336,21,M,,3-May-24,7-May-24,Discharge,Sher Bahadar,4
+Shift From,ER,yes,1337,22,M,,3-May-24,5-May-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1338,23,F,,3-May-24,13-May-24,Discharge,Malik Faisal,10
+Shift From,Post Cath,yes,1339,24,M,,3-May-24,4-May-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1340,25,F,,3-May-24,11-May-24,Discharge,Asif Iqbal,8
+Shift From,ER,yes,1341,26,M,,3-May-24,6-May-24,Discharge,Samra Rehmat,3
+Shift From,Post Cath,yes,1342,27,M,,4-May-24,5-May-24,Discharge,Samra Rehmat,1
+Shift From,Post Cath,yes,1343,28,M,,4-May-24,5-May-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1344,29,M,,4-May-24,6-May-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1345,30,M,,4-May-24,11-May-24,Discharge,Malik Faisal,7
+Shift From,Post Cath,yes,1346,31,F,,4-May-24,5-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1347,32,F,,4-May-24,9-May-24,Discharge,Imran Khan,5
+Shift From,ER,yes,1348,33,M,,4-May-24,10-May-24,Discharge,Imran Khan,6
+Shift From,ER,yes,1349,34,M,,4-May-24,6-May-24,Discharge,Samra Rehmat,2
+Shift From,Post Cath,yes,1350,35,M,,4-May-24,6-May-24,Discharge,Ikram Ullah,2
+Shift From,Post Cath,yes,1351,36,M,,4-May-24,6-May-24,Discharge,Ikram Ullah,2
+Shift From,ER,No,1352,37,F,,4-May-24,8-May-24,Discharge,Malik Faisal,4
+Shift From,ER,yes,1353,38,M,,5-May-24,9-May-24,Discharge,Samra Rehmat,4
+Shift From,Post Cath,yes,1354,39,M,,5-May-24,6-May-24,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,1355,40,M,,5-May-24,7-May-24,Discharge,Ikram Ullah,2
+Shift From,Post Cath,yes,1356,41,F,,5-May-24,6-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1357,42,M,,5-May-24,19-May-24,Discharge,Jabar Ali,14
+ER,ER,yes,1358,43,M,,5-May-24,6-May-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1359,44,F,,5-May-24,11-May-24,Discharge,Malik Faisal,6
+Shift From,ER,yes,1360,45,M,,5-May-24,6-May-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1361,46,M,,6-May-24,8-May-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1362,47,M,,6-May-24,7-May-24,Discharge,Ikram Ullah,1
+Shift From,PCW,yes,1363,48,M,,6-May-24,15-May-24,Discharge,Syed Asif Akbar,9
+Shift From,ER,yes,1364,49,F,,6-May-24,7-May-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1365,50,F,,6-May-24,9-May-24,Discharge,Samra Rehmat,3
+Shift From,Post Cath,yes,1366,51,M,,6-May-24,10-May-24,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,1367,52,M,,6-May-24,7-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1368,53,M,,6-May-24,14-May-24,Discharge,Tariq Nawaz,8
+Shift From,Post Cath,yes,1369,54,M,,6-May-24,7-May-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1370,55,M,,6-May-24,14-May-24,Discharge,Adil,8
+Shift From,ER,yes,1371,56,M,,6-May-24,12-May-24,Discharge,Ikram Ullah,6
+Shift From,ER,yes,1372,57,M,,6-May-24,23-May-24,Discharge,Imran Khan,17
+Shift From,ER,yes,1376,61,M,,7-May-24,15-May-24,Expire,Imran Khan,8
+Shift From,Post Cath,yes,1377,62,F,,7-May-24,9-May-24,Discharge,Jabar Ali,2
+Shift From,Post Cath,yes,1378,63,M,,7-May-24,8-May-24,Discharge,Adil,1
+Shift From,Post Cath,yes,1379,64,M,,7-May-24,9-May-24,Discharge,Adil,2
+Shift From,ER,yes,1380,65,M,,7-May-24,8-May-24,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,1381,66,M,,7-May-24,9-May-24,Discharge,Adil,2
+Shift From,ER,No,1382,67,F,,7-May-24,7-May-24,Discharge,Imran Khan,0
+Shift From,ER,yes,1383,68,F,,7-May-24,16-May-24,Discharge,Imran Khan,9
+Shift From,ER,yes,1384,69,F,,7-May-24,11-May-24,Discharge,Malik Faisal,4
+Shift From,Post Cath,yes,1385,70,M,,7-May-24,9-May-24,Discharge,Ikram Ullah,2
+Shift From,ER,yes,1386,71,M,,7-May-24,15-May-24,Discharge,Said Zaman,8
+Shift From,ER,yes,1388,73,M,,7-May-24,18-May-24,Discharge,Ikram Ullah,11
+Shift From,Post Cath,yes,1390,75,M,,8-May-24,8-May-24,Discharge,Jabar Ali,0
+Shift From,ER,yes,1391,76,F,,8-May-24,12-May-24,Expire,Jabar Ali,4
+Shift From,Post Cath,yes,1392,77,M,,8-May-24,9-May-24,Discharge,Ikram Ullah,1
+Shift From,PCW,yes,1393,78,M,,8-May-24,10-May-24,Discharge,Sadia Ilyas,2
+Shift From,ER,No,1394,79,M,,8-May-24,9-May-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1398,83,M,,9-May-24,17-May-24,Discharge,Imran Khan,8
+Shift From,ER,yes,1399,84,F,,9-May-24,20-May-24,Discharge,Imran Khan,11
+Shift From,Post Cath,yes,1400,85,M,,9-May-24,10-May-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1401,86,F,,9-May-24,11-May-24,Discharge,Tariq Nawaz,2
+Shift From,Post Cath,yes,1402,87,F,,9-May-24,10-May-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1403,88,F,,9-May-24,16-May-24,Discharge,Imran Khan,7
+Shift From,ER,yes,1404,89,M,,9-May-24,18-May-24,Discharge,Malik Faisal,9
+Shift From,ER,yes,1405,90,F,,9-May-24,21-May-24,Discharge,Adil,12
+ER,ER,yes,1406,91,F,,9-May-24,13-May-24,Discharge,Said Zaman,4
+Shift From,ER,yes,1407,92,F,,9-May-24,18-May-24,Discharge,Malik Faisal,9
+Shift From,PCW,yes,1408,93,F,,9-May-24,15-May-24,Shifted,Sadia Ilyas,6
+Shift From,ER,yes,1411,96,F,,10-May-24,11-May-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1412,97,F,,10-May-24,11-May-24,Discharge,Malik Faisal,1
+Shift From,Post Cath,yes,1413,98,F,,10-May-24,12-May-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1414,99,F,,10-May-24,17-May-24,Discharge,Said Zaman,7
+Shift From,ER,yes,1415,100,F,,10-May-24,12-May-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1419,104,F,,11-May-24,18-May-24,Discharge,Malik Faisal,7
+Shift From,Post Cath,yes,1420,105,M,,11-May-24,13-May-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1421,106,F,,11-May-24,15-May-24,Discharge,Tariq Nawaz,4
+Shift From,Post Cath,yes,1422,107,M,,11-May-24,15-May-24,Discharge,Malik Faisal,4
+Shift From,ER,yes,1423,108,F,,11-May-24,18-May-24,Discharge,Malik Faisal,7
+Shift From,ER,yes,1424,109,F,,11-May-24,15-May-24,Discharge,Malik Faisal,4
+Shift From,ER,No,1425,110,F,,11-May-24,12-May-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1429,114,M,,12-May-24,26-May-24,Discharge,Imran Khan,14
+Shift From,ER,yes,1431,116,F,,13-May-24,20-May-24,Discharge,Malik Faisal,7
+Shift From,ER,yes,1434,119,F,,13-May-24,18-May-24,Discharge,Malik Faisal,5
+Shift From,ER,No,1435,120,F,,13-May-24,14-May-24,Discharge,Sher Bahadar,1
+Shift From,ER,yes,1436,121,F,,13-May-24,14-May-24,Discharge,Malik Faisal,1
+Shift From,Post Cath,yes,1437,122,F,,13-May-24,14-May-24,Discharge,Adil,1
+Shift From,Post Cath,yes,1438,123,M,,13-May-24,14-May-24,Discharge,Adil,1
+Shift From,ER,yes,1439,124,M,,13-May-24,17-May-24,Discharge,Malik Faisal,4
+Shift From,ER,yes,1440,125,F,,13-May-24,14-May-24,Discharge,Adil,1
+Shift From,ER,yes,1441,126,M,,14-May-24,15-May-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1442,127,M,,14-May-24,14-May-24,DOW,Malik Faisal,0
+Shift From,ER,yes,1444,129,M,,14-May-24,26-May-24,Discharge,Imran Khan,12
+Shift From,ER,yes,1445,130,F,,14-May-24,18-May-24,Discharge,Ikram Ullah,4
+Shift From,ER,yes,1446,131,M,,14-May-24,21-May-24,Discharge,Adil,7
+Shift From,ER,yes,1447,132,F,,14-May-24,19-May-24,Discharge,Imran Khan,5
+Shift From,ER,yes,1454,139,F,,15-May-24,17-May-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1455,140,M,,15-May-24,21-May-24,Discharge,Ikram Ullah,6
+Shift From,ER,yes,1457,142,M,,15-May-24,17-May-24,Shifted,Ikram Ullah,2
+Shift From,Post Cath,yes,1458,143,F,,15-May-24,17-May-24,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1459,144,F,,15-May-24,20-May-24,Discharge,Said Zaman,5
+Shift From,ER,yes,1460,145,M,,15-May-24,16-May-24,Discharge,Adil,1
+Shift From,PCW,yes,1461,146,F,,15-May-24,17-May-24,Discharge,Sadia Ilyas,2
+Shift From,ER,yes,1465,150,F,,16-May-24,17-May-24,Discharge,Ikram Ullah,1
+Shift From,Post Cath,yes,1466,151,M,,16-May-24,18-May-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1467,152,F,,16-May-24,24-May-24,Discharge,Said Zaman,8
+Shift From,ER,yes,1468,153,F,,16-May-24,20-May-24,Discharge,Said Zaman,4
+Shift From,ER,yes,1469,154,F,,16-May-24,17-May-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1473,158,M,,17-May-24,18-May-24,Discharge,Sher Bahadar,1
+Shift From,Post Cath,yes,1474,159,M,,17-May-24,18-May-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1475,160,F,,17-May-24,20-May-24,Expire,Said Zaman,3
+Shift From,ER,yes,1476,161,M,,17-May-24,23-May-24,Discharge,Imran Khan,6
+Shift From,ER,yes,1477,162,F,,17-May-24,20-May-24,Shifted,Adil,3
+Shift From,ER,yes,1478,163,M,,17-May-24,20-May-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1479,164,F,,17-May-24,20-May-24,Discharge,Said Zaman,3
+Shift From,ER,yes,1480,165,M,,17-May-24,18-May-24,Discharge,Adil,1
+Shift From,ER,yes,1481,166,M,,17-May-24,18-May-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1482,167,F,,17-May-24,30-May-24,Discharge,Said Zaman,13
+Shift From,ER,yes,1485,170,M,,18-May-24,23-May-24,Discharge,Said Zaman,5
+Shift From,Post Cath,yes,1486,171,F,,18-May-24,20-May-24,Discharge,Asif Iqbal,2
+Shift From,ER,yes,1487,172,F,,18-May-24,23-May-24,Discharge,Samra Rehmat,5
+Shift From,Nephro,yes,1488,173,F,,18-May-24,21-May-24,Discharge,Ikram Ullah,3
+Shift From,Post Cath,yes,1489,174,F,,18-May-24,18-May-24,Shifted,Samra Rehmat,0
+Shift From,Post Cath,yes,1490,175,M,,18-May-24,18-May-24,Shifted,Samra Rehmat,0
+Shift From,ER,yes,1491,176,M,,18-May-24,21-May-24,Discharge,Adil,3
+Shift From,ER,yes,1492,177,M,,18-May-24,23-May-24,Discharge,Imran Khan,5
+Shift From,MMC,yes,1493,178,M,,18-May-24,24-Jun-24,Discharge,Imran Khan,37
+Shift From,ER,yes,1494,179,M,,18-May-24,21-May-24,Discharge,Samra Rehmat,3
+Shift From,Post Cath,yes,1495,180,F,,18-May-24,25-May-24,Discharge,Samra Rehmat,7
+Shift From,ER,yes,1497,182,M,,19-May-24,27-May-24,Discharge,Tariq Nawaz,8
+Shift From,Post Cath,yes,1498,183,F,,19-May-24,20-May-24,Discharge,Tariq Nawaz,1
+Shift From,CV Pacu,yes,1499,184,F,,19-May-24,27-May-24,Shifted,Tariq Nawaz,8
+Shift From,ER,yes,1503,188,M,,20-May-24,21-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1506,191,M,,20-May-24,22-May-24,Discharge,Jabar Ali,2
+Shift From,ER,yes,1507,192,F,,20-May-24,22-May-24,Discharge,Said Zaman,2
+Shift From,ER,No,1508,193,F,,20-May-24,21-May-24,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,1509,194,F,,20-May-24,21-May-24,Discharge,Adil,1
+Shift From,Post Cath,yes,1510,195,F,,20-May-24,21-May-24,Discharge,Adil,1
+Shift From,ER,yes,1511,196,F,,20-May-24,25-May-24,Discharge,Jabar Ali,5
+Shift From,ER,yes,1512,197,F,,20-May-24,24-May-24,Discharge,Imran Khan,4
+Shift From,ER,yes,1513,198,F,,20-May-24,30-May-24,Discharge,Imran Khan,10
+Shift From,ER,yes,1518,203,F,,21-May-24,22-May-24,Discharge,Sher Bahadar,1
+Shift From,ER,yes,1519,204,M,,21-May-24,21-May-24,Discharge,Ikram Ullah,0
+Shift From,Post Cath,yes,1520,205,F,,21-May-24,22-May-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1521,206,M,,21-May-24,30-May-24,Discharge,Imran Khan,9
+Shift From,ER,yes,1522,207,M,,21-May-24,3-Jun-24,Discharge,Tariq Nawaz,13
+Shift From,ER,yes,1523,208,M,,21-May-24,23-May-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1524,209,M,,21-May-24,23-May-24,Discharge,Malik Faisal,2
+Shift From,Post Cath,yes,1525,210,F,,21-May-24,25-May-24,Discharge,Tariq Nawaz,4
+Shift From,Post Cath,yes,1526,211,M,,21-May-24,23-May-24,Discharge,Jabar Ali,2
+Shift From,ER,yes,1527,212,M,,21-May-24,24-May-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1528,213,M,,21-May-24,28-May-24,Discharge,Ikram Ullah,7
+Shift From,ER,yes,1530,215,F,,21-May-24,23-May-24,Discharge,Malik Faisal,2
+Shift From,PCW,No,1531,216,M,,21-May-24,22-May-24,Discharge,Sadia Ilyas,1
+Shift From,ER,yes,1532,217,M,,22-May-24,29-May-24,Discharge,Imran Khan,7
+Shift From,ER,yes,1542,227,M,,23-May-24,23-May-24,Discharge,Samra Rehmat,0
+Shift From,ER,yes,1543,228,M,,23-May-24,24-May-24,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,1544,229,F,,23-May-24,30-May-24,Discharge,Sher Bahadar,7
+Shift From,ER,yes,1545,230,F,,23-May-24,1-Jun-24,Discharge,Samra Rehmat,9
+Shift From,ER,yes,1546,231,M,,23-May-24,29-May-24,Discharge,Tariq Nawaz,6
+Shift From,ER,yes,1550,235,M,,23-May-24,27-May-24,Discharge,Samra Rehmat,4
+Shift From,ER,yes,1551,236,F,,23-May-24,26-May-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1553,238,M,,24-May-24,27-May-24,Discharge,Imran Khan,3
+Shift From,ER,No,1554,239,F,,24-May-24,30-May-24,Discharge,Imran Khan,6
+Shift From,Post Cath,yes,1555,240,M,,24-May-24,28-May-24,Discharge,Asif Iqbal,4
+Shift From,ER,No,1556,241,F,,24-May-24,25-May-24,Discharge,Samra Rehmat,1
+Shift From,Post Cath,No,1557,242,M,,24-May-24,25-May-24,Discharge,Adil,1
+Shift From,ER,No,1558,243,M,,24-May-24,25-May-24,Discharge,Imran Khan,1
+Shift From,ER,No,1559,244,M,,24-May-24,31-May-24,Discharge,Malik Faisal,7
+Shift From,ER,No,1560,245,M,,24-May-24,27-May-24,Discharge,Sher Bahadar,3
+Shift From,ER,yes,1561,246,F,,24-May-24,28-May-24,Discharge,Adil,4
+Shift From,ER,yes,1562,247,M,,24-May-24,1-Jun-24,Discharge,Malik Faisal,8
+Shift From,ER,yes,1563,248,M,,24-May-24,27-May-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1564,249,F,,24-May-24,31-May-24,Expire,Malik Faisal,7
+Shift From,ER,yes,1565,250,F,,25-May-24,29-May-24,Discharge,Malik Faisal,4
+Shift From,Post Cath,yes,1570,255,F,,25-May-24,29-May-24,Discharge,Asif Iqbal,4
+Shift From,Post Cath,yes,1571,256,M,,25-May-24,28-May-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1572,257,F,,26-May-24,3-Jun-24,Discharge,Imran Khan,8
+Shift From,ER,yes,1573,258,F,,26-May-24,29-May-24,Shifted,Samra Rehmat,3
+Shift From,ER,yes,1574,259,F,,26-May-24,31-May-24,Discharge,Asif Iqbal,5
+Shift From,Post Cath,yes,1575,260,M,,26-May-24,27-May-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1576,261,F,,26-May-24,1-Jun-24,Discharge,Asif Iqbal,6
+Shift From,ER,yes,1577,262,F,,26-May-24,1-Jun-24,Discharge,Samra Rehmat,6
+Shift From,Post Cath,yes,1578,263,M,,26-May-24,27-May-24,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,1579,264,M,,26-May-24,27-May-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1580,265,M,,27-May-24,29-May-24,LAMA,Ikram Ullah,2
+Shift From,ER,yes,1581,266,F,,27-May-24,28-May-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1582,267,F,,27-May-24,28-May-24,Discharge,Jabar Ali,1
+Shift From,PCW,yes,1583,268,M,,27-May-24,31-May-24,Discharge,Asif Iqbal,4
+Shift From,ER,No,1584,269,F,,27-May-24,30-May-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1585,270,M,,27-May-24,28-May-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1586,271,F,,27-May-24,30-May-24,Discharge,Samra Rehmat,3
+Shift From,Post Cath,yes,1587,272,M,,27-May-24,29-May-24,Discharge,Adil,2
+Shift From,ER,No,1588,273,M,,27-May-24,28-May-24,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1590,275,M,,28-May-24,30-May-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1591,276,F,,28-May-24,29-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1592,277,M,,28-May-24,31-May-24,Discharge,Samra Rehmat,3
+Shift From,ER,No,1593,278,F,,28-May-24,31-May-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1594,279,F,,28-May-24,30-May-24,Discharge,Jabar Ali,2
+Shift From,ER,yes,1595,280,F,,28-May-24,30-May-24,Discharge,Adil,2
+Shift From,ER,yes,1596,281,M,,28-May-24,30-May-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1597,282,M,,28-May-24,29-May-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1598,283,M,,28-May-24,31-May-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1601,286,M,,29-May-24,31-May-24,Expire,Adil,2
+Shift From,ER,yes,1602,287,F,,29-May-24,30-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1603,288,M,,29-May-24,31-May-24,Discharge,Sadia Ilyas,2
+Shift From,ER,yes,1604,289,M,,29-May-24,31-May-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1605,290,M,,29-May-24,2-Jun-24,Discharge,Adil,4
+Shift From,ER,yes,1606,291,M,,29-May-24,1-Jun-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1607,292,F,,29-May-24,30-May-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1608,293,M,,29-May-24,31-May-24,Discharge,Said Zaman,2
+Shift From,ER,yes,1609,294,F,,29-May-24,31-May-24,Discharge,Adil,2
+Shift From,ER,yes,1613,298,M,,30-May-24,6-Jun-24,Discharge,Imran Khan,7
+Shift From,ER,yes,1614,299,M,,30-May-24,2-Jun-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1615,300,M,,30-May-24,31-May-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1616,301,F,,30-May-24,31-May-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1617,302,M,,30-May-24,31-May-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1618,303,F,,30-May-24,4-Jun-24,Discharge,Ikram Ullah,5
+Shift From,ER,yes,1619,304,M,,30-May-24,2-Jun-24,Expire,Tariq Nawaz,3
+Shift From,ER,yes,1620,305,F,,30-May-24,6-Jun-24,Discharge,Imran Khan,7
+Shift From,ER,yes,1621,306,M,,30-May-24,9-Jul-24,Discharge,Said Zaman,40
+Shift From,ER,yes,1622,307,F,,30-May-24,5-Jun-24,Discharge,Jabar Ali,6
+Shift From,ER,yes,1623,308,F,,30-May-24,2-Jun-24,LAMA,Imran Khan,3
+Shift From,ER,yes,1624,309,F,,30-May-24,9-Jun-24,Discharge,Adil,10
+Shift From,ER,yes,1625,310,M,,30-May-24,1-Jun-24,Discharge,Said Zaman,2
+Shift From,ER,yes,1626,311,M,,30-May-24,7-Jun-24,Discharge,Said Zaman,8
+Shift From,ER,yes,1627,312,M,,30-May-24,3-Jun-24,Discharge,Ikram Ullah,4
+Shift From,ER,yes,1630,315,M,,31-May-24,3-Jun-24,Discharge,Jabar Ali,3
+Shift From,Post Cath,yes,1631,316,F,,31-May-24,8-Jun-24,Discharge,Said Zaman,8
+Shift From,ER,yes,1632,317,F,,31-May-24,3-Jun-24,Discharge,Said Zaman,3
+Shift From,Post Cath,yes,1633,318,M,,31-May-24,2-Jun-24,Discharge,Said Zaman,2
+Shift From,Post Cath,yes,1634,319,M,,31-May-24,3-Jun-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1635,320,F,,31-May-24,1-Jun-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1636,321,F,,31-May-24,4-Jun-24,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,1637,322,M,,31-May-24,4-Jun-24,Discharge,Said Zaman,4
+Shift From,Post Cath,yes,1638,323,M,,31-May-24,1-Jun-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1639,324,F,,31-May-24,5-Jun-24,Discharge,Jabar Ali,5
+Shift From,ER,No,1640,325,F,,31-May-24,4-Jun-24,Discharge,Asif Iqbal,4
+Shift From,ER,No,1641,326,M,,31-May-24,3-Jun-24,Discharge,Said Zaman,3
+Shift From,ER,yes,1642,327,M,,31-May-24,1-Jun-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1643,328,M,,31-May-24,4-Jun-24,Discharge,Tariq Nawaz,4
+Shift From,ER,No,1644,329,M,,31-May-24,2-Jun-24,Discharge,Said Zaman,2
+Shift From,ER,No,1645,330,M,,31-May-24,4-Jun-24,Discharge,Malik Faisal,4
+Shift From,ER,No,1646,331,M,,31-May-24,1-Jun-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1651,5,M,,1-Jun-24,4-Jun-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1652,6,M,,1-Jun-24,10-Jun-24,Discharge,Malik Faisal,9
+Shift From,Post Cath,yes,1654,8,M,,1-Jun-24,3-Jun-24,Discharge,Jabar Ali,2
+Shift From,Post Cath,yes,1657,11,M,,2-Jun-24,3-Jun-24,Discharge,Said Zaman,1
+Shift From,Post Cath,yes,1658,12,M,,2-Jun-24,3-Jun-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1664,18,F,,3-Jun-24,13-Jun-24,Discharge,Tariq Nawaz,10
+Shift From,ER,yes,1665,19,M,,3-Jun-24,5-Jun-24,Discharge,Jabar Ali,2
+Shift From,ER,yes,1666,20,M,,3-Jun-24,4-Jun-24,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,1667,21,M,,3-Jun-24,4-Jun-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1668,22,F,,3-Jun-24,4-Jun-24,Discharge,Ikram Ullah,1
+Shift From,Post Cath,yes,1669,23,M,,3-Jun-24,4-Jun-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1670,24,M,,3-Jun-24,12-Jun-24,Discharge,Jabar Ali,9
+Shift From,ER,yes,1671,25,F,,3-Jun-24,10-Jun-24,Expire,Said Zaman,7
+Shift From,ER,yes,1672,26,F,,3-Jun-24,13-Jun-24,Expire,Adil,10
+Shift From,ER,yes,1673,27,M,,3-Jun-24,10-Jun-24,Discharge,Said Zaman,7
+Shift From,ER,yes,1674,28,M,,3-Jun-24,7-Jun-24,Discharge,Adil,4
+Shift From,ER,yes,1675,29,M,,3-Jun-24,4-Jun-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1676,30,M,,3-Jun-24,6-Jun-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1680,34,M,,4-Jun-24,7-Jun-24,DOW,Adil,3
+Shift From,ER,yes,1681,35,M,,4-Jun-24,5-Jun-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1682,36,M,,4-Jun-24,5-Jun-24,Discharge,Tariq Nawaz,1
+Shift From,PDSC,yes,1683,37,M,,4-Jun-24,7-Jun-24,Discharge,Arshad Sohail,3
+Shift From,ER,yes,1684,38,F,,4-Jun-24,6-Jun-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1685,39,F,,4-Jun-24,10-Jun-24,Discharge,Imran Khan,6
+Shift From,Post Cath,yes,1686,40,M,,4-Jun-24,5-Jun-24,Discharge,Adil,1
+Shift From,Post Cath,yes,1687,41,M,,4-Jun-24,5-Jun-24,Discharge,Adil,1
+Shift From,ER,No,1688,42,F,,4-Jun-24,6-Jun-24,Discharge,Adil,2
+Shift From,ER,yes,1689,43,F,,4-Jun-24,6-Jun-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1690,44,F,,4-Jun-24,8-Jun-24,Discharge,Imran Khan,4
+Shift From,ER,yes,1691,45,F,,4-Jun-24,14-Jun-24,Discharge,Imran Khan,10
+Shift From,Post Cath,yes,1692,46,M,,4-Jun-24,5-Jun-24,Discharge,Jabar Ali,1
+Shift From,Post Cath,yes,1697,51,F,,5-Jun-24,13-Jun-24,Discharge,Jabar Ali,8
+Shift From,ER,yes,1698,52,F,,5-Jun-24,8-Jun-24,Discharge,Jabar Ali,3
+Shift From,ER,yes,1699,53,F,,5-Jun-24,6-Jun-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1700,54,M,,5-Jun-24,6-Jun-24,Discharge,Ikram Ullah,1
+Shift From,ER,No,1701,55,M,,5-Jun-24,10-Jun-24,Discharge,Said Zaman,5
+Shift From,Post Cath,yes,1702,56,M,,5-Jun-24,6-Jun-24,Discharge,Ikram Ullah,1
+Shift From,ER,yes,1703,57,M,,5-Jun-24,8-Jul-24,Discharge,Ikram Ullah,33
+Shift From,Post Cath,yes,1704,58,F,,5-Jun-24,6-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1707,61,F,,6-May-24,11-Jun-24,Discharge,Tariq Nawaz,36
+Shift From,ER,yes,1708,62,M,,6-Jun-24,7-Jun-24,Shifted,Imran Khan,1
+Shift From,ER,yes,1710,64,F,,6-May-24,11-Jun-24,Discharge,Imran Khan,36
+Shift From,ER,yes,1713,67,M,,6-Jun-24,13-Jun-24,Discharge,Ikram Ullah,7
+Shift From,ER,yes,1719,73,F,,7-May-24,16-Jun-24,Discharge,Said Zaman,40
+Shift From,ER,yes,1720,74,F,,7-May-24,7-Jun-24,Discharge,Said Zaman,31
+Shift From,ER,yes,1721,75,M,,7-May-24,15-Jun-24,Discharge,Said Zaman,39
+Shift From,ER,yes,1722,76,F,,7-May-24,15-Jun-24,Discharge,Tariq Nawaz,39
+Shift From,ER,yes,1723,77,M,,7-Jun-24,8-Jun-24,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,1724,78,F,,7-Jun-24,11-Jun-24,Discharge,Imran Khan,4
+Shift From,CSM,No,1725,79,M,,7-Jun-24,11-Jun-24,Discharge,Ikram Ullah,4
+Shift From,ER,No,1726,80,F,,7-Jun-24,8-Jun-24,DOW,Said Zaman,1
+Shift From,ER,yes,1727,81,M,,7-Jun-24,8-Jun-24,Discharge,Malik Faisal,1
+Shift From,ER,No,1729,83,M,,7-Jun-24,11-Jun-24,Discharge,Asif Iqbal,4
+Shift From,Post Cath,yes,1732,86,M,,7-Jun-24,8-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1733,87,M,,8-Jun-24,15-Jun-24,Discharge,Asif Iqbal,7
+Shift From,ER,yes,1735,89,F,,8-Jun-24,10-Jun-24,Discharge,Asif Iqbal,2
+Shift From,Cmm,No,1736,90,M,,8-Jun-24,14-Jun-24,Discharge,Sher Bahadar,6
+Shift From,ER,yes,1737,91,M,,8-Jun-24,11-Jun-24,Discharge,Imran Khan,3
+Shift From,Post Cath,yes,1738,92,M,,8-Jun-24,15-Jun-24,Discharge,Said Zaman,7
+Shift From,ER,yes,1740,94,M,,9-Jun-24,13-Jun-24,Discharge,Tariq Nawaz,4
+Shift From,AmU,yes,1741,95,F,,9-Jun-24,12-Jun-24,Shifted,Tariq Nawaz,3
+Shift From,Post Cath,yes,1742,96,M,,9-Jun-24,10-Jun-24,Discharge,Adil,1
+Shift From,ER,yes,1743,97,F,,9-Jun-24,13-Jun-24,Discharge,Asif Iqbal,4
+Shift From,ER,yes,1744,98,M,,9-Jun-24,11-Jun-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1745,99,M,,9-Jun-24,11-Jun-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1746,100,F,,9-Jun-24,10-Jun-24,Discharge,Tariq Nawaz,1
+Shift From,ER,yes,1747,101,M,,10-Jun-24,13-Jun-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1748,102,M,,10-Jun-24,13-Jun-24,Discharge,Jabar Ali,3
+Shift From,Post Cath,yes,1749,103,M,,10-Jun-24,11-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1750,104,F,,10-Jun-24,15-Jun-24,Discharge,Tariq Nawaz,5
+Shift From,ER,yes,1751,105,M,,10-Jun-24,14-Jun-24,Discharge,Jabar Ali,4
+Shift From,Post Cath,yes,1752,106,M,,10-Jun-24,12-Jun-24,LAMA,Imran Khan,2
+Shift From,ER,yes,1753,107,F,,10-Jun-24,13-Jun-24,Discharge,Ikram Ullah,3
+Shift From,ER,yes,1754,108,F,,10-Jun-24,20-Jul-24,Expire,Tariq Nawaz,40
+Shift From,ER,yes,1756,110,M,,11-Jun-24,15-Jun-24,Discharge,Tariq Nawaz,4
+Shift From,ER,yes,1757,111,M,,11-Jun-24,14-Jun-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1758,112,M,,11-Jun-24,16-Jun-24,Discharge,Imran Khan,5
+Shift From,ER,yes,1759,113,M,,11-Jun-24,12-Jun-24,Shifted,Sher Bahadar,1
+Shift From,ER,yes,1760,114,F,,11-Jun-24,13-Jun-24,Discharge,Tariq Nawaz,2
+Shift From,ER,No,1761,115,M,,11-Jun-24,14-Jun-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1762,116,F,,11-Jun-24,16-Jun-24,Discharge,Imran Khan,5
+Shift From,ER,yes,1763,117,F,,11-Jun-24,17-Jun-24,Discharge,Imran Khan,6
+Shift From,PDSC,yes,1764,118,M,,11-Jun-24,14-Jun-24,Discharge,Syed Asif Akbar,3
+Shift From,ER,yes,1765,119,M,,11-Jun-24,14-Jun-24,Discharge,Jabar Ali,3
+Shift From,ER,No,1766,120,M,,11-Jun-24,21-Jun-24,Discharge,Jabar Ali,10
+Shift From,Post Cath,yes,1767,121,M,,12-Jun-24,16-Jun-24,Discharge,Jabar Ali,4
+Shift From,Post Cath,yes,1768,122,M,,12-Jun-24,13-Jun-24,Discharge,Jabar Ali,1
+Shift From,ER,yes,1769,123,M,,12-Jun-24,15-Jun-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1770,124,F,,12-Jun-24,13-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,No,1772,126,F,,13-Jun-24,15-Jun-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1773,127,F,,13-Jun-24,15-Jun-24,Discharge,Said Zaman,2
+Shift From,ER,yes,1774,128,M,,13-Jun-24,14-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1775,129,M,,13-Jun-24,15-Jun-24,Discharge,Samra Rehmat,2
+Shift From,Post Cath,yes,1776,130,M,,13-Jun-24,14-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1777,131,F,,13-Jun-24,16-Jun-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1778,132,F,,13-Jun-24,15-Jun-24,LAMA,Said Zaman,2
+Shift From,ER,yes,1779,133,M,,13-Jun-24,15-Jun-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1780,134,M,,13-Jun-24,14-Jun-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1781,135,M,,13-Jun-24,15-Jun-24,Discharge,Said Zaman,2
+Shift From,ER,yes,1782,136,F,,13-Jun-24,16-Jun-24,Discharge,Said Zaman,3
+Shift From,ER,yes,1783,137,F,,13-Jun-24,25-Jun-24,Discharge,Malik Faisal,12
+Shift From,ER,yes,1784,138,M,,13-Jun-24,14-Jun-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1785,139,M,,13-Jun-24,21-Jun-24,Expire,Imran Khan,8
+Shift From,ER,yes,1787,141,M,,14-Jun-24,14-Jun-24,Discharge,Said Zaman,0
+Shift From,Post Cath,yes,1790,144,M,,14-Jun-24,18-Jun-24,Discharge,Malik Faisal,4
+Shift From,ER,yes,1791,145,M,,14-Jun-24,16-Jun-24,Discharge,Sher Bahadar,2
+Shift From,ER,yes,1792,146,F,,14-Jun-24,15-Jun-24,Expire,Said Zaman,1
+Shift From,ER,yes,1793,147,M,,14-Jun-24,16-Jun-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1798,152,F,,15-Jun-24,15-Jul-24,Expire,Malik Faisal,30
+Shift From,ER,No,1799,153,F,,15-Jun-24,15-Jun-24,Discharge,Malik Faisal,0
+Shift From,ER,yes,1800,154,F,,15-Jun-24,26-Jun-24,Discharge,Malik Faisal,11
+Shift From,ER,No,1801,155,F,,15-Jun-24,26-Jun-24,Discharge,Malik Faisal,11
+Shift From,chest,yes,1802,156,M,,15-Jun-24,20-Jun-24,Expire,Sher Bahadar,5
+Shift From,Post Cath,yes,1803,157,M,,15-Jun-24,18-Jun-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1806,160,F,,16-Jun-24,18-Jun-24,Discharge,Imran Khan,2
+Shift From,ER,No,1807,161,M,,16-Jun-24,16-Jun-24,Discharge,Imran Khan,0
+Shift From,ER,yes,1808,162,F,,16-Jun-24,16-Jun-24,Discharge,Imran Khan,0
+Shift From,ER,No,1809,163,F,,16-Jun-24,28-Jun-24,Discharge,Imran Khan,12
+Shift From,Post Cath,yes,1810,164,M,,16-Jun-24,18-Jun-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1811,165,F,,16-Jun-24,18-Jun-24,Discharge,Imran Khan,2
+Shift From,Post Cath,yes,1812,166,M,,16-Jun-24,18-Jun-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1813,167,F,,16-Jun-24,18-Jun-24,Discharge,Imran Khan,2
+Shift From,ER,yes,1814,168,F,,16-Jun-24,19-Jun-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1815,169,F,,16-Jun-24,23-Jun-24,Discharge,Malik Faisal,7
+Shift From,Post Cath,yes,1816,170,M,,16-Jun-24,18-Jun-24,Discharge,Malik Faisal,2
+Shift From,cath lab,yes,1817,171,M,,17-Jun-24,18-Jun-24,Discharge,Malik Faisal,1
+Shift From,cath lab,yes,1818,172,M,,17-Jun-24,18-Jun-24,Discharge,Malik Faisal,1
+Shift From,ER,No,1824,178,M,,17-Jun-24,18-Jun-24,Discharge,Tariq Nawaz,1
+Shift From,Post Cath,yes,1833,187,M,,19-Jun-24,20-Jun-24,Discharge,Malik Faisal,1
+ER,DER,yes,1838,192,M,,19-Jun-24,24-Jun-24,Discharge,Malik Faisal,5
+Shift From,ER,yes,1839,193,M,,19-Jun-24,20-Jun-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1841,195,M,,19-Jun-24,29-Jun-24,Discharge,Samra Rehmat,10
+Shift From,Post Cath,yes,1842,196,M,,19-Jun-24,20-Jun-24,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,1843,197,F,,19-Jun-24,20-Jun-24,Discharge,Asif Iqbal,1
+Shift From,Post Cath,yes,1844,198,M,,19-Jun-24,20-Jun-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1845,199,F,,20-Jun-24,22-Jun-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1846,200,M,,20-Jun-24,25-Jun-24,Discharge,Malik Faisal,5
+Shift From,ER,yes,1847,201,M,,20-Jun-24,21-Jun-24,Discharge,Malik Faisal,1
+Shift From,ER,No,1848,202,M,,20-Jun-24,23-Jun-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1849,203,F,,20-Jun-24,27-Jun-24,Discharge,Samra Rehmat,7
+Shift From,ER,yes,1850,204,F,,20-Jun-24,21-Jun-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1851,205,F,,20-Jun-24,22-Jun-24,Discharge,Said Zaman,2
+Shift From,ER,yes,1852,206,M,,20-Jun-24,24-Jun-24,Discharge,Imran Khan,4
+Shift From,Post Cath,yes,1860,214,M,,21-Jun-24,22-Jun-24,Discharge,Samra Rehmat,1
+Shift From,Post Cath,yes,1861,215,F,,21-Jun-24,22-Jun-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1862,216,M,,21-Jun-24,23-Jun-24,Shifted,Malik Faisal,2
+Shift From,ER,yes,1863,217,M,,21-Jun-24,22-Jun-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1864,218,M,,21-Jun-24,22-Jun-24,Discharge,Asif Iqbal,1
+Shift From,ER,yes,1870,224,M,,22-Jun-24,25-Jun-24,Discharge,Jabar Ali,3
+Shift From,ER,yes,1871,225,F,,22-Jun-24,27-Jun-24,Discharge,Samra Rehmat,5
+Shift From,ER,yes,1873,227,M,,22-Jun-24,25-Jun-24,Discharge,Asif Iqbal,3
+Shift From,ER,yes,1874,228,M,,22-Jun-24,24-Jun-24,Expire,Malik Faisal,2
+Shift From,ER,No,1875,229,M,,22-Jun-24,29-Jun-24,Discharge,Malik Faisal,7
+Shift From,Post Cath,yes,1879,233,M,,22-Jun-24,24-Jun-24,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1882,236,F,,23-Jun-24,24-Jun-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1892,246,F,,24-Jun-24,25-Jun-24,Expire,Samra Rehmat,1
+Shift From,ER,yes,1893,247,F,,24-Jun-24,26-Jun-24,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1894,248,M,,24-Jun-24,25-Jun-24,Discharge,Samra Rehmat,1
+Shift From,ER,yes,1895,249,M,,24-Jun-24,4-Jul-24,Discharge,Imran Khan,10
+Shift From,Post Cath,yes,1896,250,F,,24-Jun-24,25-Jun-24,Expire,Samra Rehmat,1
+Shift From,ER,yes,1897,251,F,,24-Jun-24,28-Jun-24,Discharge,Samra Rehmat,4
+Shift From,ER,yes,1898,252,M,,24-Jun-24,30-Jun-24,Discharge,Malik Faisal,6
+Shift From,ER,yes,1899,253,M,,24-Jun-24,28-Jun-24,Expire,Adil,4
+Shift From,ER,yes,1900,254,M,,24-Jun-24,2-Jul-24,Discharge,Jabar Ali,8
+Shift From,Post Cath,yes,1901,255,M,,24-Jun-24,25-Jun-24,Discharge,Malik Faisal,1
+Shift From,ER,yes,1902,256,F,,24-Jun-24,27-Jun-24,LAMA,Adil,3
+Shift From,ER,yes,1903,257,M,,24-Jun-24,1-Jul-24,Discharge,Said Zaman,7
+Shift From,ER,yes,1904,258,M,,24-Jun-24,27-Jun-24,Discharge,Imran Khan,3
+Shift From,Post Cath,yes,1912,266,F,,25-Jun-24,27-Jun-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1913,267,F,,25-Jun-24,28-Jun-24,Discharge,Tariq Nawaz,3
+Shift From,ER,yes,1914,268,M,,25-Jun-24,27-Jun-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1915,269,M,,25-Jun-24,6-Jul-24,Discharge,Imran Khan,11
+Shift From,ER,yes,1916,270,F,,25-Jun-24,11-Jul-24,Discharge,Imran Khan,16
+Shift From,PCW,yes,1924,278,M,,26-Jun-24,28-Jun-24,Discharge,Syed Asif Akbar,2
+Shift From,ER,yes,1925,279,F,,26-Jun-24,29-Jun-24,Discharge,Imran Khan,3
+Shift From,ER,yes,1926,280,F,,26-Jun-24,4-Jul-24,Discharge,Imran Khan,8
+Shift From,ER,yes,1928,282,F,,26-Jun-24,28-Jun-24,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1933,287,M,,27-Jun-24,4-Jul-24,Discharge,Ikram Ullah,7
+Shift From,Post Cath,yes,1934,288,M,,27-Jun-24,28-Jun-24,Discharge,Imran Khan,1
+Shift From,ER,yes,1935,289,F,,27-Jun-24,6-Jul-24,Discharge,Samra Rehmat,9
+Shift From,ER,yes,1936,290,F,,27-Jun-24,29-Jun-24,Discharge,Tariq Nawaz,2
+Shift From,ER,yes,1937,291,F,,27-Jun-24,28-Jun-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1938,292,F,,27-Jun-24,27-Jun-24,Expire,Imran Khan,0
+Shift From,AMU,yes,1939,293,F,,27-Jun-24,4-Jul-24,Discharge,Sher Bahadar,7
+Shift From,ER,yes,1940,294,M,,27-Jun-24,29-Jun-24,Discharge,Said Zaman,2
+Shift From,ER,yes,1941,295,M,,27-Jun-24,30-Jun-24,Discharge,Imran Khan,3
+Shift From,Post Cath,yes,1944,298,M,,28-Jun-24,29-Jun-24,Discharge,Malik Faisal,1
+Shift From,Post Cath,yes,1945,299,M,,28-Jun-24,29-Jun-24,Discharge,Said Zaman,1
+Shift From,Post Cath,yes,1946,300,F,,28-Jun-24,29-Jun-24,Discharge,Said Zaman,1
+Shift From,ER,yes,1947,301,F,,28-Jun-24,4-Jul-24,Discharge,Ikram Ullah,6
+Shift From,ER,yes,1948,302,M,,28-Jun-24,4-Jul-24,Discharge,Samra Rehmat,6
+Shift From,ER,yes,1949,303,M,,28-Jun-24,5-Jul-24,Discharge,Said Zaman,7
+Shift From,ER,yes,1950,304,F,,28-Jun-24,30-Jun-24,Discharge,Samra Rehmat,2
+Shift From,ER,yes,1955,309,M,,29-Jun-24,1-Jul-24,Discharge,Malik Faisal,2
+Shift From,ER,yes,1956,310,M,,29-Jun-24,29-Jun-24,Expire,Said Zaman,0
+Shift From,ER,No,1957,311,F,,29-Jun-24,1-Jul-24,Discharge,Malik Faisal,2
+Shift From,ER,No,1958,312,M,,29-Jun-24,29-Jun-24,Discharge,Malik Faisal,0
+Shift From,ER,yes,1959,313,M,,29-Jun-24,3-Jul-24,Discharge,Samra Rehmat,4
+Shift From,ER,yes,1960,314,F,,29-Jun-24,2-Jul-24,Discharge,Malik Faisal,3
+Shift From,ER,yes,1961,315,M,,29-Jun-24,9-Jul-24,Discharge,Malik Faisal,10
+Shift From,Post Cath,yes,1962,316,F,,29-Jun-24,30-Jun-24,Discharge,Imran Khan,1
+Shift From,Post Cath,yes,1963,317,F,,29-Jun-24,2-Jul-24,Discharge,Malik Faisal,3
